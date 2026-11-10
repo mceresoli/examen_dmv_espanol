@@ -1,0 +1,1505 @@
+{
+  "estado": "CA",
+  "version": "2026-11-10",
+  "preguntas": [
+    {
+      "id": "CA-0001",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En California, ¿cuál es la edad mínima para solicitar el permiso de instrucción si eres menor de 18?",
+        "en": "In California, what is the minimum age to apply for an instruction permit if you are under 18?"
+      },
+      "opciones": [
+        {
+          "es": "15 años",
+          "en": "15"
+        },
+        {
+          "es": "15 años y medio",
+          "en": "15½"
+        },
+        {
+          "es": "16 años",
+          "en": "16"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Los menores necesitan tener al menos 15 años y medio, completar educación vial y la firma de un padre o tutor.",
+        "en": "Minors must be at least 15½, complete driver education and have a parent or guardian's signature."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 2 – Permiso de instrucción y licencia",
+        "pagina": 2,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0002",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Siendo menor de 18 en California, ¿cuánto tiempo debes tener el permiso de instrucción antes del examen de manejo?",
+        "en": "As a minor in California, how long must you hold your instruction permit before the driving test?"
+      },
+      "opciones": [
+        {
+          "es": "Por lo menos 6 meses",
+          "en": "At least 6 months"
+        },
+        {
+          "es": "Por lo menos 3 meses",
+          "en": "At least 3 months"
+        },
+        {
+          "es": "Por lo menos 12 meses",
+          "en": "At least 12 months"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Debes tener el permiso al menos 6 meses (o cumplir 18), haber hecho educación y entrenamiento de manejo y tener 16 años o más.",
+        "en": "You must hold the permit at least 6 months (or turn 18), complete driver education and training, and be at least 16."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 2 – Permiso de instrucción y licencia",
+        "pagina": 3,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0003",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Para que un menor saque la licencia en California, ¿cuántas horas de práctica necesita y con quién?",
+        "en": "For a minor to get a California license, how many practice hours are needed and with whom?"
+      },
+      "opciones": [
+        {
+          "es": "20 horas con cualquier adulto",
+          "en": "20 hours with any adult"
+        },
+        {
+          "es": "100 horas con un instructor",
+          "en": "100 hours with an instructor"
+        },
+        {
+          "es": "50 horas (10 de noche) con un conductor con licencia de California de 25 años o más",
+          "en": "50 hours (10 at night) with a California-licensed driver 25 or older"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Se requieren al menos 50 horas de práctica, 10 de ellas de noche, con un conductor con licencia de California de por lo menos 25 años.",
+        "en": "At least 50 hours of practice are required, 10 at night, with a California-licensed driver at least 25."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 2 – Permiso de instrucción y licencia",
+        "pagina": 3,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0004",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Tienes permiso de instrucción en California y eres adulto. ¿Con quién puedes practicar manejo?",
+        "en": "You are an adult with a California instruction permit. Who may you practice with?"
+      },
+      "opciones": [
+        {
+          "es": "Con un conductor con licencia de California de por lo menos 18 años, sentado a tu lado",
+          "en": "A California-licensed driver at least 18, seated beside you"
+        },
+        {
+          "es": "Con cualquier persona con licencia de otro país",
+          "en": "Anyone with a license from another country"
+        },
+        {
+          "es": "Solo",
+          "en": "Alone"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Los adultos practican con un conductor con licencia de California de 18 años o más (25 para menores), lo más cerca posible para tomar el control.",
+        "en": "Adults practice with a California-licensed driver 18 or older (25 for minors), seated close enough to take control."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 2 – Permiso de instrucción y licencia",
+        "pagina": 3,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0005",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Durante el primer año con licencia provisional en California, ¿en qué horario no puedes manejar?",
+        "en": "During the first year with a provisional license in California, during what hours may you not drive?"
+      },
+      "opciones": [
+        {
+          "es": "Entre la medianoche y las 6 a. m.",
+          "en": "Between midnight and 6 a.m."
+        },
+        {
+          "es": "Entre las 11 p. m. y las 5 a. m.",
+          "en": "Between 11 p.m. and 5 a.m."
+        },
+        {
+          "es": "Entre las 10 p. m. y las 6 a. m.",
+          "en": "Between 10 p.m. and 6 a.m."
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Los primeros 12 meses, el conductor provisional no maneja de 11 p. m. a 5 a. m., salvo excepciones con nota (médica, escuela, trabajo o familiar).",
+        "en": "For the first 12 months, provisional drivers may not drive 11 p.m.–5 a.m., except with a signed note (medical, school, work or family need)."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 2 – Restricciones para menores",
+        "pagina": 4,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0006",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Con licencia provisional en California, ¿puedes llevar pasajeros menores de 20 años?",
+        "en": "With a provisional California license, may you carry passengers under 20?"
+      },
+      "opciones": [
+        {
+          "es": "Sí, siempre",
+          "en": "Yes, always"
+        },
+        {
+          "es": "Solo uno",
+          "en": "Only one"
+        },
+        {
+          "es": "No, salvo que te acompañe un padre, tutor u otro conductor con licencia de California de 25 años o más",
+          "en": "No, unless accompanied by a parent, guardian or another California-licensed driver 25 or older"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Durante el primer año, no puedes llevar pasajeros menores de 20 sin un adulto acompañante de 25 años o más.",
+        "en": "During the first year, you may not carry passengers under 20 without an accompanying adult 25 or older."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 2 – Restricciones para menores",
+        "pagina": 4,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0007",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Un menor reprueba el examen teórico en California. ¿Cuánto debe esperar para volver a tomarlo?",
+        "en": "A minor fails the California knowledge test. How long must they wait to retake it?"
+      },
+      "opciones": [
+        {
+          "es": "Siete días, sin contar el día en que reprobó",
+          "en": "Seven days, not counting the day they failed"
+        },
+        {
+          "es": "Puede repetirlo el mismo día",
+          "en": "They can retake it the same day"
+        },
+        {
+          "es": "Un mes",
+          "en": "One month"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Los menores esperan siete días para el teórico y 14 días para el examen de manejo. Puedes tomar el teórico tres veces antes de volver a solicitar.",
+        "en": "Minors wait seven days for the knowledge test and 14 days for the driving test. You may take the knowledge test three times before reapplying."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 3 – Proceso de examinación",
+        "pagina": 5,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0008",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "¿Qué dice la ley de California sobre usar audífonos al manejar?",
+        "en": "What does California law say about wearing headphones while driving?"
+      },
+      "opciones": [
+        {
+          "es": "Está permitido si el volumen es bajo",
+          "en": "It is allowed if the volume is low"
+        },
+        {
+          "es": "Es ilegal usar audífonos o tapones en ambos oídos",
+          "en": "It is illegal to wear headphones or earplugs in both ears"
+        },
+        {
+          "es": "Solo está prohibido de noche",
+          "en": "It is only banned at night"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Tienes que poder oír sirenas, claxon y otros sonidos de peligro. Por eso es ilegal tapar ambos oídos.",
+        "en": "You must be able to hear sirens, horns and other warning sounds, so covering both ears is illegal."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 5 – Introducción al manejo",
+        "pagina": 9,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0009",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En California, ¿cuántos puntos en tu expediente pueden hacer que te suspendan la licencia como adulto?",
+        "en": "In California, how many points on your record can lead to a license suspension as an adult?"
+      },
+      "opciones": [
+        {
+          "es": "4 puntos en 12 meses, 6 en 24 meses u 8 en 36 meses",
+          "en": "4 points in 12 months, 6 in 24 months or 8 in 36 months"
+        },
+        {
+          "es": "12 puntos en 12 meses",
+          "en": "12 points in 12 months"
+        },
+        {
+          "es": "2 puntos en un año",
+          "en": "2 points in a year"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Con esos totales, el DMV te considera un operador negligente y puede ponerte a prueba, suspender o revocar tu licencia.",
+        "en": "At those totals, the DMV considers you a negligent operator and may put you on probation, suspend or revoke your license."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Puntos en el expediente",
+        "pagina": 54,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0010",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "Salvo que se indique otra cosa, ¿cuál es el límite máximo en la mayoría de las autopistas de California?",
+        "en": "Unless otherwise posted, what is the maximum limit on most California freeways?"
+      },
+      "opciones": [
+        {
+          "es": "55 mph",
+          "en": "55 mph"
+        },
+        {
+          "es": "70 mph",
+          "en": "70 mph"
+        },
+        {
+          "es": "65 mph",
+          "en": "65 mph"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "El máximo en la mayoría de las autopistas es 65 mph. En carreteras de dos carriles no divididas y con remolque es 55 mph.",
+        "en": "The maximum on most freeways is 65 mph. On undivided two-lane roads and when towing, it is 55 mph."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Controlar la velocidad",
+        "pagina": 67,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0011",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En California, ¿cuál es el límite en una carretera de dos carriles no dividida, si no hay otra señal?",
+        "en": "In California, what is the limit on an undivided two-lane road if no other sign is posted?"
+      },
+      "opciones": [
+        {
+          "es": "55 mph",
+          "en": "55 mph"
+        },
+        {
+          "es": "65 mph",
+          "en": "65 mph"
+        },
+        {
+          "es": "45 mph",
+          "en": "45 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En carreteras no divididas de dos carriles, y para vehículos que llevan remolque, el límite es 55 mph.",
+        "en": "On undivided two-lane roads, and for vehicles towing trailers, the limit is 55 mph."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Controlar la velocidad",
+        "pagina": 67,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0012",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "¿Qué es la \"ley de velocidad básica\" de California?",
+        "en": "What is California's \"Basic Speed Law\"?"
+      },
+      "opciones": [
+        {
+          "es": "Que siempre puedes ir al límite señalado",
+          "en": "That you may always drive at the posted limit"
+        },
+        {
+          "es": "Que nunca debes manejar más rápido de lo que es seguro para las condiciones",
+          "en": "That you must never drive faster than is safe for conditions"
+        },
+        {
+          "es": "Que el mínimo en autopistas es 45 mph",
+          "en": "That the freeway minimum is 45 mph"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Aunque la señal diga otra cosa, tu velocidad depende del tráfico, el pavimento, el clima y la presencia de peatones o ciclistas.",
+        "en": "Whatever the sign says, your speed depends on traffic, the road surface, weather and pedestrians or cyclists."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Controlar la velocidad",
+        "pagina": 67,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0013",
+      "tema": "velocidad",
+      "senial": "S1-1",
+      "enunciado": {
+        "es": "¿Cuál es el límite de velocidad a menos de 500 pies de una escuela cuando hay niños afuera o cruzando?",
+        "en": "What is the speed limit within 500 feet of a school when children are outside or crossing?"
+      },
+      "opciones": [
+        {
+          "es": "15 mph",
+          "en": "15 mph"
+        },
+        {
+          "es": "35 mph",
+          "en": "35 mph"
+        },
+        {
+          "es": "25 mph",
+          "en": "25 mph"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Cerca de escuelas, con niños presentes, el límite es 25 mph. Algunas zonas escolares tienen 15 mph.",
+        "en": "Near schools with children present, the limit is 25 mph. Some school zones are posted at 15 mph."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – En proximidad de niños",
+        "pagina": 50,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0014",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En California, ¿cuál es el límite de velocidad en un callejón o en una intersección sin visibilidad?",
+        "en": "In California, what is the speed limit in an alley or at a blind intersection?"
+      },
+      "opciones": [
+        {
+          "es": "15 mph",
+          "en": "15 mph"
+        },
+        {
+          "es": "25 mph",
+          "en": "25 mph"
+        },
+        {
+          "es": "5 mph",
+          "en": "5 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En callejones y en intersecciones sin visibilidad (sin señales de alto y con la vista tapada), el límite es 15 mph.",
+        "en": "In alleys and at blind intersections (no stop signs and an obstructed view), the limit is 15 mph."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – En proximidad de niños",
+        "pagina": 51,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0015",
+      "tema": "velocidad",
+      "senial": "W10-1",
+      "enunciado": {
+        "es": "Te acercas a un paso a nivel y no puedes ver las vías 400 pies en ambas direcciones. ¿Cuál es el límite a menos de 100 pies del cruce?",
+        "en": "You approach a railroad crossing and can't see the tracks 400 feet in both directions. What is the limit within 100 feet of the crossing?"
+      },
+      "opciones": [
+        {
+          "es": "25 mph",
+          "en": "25 mph"
+        },
+        {
+          "es": "15 mph",
+          "en": "15 mph"
+        },
+        {
+          "es": "10 mph",
+          "en": "10 mph"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Si no ves las vías 400 pies a cada lado, el límite es 15 mph a 100 pies del cruce, salvo que tenga barreras, señales o personal con banderines.",
+        "en": "If you can't see 400 feet each way, the limit is 15 mph within 100 feet of the crossing, unless it has gates, signals or a flagger."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – En proximidad de niños",
+        "pagina": 51,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0016",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En un distrito comercial o residencial de California, ¿cuál es el límite si no se indica otro?",
+        "en": "In a California business or residential district, what is the limit unless otherwise posted?"
+      },
+      "opciones": [
+        {
+          "es": "35 mph",
+          "en": "35 mph"
+        },
+        {
+          "es": "30 mph",
+          "en": "30 mph"
+        },
+        {
+          "es": "25 mph",
+          "en": "25 mph"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "En distritos comerciales o residenciales el límite es 25 mph, a menos que se indique otra cosa.",
+        "en": "In business or residential districts the limit is 25 mph unless otherwise posted."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Otra información de tránsito importante",
+        "pagina": 52,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0017",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "¿Qué pasa con las multas en una zona de obras de California cuando hay trabajadores presentes?",
+        "en": "What happens to fines in a California work zone when workers are present?"
+      },
+      "opciones": [
+        {
+          "es": "Se duplican y pueden ser de $1,000 o más",
+          "en": "They double and can be $1,000 or more"
+        },
+        {
+          "es": "Son iguales que en otras zonas",
+          "en": "They are the same as elsewhere"
+        },
+        {
+          "es": "No hay multas",
+          "en": "There are no fines"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Las multas en zonas de obras pueden pasar de $1,000 y se duplican cuando hay obreros presentes.",
+        "en": "Work zone fines can exceed $1,000 and double when workers are present."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Zonas de obras viales",
+        "pagina": 49,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0018",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "En California, ¿cuánto puedes circular como máximo por el carril central para dar vuelta a la izquierda?",
+        "en": "In California, how far may you drive in the center left-turn lane?"
+      },
+      "opciones": [
+        {
+          "es": "Hasta 500 pies",
+          "en": "Up to 500 feet"
+        },
+        {
+          "es": "Un máximo de 200 pies",
+          "en": "A maximum of 200 feet"
+        },
+        {
+          "es": "Lo que necesites",
+          "en": "As far as you need"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "El carril central es solo para prepararse y dar vuelta, y se puede circular por él como máximo 200 pies.",
+        "en": "The center lane is only for preparing to turn, and you may drive in it no more than 200 feet."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Demarcaciones y tipos de carriles",
+        "pagina": 16,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0019",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "En California, ¿cuándo puedes dar vuelta a la izquierda con el semáforo en rojo?",
+        "en": "In California, when may you turn left on a red light?"
+      },
+      "opciones": [
+        {
+          "es": "Nunca",
+          "en": "Never"
+        },
+        {
+          "es": "Siempre que no venga nadie",
+          "en": "Whenever no one is coming"
+        },
+        {
+          "es": "Desde una calle de un solo sentido hacia otra calle de un solo sentido, si no hay señal que lo prohíba",
+          "en": "From a one-way street onto another one-way street, if no sign prohibits it"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Puedes hacerlo de un solo sentido a un solo sentido, después de detenerte y ceder el paso a peatones, ciclistas y vehículos con luz verde.",
+        "en": "You may do it from one-way to one-way, after stopping and yielding to pedestrians, cyclists and vehicles with a green light."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Vueltas",
+        "pagina": 20,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0020",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "En una zona residencial de California, ¿cuándo puedes dar vuelta en U?",
+        "en": "In a California residential area, when may you make a U-turn?"
+      },
+      "opciones": [
+        {
+          "es": "Si no se acercan vehículos a menos de 200 pies",
+          "en": "If no vehicles are approaching within 200 feet"
+        },
+        {
+          "es": "Nunca",
+          "en": "Never"
+        },
+        {
+          "es": "Solo frente a una estación de bomberos",
+          "en": "Only in front of a fire station"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En zona residencial puedes dar vuelta en U si no viene ningún vehículo a menos de 200 pies. Nunca frente a una estación de bomberos ni en una calle de un solo sentido.",
+        "en": "In a residential area you may U-turn if no vehicle is within 200 feet. Never in front of a fire station or on a one-way street."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Vueltas",
+        "pagina": 20,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0021",
+      "tema": "carriles_giros",
+      "senial": "R3-4",
+      "enunciado": {
+        "es": "¿Dónde está prohibido dar vuelta en U en California?",
+        "en": "Where is a U-turn illegal in California?"
+      },
+      "opciones": [
+        {
+          "es": "En una intersección con luz verde, si no hay señal que lo prohíba",
+          "en": "At an intersection on a green light, if no sign prohibits it"
+        },
+        {
+          "es": "En una calle de un solo sentido o cuando no puedes ver 200 pies en cada dirección",
+          "en": "On a one-way street or when you can't see 200 feet in each direction"
+        },
+        {
+          "es": "Cruzando una línea amarilla doble",
+          "en": "Across a double yellow line"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Tampoco se permite en pasos a nivel, frente a estaciones de bomberos ni en zonas comerciales fuera de intersecciones.",
+        "en": "It is also illegal at railroad crossings, in front of fire stations, and in business districts except at intersections."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Vueltas",
+        "pagina": 20,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0022",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "En California, ¿qué significan dos juegos de líneas amarillas dobles continuas separados por 2 pies o más?",
+        "en": "In California, what do two sets of solid double yellow lines spaced 2 feet or more apart mean?"
+      },
+      "opciones": [
+        {
+          "es": "Un carril para rebasar",
+          "en": "A passing lane"
+        },
+        {
+          "es": "Un carril para bicicletas",
+          "en": "A bike lane"
+        },
+        {
+          "es": "Que hay que tratarlas como un muro: no se cruzan salvo en aperturas designadas",
+          "en": "That they are like a wall: don't cross them except at designated openings"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "No manejes sobre ese \"muro\" ni lo cruces, ni des vuelta a la izquierda o en U, excepto en aperturas designadas.",
+        "en": "Don't drive on or across this \"wall,\" or make left turns or U-turns across it, except at designated openings."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Demarcaciones y tipos de carriles",
+        "pagina": 13,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0023",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Manejas despacio en una carretera de dos carriles de California y te siguen cinco vehículos o más. ¿Qué debes hacer?",
+        "en": "You are driving slowly on a two-lane California road and five or more vehicles are behind you. What must you do?"
+      },
+      "opciones": [
+        {
+          "es": "Usar un área de apartadero (turnout) para dejarlos pasar",
+          "en": "Use a turnout area to let them pass"
+        },
+        {
+          "es": "Acelerar por encima del límite",
+          "en": "Speed up above the limit"
+        },
+        {
+          "es": "Seguir igual",
+          "en": "Keep going the same"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Debes entrar al apartadero si vas despacio, donde es peligroso rebasar y te siguen cinco o más vehículos.",
+        "en": "You must use a turnout when driving slowly where passing is unsafe and five or more vehicles are behind you."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Demarcaciones y tipos de carriles",
+        "pagina": 16,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0024",
+      "tema": "peatones_ciclistas",
+      "enunciado": {
+        "es": "En California, al rebasar a un ciclista en el mismo carril, ¿qué distancia mínima debes dejar?",
+        "en": "In California, when passing a bicyclist in the same lane, what minimum distance must you leave?"
+      },
+      "opciones": [
+        {
+          "es": "1 pie",
+          "en": "1 foot"
+        },
+        {
+          "es": "3 pies",
+          "en": "3 feet"
+        },
+        {
+          "es": "6 pies",
+          "en": "6 feet"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Deja al menos tres pies. Si no puedes, no rebases hasta que haya espacio.",
+        "en": "Leave at least three feet. If you can't, don't pass until there is room."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Compartir la vía (ciclistas)",
+        "pagina": 48,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0025",
+      "tema": "peatones_ciclistas",
+      "enunciado": {
+        "es": "En California, ¿a qué distancia antes de dar vuelta a la derecha puedes entrar en una ciclovía?",
+        "en": "In California, how far before a right turn may you enter a bike lane?"
+      },
+      "opciones": [
+        {
+          "es": "No más de 200 pies",
+          "en": "No more than 200 feet"
+        },
+        {
+          "es": "500 pies",
+          "en": "500 feet"
+        },
+        {
+          "es": "Nunca puedes entrar",
+          "en": "You may never enter"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Puedes entrar a la ciclovía a no más de 200 pies de la vuelta, fijándote antes si vienen ciclistas.",
+        "en": "You may enter the bike lane no more than 200 feet before the turn, after checking for bicyclists."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Compartir la vía (ciclistas)",
+        "pagina": 48,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0026",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "Al estacionarte en paralelo en California, ¿a qué distancia máxima del borde de acera debe quedar el vehículo?",
+        "en": "When parallel parking in California, how far from the curb may your vehicle be?"
+      },
+      "opciones": [
+        {
+          "es": "12 pulgadas",
+          "en": "12 inches"
+        },
+        {
+          "es": "24 pulgadas",
+          "en": "24 inches"
+        },
+        {
+          "es": "18 pulgadas",
+          "en": "18 inches"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "El vehículo debe quedar paralelo y a no más de 18 pulgadas del borde de acera.",
+        "en": "Your vehicle must be parallel and no more than 18 inches from the curb."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 26,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0027",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "En California, ¿qué significa un borde de acera pintado de rojo?",
+        "en": "In California, what does a red-painted curb mean?"
+      },
+      "opciones": [
+        {
+          "es": "Prohibido parar, esperar o estacionarse",
+          "en": "No stopping, standing or parking"
+        },
+        {
+          "es": "Estacionamiento por tiempo limitado",
+          "en": "Limited-time parking"
+        },
+        {
+          "es": "Solo para cargar y descargar",
+          "en": "Loading and unloading only"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En el borde rojo no se puede parar, esperar ni estacionar. Solo los autobuses pueden parar donde esté marcado \"Bus Only\".",
+        "en": "At a red curb you may not stop, stand or park. Only buses may stop where marked \"Bus Only.\""
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 28,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0028",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "En California, ¿qué significa un borde de acera pintado de verde?",
+        "en": "In California, what does a green-painted curb mean?"
+      },
+      "opciones": [
+        {
+          "es": "Solo para personas con discapacidad",
+          "en": "Disabled parking only"
+        },
+        {
+          "es": "Estacionamiento por tiempo limitado",
+          "en": "Limited-time parking"
+        },
+        {
+          "es": "Prohibido estacionar",
+          "en": "No parking"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Verde: estacionamiento por tiempo limitado, indicado en un letrero o en el borde. Blanco: solo subir o bajar pasajeros.",
+        "en": "Green: limited-time parking, shown on a sign or the curb. White: passenger pickup or drop-off only."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 28,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0029",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "En California, ¿qué significa un borde de acera pintado de blanco?",
+        "en": "In California, what does a white-painted curb mean?"
+      },
+      "opciones": [
+        {
+          "es": "Estacionamiento libre todo el día",
+          "en": "All-day free parking"
+        },
+        {
+          "es": "Solo para carga de camiones",
+          "en": "Truck loading only"
+        },
+        {
+          "es": "Parar solo el tiempo necesario para subir o bajar pasajeros",
+          "en": "Stop only long enough to pick up or drop off passengers"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Blanco: solo subir o bajar pasajeros. Amarillo: carga y descarga o pasajeros, por el tiempo indicado.",
+        "en": "White: passenger pickup or drop-off only. Yellow: loading/unloading or passengers, for the posted time."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 28,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0030",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "En California, ¿qué significa un borde de acera pintado de azul?",
+        "en": "In California, what does a blue-painted curb mean?"
+      },
+      "opciones": [
+        {
+          "es": "Estacionamiento exclusivo para personas con discapacidad con placa o cartel especial",
+          "en": "Parking only for people with disabilities who have a special placard or plate"
+        },
+        {
+          "es": "Estacionamiento para vehículos eléctricos",
+          "en": "Electric vehicle parking"
+        },
+        {
+          "es": "Estacionamiento para la policía",
+          "en": "Police parking"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "El borde azul es para personas con discapacidad, o quien las lleve, que tengan el cartel o placa especial.",
+        "en": "A blue curb is for people with disabilities, or those driving them, who display the special placard or plate."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 28,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0031",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "En California, ¿a qué distancia mínima de un cruce peatonal puedes estacionarte?",
+        "en": "In California, how close to a crosswalk may you park?"
+      },
+      "opciones": [
+        {
+          "es": "5 pies",
+          "en": "5 feet"
+        },
+        {
+          "es": "20 pies (15 si hay una extensión del borde de acera)",
+          "en": "20 feet (15 if there is a curb extension)"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "No te estaciones a menos de 20 pies de un cruce peatonal, marcado o no, o a 15 pies si hay una extensión del borde de acera.",
+        "en": "Don't park within 20 feet of a crosswalk, marked or not, or 15 feet where there is a curb extension."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 28,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0032",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En California, ¿cómo deben viajar los niños menores de 2 años que pesan menos de 40 libras y miden menos de 3 pies y 4 pulgadas?",
+        "en": "In California, how must children under 2 who weigh under 40 pounds and are under 3'4\" ride?"
+      },
+      "opciones": [
+        {
+          "es": "En un sistema de sujeción para niños instalado cara atrás",
+          "en": "In a rear-facing child restraint"
+        },
+        {
+          "es": "Con el cinturón de seguridad normal",
+          "en": "With a regular seat belt"
+        },
+        {
+          "es": "En un asiento elevador mirando hacia adelante",
+          "en": "In a forward-facing booster seat"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Deben ir en una silla instalada cara atrás. Nunca en el asiento delantero si hay bolsa de aire.",
+        "en": "They must ride in a rear-facing seat, never in the front seat with an active airbag."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Protección propia y de sus pasajeros",
+        "pagina": 66,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0033",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En California, ¿hasta qué edad o altura deben ir los niños en un sistema de sujeción en el asiento trasero?",
+        "en": "In California, until what age or height must children ride in a child restraint in the back seat?"
+      },
+      "opciones": [
+        {
+          "es": "Hasta los 5 años",
+          "en": "Until age 5"
+        },
+        {
+          "es": "Hasta los 12 años",
+          "en": "Until age 12"
+        },
+        {
+          "es": "Menores de 8 años o de menos de 4 pies y 9 pulgadas",
+          "en": "Under 8 or shorter than 4'9\""
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los menores de 8 años o de menos de 4 pies 9 pulgadas van en una silla en el asiento trasero, salvo excepciones. Desde ahí pueden usar el cinturón.",
+        "en": "Children under 8 or shorter than 4'9\" ride in a child seat in the back, with some exceptions. After that, they may use the seat belt."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Protección propia y de sus pasajeros",
+        "pagina": 66,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0034",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En California, un pasajero menor de 16 años no lleva el cinturón de seguridad. ¿Quién puede recibir la multa?",
+        "en": "In California, a passenger under 16 isn't wearing a seat belt. Who can be fined?"
+      },
+      "opciones": [
+        {
+          "es": "Nadie",
+          "en": "No one"
+        },
+        {
+          "es": "Tú, el conductor",
+          "en": "You, the driver"
+        },
+        {
+          "es": "Solo el pasajero",
+          "en": "Only the passenger"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Todos deben usar cinturón. Si un pasajero menor de 16 no lo usa, la multa puede ser para el conductor.",
+        "en": "Everyone must buckle up. If a passenger under 16 is unbuckled, the driver can be fined."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Protección propia y de sus pasajeros",
+        "pagina": 65,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0035",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En California, ¿desde qué edad es ilegal dejar a un niño solo en el vehículo?",
+        "en": "In California, it is illegal to leave a child alone in a vehicle if the child is…"
+      },
+      "opciones": [
+        {
+          "es": "Seis años o menos",
+          "en": "Six or younger"
+        },
+        {
+          "es": "Dos años o menos",
+          "en": "Two or younger"
+        },
+        {
+          "es": "Diez años o menos",
+          "en": "Ten or younger"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Es ilegal dejar desatendido a un niño de seis años o menos. Puede quedar con una persona de al menos 12 años.",
+        "en": "It is illegal to leave a child six or younger unattended. They may be left with someone at least 12."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Protección propia y de sus pasajeros",
+        "pagina": 67,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0036",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Eres un conductor adulto en California. ¿Cómo puedes usar el celular mientras manejas?",
+        "en": "You are an adult driver in California. How may you use your phone while driving?"
+      },
+      "opciones": [
+        {
+          "es": "Sosteniéndolo en la mano si hablas poco",
+          "en": "Holding it if you talk briefly"
+        },
+        {
+          "es": "Mandando mensajes solo en semáforos",
+          "en": "Texting only at red lights"
+        },
+        {
+          "es": "Solo en modo manos libres, montado en el parabrisas, el tablero o la consola, y tocándolo una vez",
+          "en": "Only hands-free, mounted on the windshield, dash or console, with a single tap or swipe"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Manejar sujetando el celular es ilegal. Solo modo manos libres, con el teléfono montado, y sin leer ni enviar mensajes.",
+        "en": "Driving while holding a phone is illegal. Hands-free only, with the phone mounted, and no reading or sending texts."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Teléfonos celulares",
+        "pagina": 70,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0037",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Eres menor de 18 en California. ¿Puedes usar el celular mientras manejas, aunque sea manos libres?",
+        "en": "You are under 18 in California. May you use a phone while driving, even hands-free?"
+      },
+      "opciones": [
+        {
+          "es": "Sí, si es manos libres",
+          "en": "Yes, if hands-free"
+        },
+        {
+          "es": "No, solo para una llamada de emergencia",
+          "en": "No, only to make an emergency call"
+        },
+        {
+          "es": "Sí, para mensajes de voz",
+          "en": "Yes, for voice messages"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Los conductores menores no pueden usar el celular ni dispositivos inalámbricos al manejar, ni siquiera manos libres, salvo para emergencias.",
+        "en": "Minor drivers may not use phones or wireless devices while driving, even hands-free, except for emergencies."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Teléfonos celulares",
+        "pagina": 71,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0038",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "¿Qué dice la ley de California sobre fumar en el vehículo?",
+        "en": "What does California law say about smoking in a vehicle?"
+      },
+      "opciones": [
+        {
+          "es": "Es ilegal fumar cuando hay un menor en el vehículo",
+          "en": "It is illegal to smoke when a minor is in the vehicle"
+        },
+        {
+          "es": "Solo está prohibido en autos de alquiler",
+          "en": "It is only banned in rental cars"
+        },
+        {
+          "es": "No hay ninguna regla",
+          "en": "There is no rule"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "No debes fumar si viaja un menor en el vehículo. Puedes recibir una multa.",
+        "en": "You must not smoke when a minor is in the vehicle. You may be fined."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Otra información de tránsito importante",
+        "pagina": 52,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0039",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En California, si tienes menos de 21 años, ¿con qué concentración de alcohol en la sangre (BAC) pueden revocarte la licencia por un año?",
+        "en": "In California, if you are under 21, at what BAC can your license be revoked for a year?"
+      },
+      "opciones": [
+        {
+          "es": "0.08 % o más",
+          "en": "0.08% or more"
+        },
+        {
+          "es": "0.05 % o más",
+          "en": "0.05% or more"
+        },
+        {
+          "es": "0.01 % o más",
+          "en": "0.01% or more"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Para menores de 21 el límite es 0.01 %: una condena con ese nivel puede traer un año de revocación y un programa DUI. Con 0.05 % o más pueden arrestarte por DUI.",
+        "en": "For drivers under 21 the limit is 0.01%: a conviction at that level can bring a one-year revocation and a DUI program. At 0.05% or more you can be arrested for DUI."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 9 – Conductores menores de 21 años",
+        "pagina": 75,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0040",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "Eres menor de 21 en California y vas solo. ¿Puedes llevar una bebida alcohólica en el auto?",
+        "en": "You are under 21 in California and alone. May you carry an alcoholic beverage in your car?"
+      },
+      "opciones": [
+        {
+          "es": "Sí, si está cerrada",
+          "en": "Yes, if it is closed"
+        },
+        {
+          "es": "No, salvo que vayas con alguien de 21 o más (y el envase esté cerrado) o por trabajo",
+          "en": "No, unless you are with someone 21 or older (and it's sealed) or for work"
+        },
+        {
+          "es": "Sí, en la guantera",
+          "en": "Yes, in the glove box"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Si te encuentran con alcohol, pueden confiscar tu vehículo hasta 30 días y suspender tu licencia un año.",
+        "en": "If you are caught with alcohol, your vehicle can be impounded up to 30 days and your license suspended for a year."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 9 – Conductores menores de 21 años",
+        "pagina": 75,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0041",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "¿Cuál es el seguro mínimo de responsabilidad que exige California?",
+        "en": "What minimum liability insurance does California require?"
+      },
+      "opciones": [
+        {
+          "es": "$30,000 por una persona, $60,000 por varias y $15,000 por daños a la propiedad",
+          "en": "$30,000 for one person, $60,000 for more than one, and $15,000 property damage"
+        },
+        {
+          "es": "$10,000 por persona y $10,000 por daños",
+          "en": "$10,000 per person and $10,000 property"
+        },
+        {
+          "es": "Ninguno: es opcional",
+          "en": "None: it is optional"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "El mínimo es 30/60/15. Debes llevar el comprobante al manejar y al examen de manejo.",
+        "en": "The minimum is 30/60/15. You must carry proof when driving and at the driving test."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 10 – Seguro y choques",
+        "pagina": 76,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0042",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En California, tienes un choque y no tienes seguro. ¿Qué puede pasar?",
+        "en": "In California, you have a crash and you have no insurance. What can happen?"
+      },
+      "opciones": [
+        {
+          "es": "Nada si no fue tu culpa",
+          "en": "Nothing if it wasn't your fault"
+        },
+        {
+          "es": "Solo una multa pequeña",
+          "en": "Only a small fine"
+        },
+        {
+          "es": "Te suspenden la licencia hasta por cuatro años, sin importar de quién fue la culpa",
+          "en": "Your license can be suspended up to four years, no matter who was at fault"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Sin seguro, la suspensión puede ser de hasta cuatro años. Puedes recuperarla en los últimos tres con un SR 22/SR 1P.",
+        "en": "Without insurance, the suspension can last up to four years. You may reinstate in the last three with an SR 22/SR 1P."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 10 – Seguro y choques",
+        "pagina": 76,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0043",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En California, ¿cuándo debes reportar un choque al DMV con el formulario SR 1?",
+        "en": "In California, when must you report a crash to the DMV on form SR 1?"
+      },
+      "opciones": [
+        {
+          "es": "Solo si la policía te lo pide",
+          "en": "Only if police tell you to"
+        },
+        {
+          "es": "En 10 días, si hubo daños de más de $1,000 o alguien resultó lesionado o murió",
+          "en": "Within 10 days, if damage exceeded $1,000 or someone was injured or killed"
+        },
+        {
+          "es": "Solo si fue tu culpa",
+          "en": "Only if you were at fault"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Cada conductor debe presentar el SR 1 en 10 días, sin importar quién tuvo la culpa. La policía no lo hace por ti.",
+        "en": "Each driver must file the SR 1 within 10 days, regardless of fault. The police will not file it for you."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 10 – Seguro y choques",
+        "pagina": 78,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "CA-0044",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En California, chocas y alguien resulta lesionado. ¿En qué plazo se debe hacer el reporte policial?",
+        "en": "In California, you crash and someone is injured. Within what time must a police report be made?"
+      },
+      "opciones": [
+        {
+          "es": "Dentro de 24 horas",
+          "en": "Within 24 hours"
+        },
+        {
+          "es": "Dentro de 30 días",
+          "en": "Within 30 days"
+        },
+        {
+          "es": "No hace falta",
+          "en": "It is not needed"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Si alguien resulta lesionado o muere, el reporte policial se hace dentro de 24 horas. Llama al 911 de inmediato.",
+        "en": "If someone is injured or killed, a police report must be made within 24 hours. Call 911 right away."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 10 – Seguro y choques",
+        "pagina": 77,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    }
+  ]
+}

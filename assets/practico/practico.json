@@ -1,0 +1,816 @@
+{
+  "version": "2026-11-10",
+  "evaluacion": {
+    "CA": {
+      "resumen": {
+        "es": "El examinador te da indicaciones mientras manejas en tráfico real, a veces dos a la vez (por ejemplo: \"en la siguiente calle dobla a la izquierda y luego otra vez a la izquierda\"). Antes de salir revisa que tu vehículo esté en condiciones.",
+        "en": "The examiner gives you directions while you drive in real traffic, sometimes two at once (for example: \"at the next street turn left, then turn left again\"). Before you start, your vehicle is checked."
+      },
+      "puntos": [
+        {
+          "es": "Inspección previa: debes ubicar y mostrar luces, señales de brazo, claxon, frenos y más.",
+          "en": "Pre-drive check: you must locate and show lights, hand signals, horn, brakes and more."
+        },
+        {
+          "es": "No se permite usar asistencias como el estacionamiento automático, el aviso de salida de carril ni el control de crucero adaptativo.",
+          "en": "Driver-assist features such as automatic parking, lane departure warning and adaptive cruise control are not allowed."
+        },
+        {
+          "es": "Puedes usar la cámara de retroceso y el monitor de punto ciego, pero igual tienes que mirar los espejos y sobre tu hombro.",
+          "en": "You may use the backup camera and blind-spot monitor, but you still have to check your mirrors and over your shoulder."
+        },
+        {
+          "es": "Solo el examinador viaja contigo, y no se permite grabar el examen.",
+          "en": "Only the examiner rides with you, and recording the test is not allowed."
+        }
+      ],
+      "maniobras": [
+        "inspeccion",
+        "paralelo",
+        "retroceder",
+        "pendiente",
+        "espejos"
+      ],
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 3 – Proceso de examinación",
+        "pagina": 6,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      }
+    },
+    "TX": {
+      "resumen": {
+        "es": "Te califican en cuatro habilidades básicas: control del vehículo, observación, posición en el carril y uso de las señales. Reprueba quien comete una infracción, no sigue las instrucciones, maneja de forma peligrosa o choca, o pierde más de 30 puntos.",
+        "en": "You are graded on four basic skills: control, observation, lane positioning and signaling. You fail if you break the law, refuse to follow instructions, drive dangerously or crash, or lose more than 30 points."
+      },
+      "puntos": [
+        {
+          "es": "Estacionamiento en paralelo: puedes usar la cámara de retroceso, pero no el estacionamiento automático.",
+          "en": "Parallel parking: you may use the backup camera, but not automated parking."
+        },
+        {
+          "es": "Parada rápida: frenar lo más rápido posible a unas 20 mph sin que patinen las llantas.",
+          "en": "Quick stop: stop as quickly as possible at about 20 mph without skidding."
+        },
+        {
+          "es": "Retroceder unos 60 pies, despacio y lo más recto posible, mirando hacia atrás.",
+          "en": "Back up about 60 feet, slowly and as straight as possible, looking back."
+        },
+        {
+          "es": "También evalúan PARE, semáforos, intersecciones, vueltas, derecho de paso, distancia, rebase, carril y postura.",
+          "en": "Stop signs, signals, intersections, turns, right-of-way, following, passing, lanes and posture are also graded."
+        }
+      ],
+      "maniobras": [
+        "paralelo",
+        "parada_rapida",
+        "retroceder",
+        "pendiente",
+        "espejos"
+      ],
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Examen de manejo",
+        "pagina": 8,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      }
+    },
+    "FL": {
+      "resumen": {
+        "es": "Llevas tu propio vehículo, con registro y seguro vigentes, y lo inspeccionan antes del examen. No se permiten pasajeros (salvo un intérprete si hace falta). Al terminar, el examinador te explica tus errores.",
+        "en": "You bring your own vehicle with current registration and insurance, and it is inspected first. No passengers are allowed (except an interpreter if needed). Afterwards, the examiner explains your mistakes."
+      },
+      "puntos": [
+        {
+          "es": "Retroceder 50 pies (15 m) despacio mirando hacia atrás, sin usar el espejo ni la cámara.",
+          "en": "Back up 50 feet slowly while looking back, without using the mirror or the backup camera."
+        },
+        {
+          "es": "Vuelta en tres puntos en un espacio de 20 a 40 pies.",
+          "en": "Three-point turn in a 20 to 40 foot space."
+        },
+        {
+          "es": "Estacionamiento recto (centrado en el espacio) y estacionamiento en pendiente, con y sin acera.",
+          "en": "Straight-in parking (centered in the space) and parking on a hill, with and without a curb."
+        },
+        {
+          "es": "Parada rápida cuando te lo indiquen, y señalizar las vueltas en los últimos 100 pies.",
+          "en": "Quick stop when told to, and signal turns during the last 100 feet."
+        },
+        {
+          "es": "Distancia de 3 a 4 segundos, PARE, semáforos, rebase y postura (las dos manos en el volante).",
+          "en": "3 to 4 second following distance, stop signs, signals, passing and posture (both hands on the wheel)."
+        }
+      ],
+      "maniobras": [
+        "inspeccion",
+        "retroceder",
+        "tres_puntos",
+        "noventa",
+        "pendiente",
+        "parada_rapida"
+      ],
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 1 – Examen de habilidades de conducción",
+        "pagina": 20,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      }
+    }
+  },
+  "maniobras": [
+    {
+      "id": "inspeccion",
+      "icono": "checklist",
+      "titulo": {
+        "es": "Revisión del vehículo",
+        "en": "Vehicle check"
+      },
+      "resumen": {
+        "es": "Lo que revisan antes de salir",
+        "en": "What is checked before you start"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "Ventanilla del conductor: tiene que poder abrirse.",
+            "en": "Driver's window: it must open."
+          }
+        },
+        {
+          "texto": {
+            "es": "Parabrisas sin rajaduras que tapen la vista y al menos dos espejos retrovisores (uno del lado izquierdo).",
+            "en": "Windshield without cracks that block your view, and at least two mirrors (one on the left side)."
+          }
+        },
+        {
+          "texto": {
+            "es": "Luces de freno, direccionales y claxon funcionando. Te pueden pedir que los muestres.",
+            "en": "Working brake lights, turn signals and horn. You may be asked to show them."
+          }
+        },
+        {
+          "texto": {
+            "es": "Freno de estacionamiento: tienes que saber ponerlo y quitarlo.",
+            "en": "Parking brake: you must know how to set and release it."
+          }
+        },
+        {
+          "texto": {
+            "es": "Señales con el brazo: vuelta a la izquierda, vuelta a la derecha y reducir la velocidad o parar.",
+            "en": "Hand signals: left turn, right turn, and slow down or stop."
+          }
+        },
+        {
+          "texto": {
+            "es": "Limpiaparabrisas, luces delanteras y cinturones de seguridad funcionando.",
+            "en": "Working wipers, headlights and seat belts."
+          }
+        },
+        {
+          "texto": {
+            "es": "Llantas en buen estado (en California no se permite la llanta de repuesto). Registro y seguro vigentes.",
+            "en": "Tires in good condition (California does not allow a spare tire). Current registration and insurance."
+          }
+        }
+      ],
+      "consejos": [
+        {
+          "es": "Si algo no funciona, te cambian el examen para otro día. Revisa todo la noche anterior.",
+          "en": "If something does not work, your test is rescheduled. Check everything the night before."
+        }
+      ],
+      "fuentes": [
+        {
+          "manual": "CA",
+          "seccion": "Sección 3 – Proceso de examinación",
+          "pagina": 6,
+          "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+        },
+        {
+          "manual": "FL",
+          "seccion": "Cap. 1 – Examen de habilidades de conducción",
+          "pagina": 20,
+          "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+        }
+      ]
+    },
+    {
+      "id": "paralelo",
+      "icono": "paralelo",
+      "titulo": {
+        "es": "Estacionamiento en paralelo",
+        "en": "Parallel parking"
+      },
+      "resumen": {
+        "es": "Junto a la acera, entre dos vehículos",
+        "en": "Next to the curb, between two cars"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "Busca un espacio al menos 3 pies (1 m) más largo que tu vehículo y pon la direccional antes de llegar, para avisar a los de atrás.",
+            "en": "Find a space at least 3 feet longer than your car and signal before you reach it to warn drivers behind you."
+          },
+          "imagen": "paralelo_1.webp"
+        },
+        {
+          "texto": {
+            "es": "Ponte al lado del vehículo de adelante, a unos 2 pies (60 cm), y para cuando tu defensa trasera quede alineada con la de él.",
+            "en": "Pull up next to the car ahead, about 2 feet away, and stop when your rear bumper lines up with its bumper."
+          },
+          "imagen": "paralelo_2.webp"
+        },
+        {
+          "texto": {
+            "es": "Mira los espejos y sobre tu hombro. Gira el volante todo a la derecha y retrocede despacio hasta quedar a unos 45 grados.",
+            "en": "Check your mirrors and over your shoulder. Turn the wheel all the way right and back slowly to about 45 degrees."
+          },
+          "imagen": "paralelo_3.webp"
+        },
+        {
+          "texto": {
+            "es": "Cuando tu asiento quede a la altura de la defensa del vehículo de adelante, gira el volante todo a la izquierda y sigue retrocediendo sin tocar al de atrás.",
+            "en": "When your seat is even with the rear bumper of the car ahead, turn the wheel all the way left and keep backing without touching the car behind."
+          },
+          "imagen": "paralelo_4.webp"
+        },
+        {
+          "texto": {
+            "es": "Endereza las ruedas y avanza para centrarte. Tienes que quedar paralelo y a no más de 18 pulgadas (45 cm) de la acera.",
+            "en": "Straighten the wheels and pull forward to center the car. You must end up parallel and no more than 18 inches from the curb."
+          },
+          "imagen": "paralelo_5.webp"
+        }
+      ],
+      "consejos": [
+        {
+          "es": "Antes de bajarte, pon el freno de estacionamiento y fíjate si vienen autos, bicicletas o motos.",
+          "en": "Before getting out, set the parking brake and check for cars, bikes and motorcycles."
+        },
+        {
+          "es": "En Texas puedes usar la cámara de retroceso, pero no la función de estacionamiento automático.",
+          "en": "In Texas you may use the backup camera, but not automated parking."
+        }
+      ],
+      "errores": [
+        {
+          "es": "Subirte a la acera o tocar otro vehículo.",
+          "en": "Hitting the curb or another car."
+        },
+        {
+          "es": "Quedar a más de 18 pulgadas de la acera.",
+          "en": "Ending more than 18 inches from the curb."
+        },
+        {
+          "es": "Olvidar la direccional o no mirar sobre el hombro.",
+          "en": "Forgetting to signal or to look over your shoulder."
+        }
+      ],
+      "video": "https://cascade.com.ar/videosApp/paralelo.mp4",
+      "fuentes": [
+        {
+          "manual": "CA",
+          "seccion": "Sección 6 – Estacionamiento",
+          "pagina": 26,
+          "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+        },
+        {
+          "manual": "TX",
+          "seccion": "Cap. 7 – Estacionar, parar o detenerse",
+          "pagina": 43,
+          "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+        }
+      ]
+    },
+    {
+      "id": "noventa",
+      "icono": "noventa",
+      "titulo": {
+        "es": "Estacionamiento a 90 grados",
+        "en": "Perpendicular parking"
+      },
+      "resumen": {
+        "es": "En un espacio de estacionamiento, de reversa",
+        "en": "Backing into a parking space"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "Pasa el espacio libre y para cuando tu defensa trasera quede un poco más adelante que el espacio. Deja lugar a tu lado para girar.",
+            "en": "Drive past the open space and stop when your rear bumper is just beyond it. Leave room beside you to turn."
+          },
+          "imagen": "noventa_1.webp"
+        },
+        {
+          "texto": {
+            "es": "Pon la direccional, mira los espejos y sobre el hombro, y retrocede despacio con el volante todo girado hacia el lado del espacio.",
+            "en": "Signal, check your mirrors and over your shoulder, and back slowly with the wheel turned all the way toward the space."
+          },
+          "imagen": "noventa_2.webp"
+        },
+        {
+          "texto": {
+            "es": "Mira el espejo de ese lado: cuando tu vehículo quede paralelo a las líneas, endereza el volante.",
+            "en": "Watch the mirror on that side: when your car is parallel to the lines, straighten the wheel."
+          },
+          "imagen": "noventa_3.webp"
+        },
+        {
+          "texto": {
+            "es": "Sigue derecho hasta quedar centrado, sin que ninguna parte del vehículo sobresalga al pasillo.",
+            "en": "Keep going straight until you are centered, with no part of the car sticking out into the lane."
+          },
+          "imagen": "noventa_4.webp"
+        }
+      ],
+      "consejos": [
+        {
+          "es": "En Florida el examen pide estacionamiento recto: el vehículo centrado en el espacio y sin sobresalir. Puedes entrar de frente.",
+          "en": "Florida tests straight-in parking: the car centered in the space and not sticking out. You may pull in forward."
+        },
+        {
+          "es": "Si quedaste torcido, avanza un poco y corrige. Es mejor corregir que tocar otro auto.",
+          "en": "If you are crooked, pull forward a little and fix it. Correcting is better than touching another car."
+        }
+      ],
+      "errores": [
+        {
+          "es": "Pisar o cruzar las líneas del espacio.",
+          "en": "Touching or crossing the space lines."
+        },
+        {
+          "es": "Dejar la parte de atrás o de adelante en el pasillo.",
+          "en": "Leaving the back or front of the car in the lane."
+        }
+      ],
+      "video": "https://cascade.com.ar/videosApp/90grados.mp4",
+      "fuentes": [
+        {
+          "manual": "FL",
+          "seccion": "Cap. 1 – Examen de habilidades de conducción",
+          "pagina": 21,
+          "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+        }
+      ]
+    },
+    {
+      "id": "retroceder",
+      "icono": "retroceder",
+      "titulo": {
+        "es": "Retroceder en línea recta",
+        "en": "Backing in a straight line"
+      },
+      "resumen": {
+        "es": "Despacio, recto y mirando hacia atrás",
+        "en": "Slow, straight and looking back"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "Revisa el tráfico, pon la direccional si te vas a acercar a la acera y mira sobre tu hombro por si vienen vehículos o peatones.",
+            "en": "Check traffic, signal if you are pulling toward the curb, and look over your shoulder for vehicles and pedestrians."
+          }
+        },
+        {
+          "texto": {
+            "es": "Gira el cuerpo y mira hacia atrás por la ventana trasera. Toma el volante arriba con una mano.",
+            "en": "Turn your body and look back through the rear window. Hold the top of the wheel with one hand."
+          }
+        },
+        {
+          "texto": {
+            "es": "Retrocede despacio y en línea recta. En California son unos tres largos de auto, a unos 3 pies (1 m) de la acera.",
+            "en": "Back slowly in a straight line. In California it is about three car lengths, about 3 feet from the curb."
+          }
+        },
+        {
+          "texto": {
+            "es": "Corrige con movimientos pequeños del volante. Para por completo antes de cambiar a marcha adelante.",
+            "en": "Correct with small steering movements. Stop completely before shifting into drive."
+          }
+        }
+      ],
+      "consejos": [
+        {
+          "es": "Texas: unos 60 pies. Puedes mirar hacia atrás o usar la cámara y los espejos.",
+          "en": "Texas: about 60 feet. You may look back or use the camera and mirrors."
+        },
+        {
+          "es": "Florida: 50 pies mirando hacia atrás, sin usar el espejo ni la cámara.",
+          "en": "Florida: 50 feet looking back, without using the mirror or the camera."
+        }
+      ],
+      "errores": [
+        {
+          "es": "Retroceder rápido o en zigzag.",
+          "en": "Backing fast or weaving."
+        },
+        {
+          "es": "Mirar solo la cámara cuando el examen pide mirar hacia atrás.",
+          "en": "Only watching the camera when you must look back."
+        }
+      ],
+      "fuentes": [
+        {
+          "manual": "CA",
+          "seccion": "Sección 6 – Estacionamiento",
+          "pagina": 27,
+          "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+        },
+        {
+          "manual": "TX",
+          "seccion": "Cap. 1 – Examen de manejo",
+          "pagina": 8,
+          "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+        },
+        {
+          "manual": "FL",
+          "seccion": "Cap. 1 – Examen de habilidades de conducción",
+          "pagina": 20,
+          "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tres_puntos",
+      "icono": "tres_puntos",
+      "titulo": {
+        "es": "Vuelta en tres puntos",
+        "en": "Three-point turn"
+      },
+      "resumen": {
+        "es": "Dar la vuelta en una calle angosta",
+        "en": "Turning around on a narrow street"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "Arrímate lo más a la derecha posible, revisa el tráfico y pon la direccional izquierda.",
+            "en": "Pull as far right as possible, check traffic and signal left."
+          }
+        },
+        {
+          "texto": {
+            "es": "Gira el volante todo a la izquierda y avanza despacio. Para antes de llegar a la acera del otro lado.",
+            "en": "Turn the wheel all the way left and move forward slowly. Stop before the curb on the other side."
+          }
+        },
+        {
+          "texto": {
+            "es": "Pon reversa, gira el volante todo a la derecha, revisa el tráfico y retrocede hasta cerca de la acera derecha.",
+            "en": "Shift into reverse, turn the wheel all the way right, check traffic and back up near the right curb."
+          }
+        },
+        {
+          "texto": {
+            "es": "Pon marcha adelante, revisa otra vez y avanza con cuidado por tu carril.",
+            "en": "Shift into drive, check again and pull forward carefully into your lane."
+          }
+        }
+      ],
+      "consejos": [
+        {
+          "es": "Úsala solo si la calle es muy angosta para una vuelta en U y no puedes dar la vuelta a la manzana.",
+          "en": "Use it only if the street is too narrow for a U-turn and you cannot go around the block."
+        },
+        {
+          "es": "En el examen de Florida tienes que hacerla en un espacio de 20 a 40 pies.",
+          "en": "On the Florida test you must do it in a 20 to 40 foot space."
+        }
+      ],
+      "errores": [
+        {
+          "es": "Hacerla en una curva, una colina, una autopista o donde una señal prohíbe la vuelta en U.",
+          "en": "Doing it on a curve, a hill, a highway, or where a sign prohibits U-turns."
+        },
+        {
+          "es": "Tocar la acera o no revisar el tráfico en cada paso.",
+          "en": "Touching the curb or not checking traffic at each step."
+        }
+      ],
+      "fuentes": [
+        {
+          "manual": "FL",
+          "seccion": "Seguridad al conducir – Giros de tres puntos",
+          "pagina": 70,
+          "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+        }
+      ]
+    },
+    {
+      "id": "parada_rapida",
+      "icono": "parada",
+      "titulo": {
+        "es": "Parada rápida",
+        "en": "Quick stop"
+      },
+      "resumen": {
+        "es": "Frenar fuerte sin patinar",
+        "en": "Braking hard without skidding"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "El examinador te pide que vayas a unas 20 mph y en algún momento te dice \"Stop\".",
+            "en": "The examiner asks you to drive at about 20 mph and at some point says \"Stop\"."
+          }
+        },
+        {
+          "texto": {
+            "es": "Pisa el freno con fuerza y de forma firme, con las dos manos en el volante, sin que patinen las llantas.",
+            "en": "Press the brake hard and steadily, both hands on the wheel, without skidding the tires."
+          }
+        },
+        {
+          "texto": {
+            "es": "Mantén el vehículo derecho hasta que pare por completo.",
+            "en": "Keep the car straight until it comes to a full stop."
+          }
+        }
+      ],
+      "consejos": [
+        {
+          "es": "Con frenos ABS, mantén el pedal pisado aunque vibre.",
+          "en": "With ABS brakes, keep the pedal pressed even if it vibrates."
+        }
+      ],
+      "fuentes": [
+        {
+          "manual": "TX",
+          "seccion": "Cap. 1 – Examen de manejo",
+          "pagina": 8,
+          "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+        },
+        {
+          "manual": "FL",
+          "seccion": "Cap. 1 – Examen de habilidades de conducción",
+          "pagina": 21,
+          "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+        }
+      ]
+    },
+    {
+      "id": "pendiente",
+      "icono": "pendiente",
+      "titulo": {
+        "es": "Estacionar en pendiente",
+        "en": "Parking on a hill"
+      },
+      "resumen": {
+        "es": "Hacia dónde girar las ruedas",
+        "en": "Which way to turn your wheels"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "Cuesta abajo, con o sin acera: gira las ruedas delanteras hacia la acera o hacia el lado derecho del camino.",
+            "en": "Downhill, with or without a curb: turn your front wheels toward the curb or the right side of the road."
+          }
+        },
+        {
+          "texto": {
+            "es": "Cuesta arriba con acera: gira las ruedas hacia el lado contrario de la acera y deja que el vehículo baje unas pulgadas hasta que la llanta toque la acera.",
+            "en": "Uphill with a curb: turn your wheels away from the curb and let the car roll back a few inches until the tire touches the curb."
+          }
+        },
+        {
+          "texto": {
+            "es": "Cuesta arriba sin acera: gira las ruedas a la derecha, para que si el vehículo se mueve no vaya hacia el tráfico.",
+            "en": "Uphill without a curb: turn your wheels to the right so the car rolls away from traffic if it moves."
+          }
+        },
+        {
+          "texto": {
+            "es": "Siempre pon el freno de estacionamiento y deja el vehículo en Park (o con una marcha puesta si es manual).",
+            "en": "Always set the parking brake and leave the car in Park (or in gear if it is a manual)."
+          }
+        }
+      ],
+      "consejos": [
+        {
+          "es": "La idea es siempre la misma: si fallan los frenos, el vehículo tiene que irse hacia la acera y no hacia la calle.",
+          "en": "The idea is always the same: if the brakes fail, the car should roll toward the curb, not into the street."
+        }
+      ],
+      "fuentes": [
+        {
+          "manual": "CA",
+          "seccion": "Sección 6 – Estacionamiento",
+          "pagina": 27,
+          "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+        },
+        {
+          "manual": "TX",
+          "seccion": "Cap. 7 – Estacionar, parar o detenerse",
+          "pagina": 44,
+          "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+        },
+        {
+          "manual": "FL",
+          "seccion": "Seguridad al conducir – Aparcamiento",
+          "pagina": 65,
+          "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+        }
+      ]
+    },
+    {
+      "id": "espejos",
+      "icono": "espejos",
+      "titulo": {
+        "es": "Espejos y puntos ciegos",
+        "en": "Mirrors and blind spots"
+      },
+      "resumen": {
+        "es": "Lo que los espejos no muestran",
+        "en": "What your mirrors do not show"
+      },
+      "pasos": [
+        {
+          "texto": {
+            "es": "El punto ciego es la zona alrededor de tu vehículo que no ves ni de frente ni por los espejos. Ahí puede haber un auto, una moto o una bicicleta.",
+            "en": "A blind spot is the area around your car you cannot see ahead or in your mirrors. A car, motorcycle or bicycle can be there."
+          },
+          "imagen": "espejos_situacion.webp"
+        },
+        {
+          "texto": {
+            "es": "Ajusta los espejos antes de arrancar, sentado en tu posición de manejo. Una forma recomendada es abrir los laterales hasta casi no ver tu propio vehículo.",
+            "en": "Adjust your mirrors before you start, sitting in your driving position. One recommended way is to turn the side mirrors out until you barely see your own car."
+          },
+          "imagen": "espejo_bien.webp"
+        },
+        {
+          "texto": {
+            "es": "Si en el espejo lateral ves gran parte de tu auto, estás perdiendo de vista el carril de al lado.",
+            "en": "If you see a lot of your own car in the side mirror, you are missing the lane next to you."
+          },
+          "imagen": "espejo_mal.webp"
+        },
+        {
+          "texto": {
+            "es": "Los tres espejos trabajan juntos: cuando un vehículo sale del espejo central debería aparecer en el lateral.",
+            "en": "The three mirrors work together: when a car leaves the center mirror it should appear in the side mirror."
+          },
+          "imagen": "espejos_tres.webp"
+        },
+        {
+          "texto": {
+            "es": "Aun así, antes de cambiar de carril o salir de la acera, gira la cabeza y mira sobre tu hombro.",
+            "en": "Even so, before changing lanes or pulling away from the curb, turn your head and look over your shoulder."
+          }
+        }
+      ],
+      "consejos": [
+        {
+          "es": "En el examen de California puedes usar el monitor de punto ciego, pero no reemplaza mirar los espejos y sobre el hombro.",
+          "en": "On the California test you may use the blind-spot monitor, but it does not replace checking mirrors and over your shoulder."
+        }
+      ],
+      "errores": [
+        {
+          "es": "Cambiar de carril mirando solo el espejo.",
+          "en": "Changing lanes using only the mirror."
+        },
+        {
+          "es": "Quedarte manejando en el punto ciego de otro vehículo.",
+          "en": "Driving in another vehicle's blind spot."
+        }
+      ],
+      "fuentes": [
+        {
+          "manual": "CA",
+          "seccion": "Sección 6 – Elegir y cambiar de carril",
+          "pagina": 15,
+          "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+        },
+        {
+          "manual": "CA",
+          "seccion": "Sección 3 – Proceso de examinación",
+          "pagina": 7,
+          "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+        }
+      ]
+    }
+  ],
+  "frases": [
+    {
+      "en": "Turn left at the next intersection.",
+      "es": "Dobla a la izquierda en la próxima intersección."
+    },
+    {
+      "en": "Turn right at the next street.",
+      "es": "Dobla a la derecha en la próxima calle."
+    },
+    {
+      "en": "Go straight.",
+      "es": "Sigue derecho."
+    },
+    {
+      "en": "Pull over to the curb.",
+      "es": "Arrímate a la acera y para."
+    },
+    {
+      "en": "Pull away from the curb when it is safe.",
+      "es": "Sal de la acera cuando sea seguro."
+    },
+    {
+      "en": "Change lanes to the left.",
+      "es": "Cámbiate al carril de la izquierda."
+    },
+    {
+      "en": "Change lanes to the right.",
+      "es": "Cámbiate al carril de la derecha."
+    },
+    {
+      "en": "Parallel park behind that car.",
+      "es": "Estaciónate en paralelo detrás de ese auto."
+    },
+    {
+      "en": "Back up.",
+      "es": "Retrocede (da marcha atrás)."
+    },
+    {
+      "en": "Make a three-point turn.",
+      "es": "Haz una vuelta en tres puntos."
+    },
+    {
+      "en": "Make a U-turn.",
+      "es": "Haz una vuelta en U."
+    },
+    {
+      "en": "Pull into that parking space.",
+      "es": "Entra en ese espacio de estacionamiento."
+    },
+    {
+      "en": "Back out of the space.",
+      "es": "Sal del espacio en reversa."
+    },
+    {
+      "en": "When I say stop, stop as quickly and safely as you can.",
+      "es": "Cuando diga \"stop\", frena lo más rápido y seguro que puedas."
+    },
+    {
+      "en": "Show me the hand signal for a left turn.",
+      "es": "Muéstrame la señal con el brazo para doblar a la izquierda."
+    },
+    {
+      "en": "Turn on your headlights.",
+      "es": "Enciende las luces delanteras."
+    },
+    {
+      "en": "Turn on the windshield wipers.",
+      "es": "Enciende el limpiaparabrisas."
+    },
+    {
+      "en": "Turn on your hazard lights.",
+      "es": "Enciende las luces intermitentes de emergencia."
+    },
+    {
+      "en": "Set the parking brake.",
+      "es": "Pon el freno de estacionamiento."
+    },
+    {
+      "en": "Honk the horn.",
+      "es": "Toca el claxon."
+    },
+    {
+      "en": "Put the car in park.",
+      "es": "Pon el auto en Park."
+    },
+    {
+      "en": "Turn off the engine.",
+      "es": "Apaga el motor."
+    },
+    {
+      "en": "Merge onto the freeway.",
+      "es": "Incorpórate a la autopista."
+    },
+    {
+      "en": "Take the next exit.",
+      "es": "Toma la próxima salida."
+    },
+    {
+      "en": "Keep going.",
+      "es": "Sigue."
+    },
+    {
+      "en": "Watch your speed.",
+      "es": "Cuida la velocidad."
+    },
+    {
+      "en": "Return to the DMV office.",
+      "es": "Regresa a la oficina del DMV."
+    }
+  ],
+  "notaFrases": {
+    "es": "Frases típicas que usan los examinadores; no es una lista oficial. El examinador puede darte dos indicaciones a la vez.",
+    "en": "Typical phrases examiners use; this is not an official list. The examiner may give you two directions at once."
+  },
+  "fuenteFrases": {
+    "manual": "CA",
+    "seccion": "Sección 3 – Proceso de examinación",
+    "pagina": 5,
+    "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+  }
+}

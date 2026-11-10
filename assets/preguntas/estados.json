@@ -1,0 +1,47 @@
+{
+  "version": "2026-11-06",
+  "estados": [
+    {
+      "codigo": "CA",
+      "nombre": {
+        "es": "California",
+        "en": "California"
+      },
+      "cantidadPreguntas": 36,
+      "aciertosParaAprobar": 30,
+      "formatoConfirmado": false,
+      "notaFormato": "DMV publica 80% para aprobar pero no la cantidad. 36/30 (mayores de 18) sale del informe DMV RSS-06-221; menores de 18: 46/38.",
+      "manualEs": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf",
+      "manualEn": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/",
+      "fuenteFormato": "https://www.dmv.ca.gov/portal/instructional-permits/"
+    },
+    {
+      "codigo": "TX",
+      "nombre": {
+        "es": "Texas",
+        "en": "Texas"
+      },
+      "cantidadPreguntas": 30,
+      "aciertosParaAprobar": 21,
+      "formatoConfirmado": false,
+      "notaFormato": "Oficial solo el 70% (DL-7 y 37 TAC 15.52). DPS no publica la cantidad; 30/21 es el dato que usan escuelas y sitios de práctica. El manual en español (DL-7S) es de 2017: las preguntas salen del DL-7 en inglés de enero 2026.",
+      "manualEs": "https://www.dps.texas.gov/internetforms/Forms/DL-7S.pdf",
+      "manualEn": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+      "fuenteFormato": "https://www.law.cornell.edu/regulations/texas/37-Tex-Admin-Code-SS-15-52"
+    },
+    {
+      "codigo": "FL",
+      "nombre": {
+        "es": "Florida",
+        "en": "Florida"
+      },
+      "cantidadPreguntas": 50,
+      "aciertosParaAprobar": 40,
+      "formatoConfirmado": true,
+      "notaFormato": "Confirmado en FLHSMV: 40 de 50 (80%). El examen se ofrece en español.",
+      "manualEs": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf",
+      "manualEn": "https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf",
+      "fuenteFormato": "https://flhsmv.gov/driver-licenses-id-cards/licensing-requirements-teens-graduated-driver-license-laws-driving-curfews/class-e-knowledge-exam-driving-skills-test/"
+    }
+  ]
+}

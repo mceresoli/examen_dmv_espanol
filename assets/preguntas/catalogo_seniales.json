@@ -1,0 +1,1955 @@
+{
+ "version": "2026-11-10",
+ "tipos": [
+  {
+   "id": "reglamentarias",
+   "nombre": {
+    "es": "Reglamentarias",
+    "en": "Regulatory"
+   },
+   "descripcion": "Indican reglas que debes obedecer. Suelen ser blancas, negras y rojas.",
+   "grupos": [
+    {
+     "id": "alto",
+     "nombre": {
+      "es": "ALTO y CEDA EL PASO",
+      "en": "Stop and yield"
+     },
+     "seniales": [
+      {
+       "codigo": "R1-1",
+       "significado": {
+        "es": "Alto: detente por completo antes de la línea, el cruce peatonal o la intersección",
+        "en": "Stop completely before the line, crosswalk or intersection"
+       },
+       "consejo": "Es la única señal octagonal."
+      },
+      {
+       "codigo": "R1-2",
+       "significado": {
+        "es": "Ceda el paso: reduce la velocidad y detente si hace falta para dejar pasar",
+        "en": "Yield: slow down and stop if needed to let others go"
+       },
+       "consejo": "Es la única señal triangular con la punta hacia abajo."
+      },
+      {
+       "codigo": "R1-2aP",
+       "significado": {
+        "es": "Al ceder el paso, hay que ceder también al tráfico que viene de frente",
+        "en": "When yielding, you must also yield to oncoming traffic"
+       },
+       "consejo": "Se coloca debajo de una señal de CEDA EL PASO."
+      },
+      {
+       "codigo": "R1-4",
+       "significado": {
+        "es": "Alto en todas las direcciones: todos los que llegan a la intersección deben detenerse",
+        "en": "All-way stop: every approach to the intersection must stop"
+       },
+       "consejo": "Pasa primero quien llegó primero; si llegan juntos, cede al de la derecha."
+      },
+      {
+       "codigo": "R1-5L",
+       "significado": {
+        "es": "Cede el paso aquí a los peatones",
+        "en": "Yield here to pedestrians"
+       },
+       "consejo": "Indica dónde detenerte, antes del cruce peatonal, para dejar pasar a los peatones."
+      },
+      {
+       "codigo": "R1-5bL",
+       "significado": {
+        "es": "Detente aquí para dejar pasar a los peatones",
+        "en": "Stop here for pedestrians"
+       },
+       "consejo": "Indica la línea donde debes detenerte antes del cruce peatonal."
+      },
+      {
+       "codigo": "R1-6",
+       "significado": {
+        "es": "Cruce peatonal en la calle: la ley estatal obliga a ceder el paso a los peatones que están en el cruce",
+        "en": "In-street crosswalk: state law requires yielding to pedestrians in the crosswalk"
+       }
+      },
+      {
+       "codigo": "R1-6a",
+       "significado": {
+        "es": "Cruce peatonal en la calle: la ley estatal obliga a detenerse ante los peatones que están en el cruce",
+        "en": "In-street crosswalk: state law requires stopping for pedestrians in the crosswalk"
+       }
+      },
+      {
+       "codigo": "R1-10P",
+       "significado": {
+        "es": "Los vehículos que doblan a la derecha no tienen que detenerse en esta señal de ALTO",
+        "en": "Right-turning vehicles do not have to stop at this STOP sign"
+       },
+       "consejo": "Se coloca debajo de una señal de ALTO."
+      }
+     ]
+    },
+    {
+     "id": "velocidad",
+     "nombre": {
+      "es": "Límites de velocidad",
+      "en": "Speed limits"
+     },
+     "seniales": [
+      {
+       "codigo": "R2-1",
+       "significado": {
+        "es": "Velocidad máxima permitida en condiciones normales",
+        "en": "Maximum legal speed under normal conditions"
+       },
+       "consejo": "Con mal tiempo o mucho tráfico debes ir más despacio."
+      },
+      {
+       "codigo": "R2-2",
+       "significado": {
+        "es": "Velocidad máxima para camiones",
+        "en": "Maximum speed for trucks"
+       }
+      },
+      {
+       "codigo": "R2-3",
+       "significado": {
+        "es": "Velocidad máxima durante la noche",
+        "en": "Maximum speed at night"
+       }
+      },
+      {
+       "codigo": "R2-4",
+       "significado": {
+        "es": "Velocidad mínima permitida",
+        "en": "Minimum legal speed"
+       },
+       "consejo": "Ir más despacio que el mínimo, salvo por seguridad, también se multa."
+      },
+      {
+       "codigo": "R2-4a",
+       "significado": {
+        "es": "Velocidad máxima de 55 mph y mínima de 30 mph",
+        "en": "Maximum speed 55 mph and minimum 30 mph"
+       }
+      },
+      {
+       "codigo": "R2-5P",
+       "significado": {
+        "es": "El límite indicado rige en toda la zona, salvo que otra señal diga otra cosa",
+        "en": "The posted limit applies throughout the area unless otherwise posted"
+       }
+      },
+      {
+       "codigo": "R2-6bP",
+       "significado": {
+        "es": "Exceder el límite en esta zona tiene una multa del monto indicado",
+        "en": "Speeding in this area carries the fine shown"
+       }
+      },
+      {
+       "codigo": "R2-10",
+       "significado": {
+        "es": "Comienza una zona donde las multas de tránsito son más altas",
+        "en": "A zone with higher traffic fines begins"
+       }
+      },
+      {
+       "codigo": "R2-11",
+       "significado": {
+        "es": "Termina la zona de multas más altas",
+        "en": "The higher fines zone ends"
+       }
+      }
+     ]
+    },
+    {
+     "id": "giros",
+     "nombre": {
+      "es": "Giros y uso de carriles",
+      "en": "Turns and lane use"
+     },
+     "seniales": [
+      {
+       "codigo": "R3-4",
+       "significado": {
+        "es": "Prohibido dar vuelta en U",
+        "en": "No U-turn"
+       }
+      },
+      {
+       "codigo": "R3-1",
+       "significado": {
+        "es": "Prohibido dar vuelta a la derecha",
+        "en": "No right turn"
+       }
+      },
+      {
+       "codigo": "R3-2",
+       "significado": {
+        "es": "Prohibido dar vuelta a la izquierda",
+        "en": "No left turn"
+       }
+      },
+      {
+       "codigo": "R3-3",
+       "significado": {
+        "es": "Prohibido dar vuelta en cualquier dirección: solo se puede seguir derecho",
+        "en": "No turns: you may only go straight"
+       }
+      },
+      {
+       "codigo": "R3-18",
+       "significado": {
+        "es": "Prohibido dar vuelta a la izquierda y en U",
+        "en": "No left turn and no U-turn"
+       }
+      },
+      {
+       "codigo": "R3-5L",
+       "significado": {
+        "es": "Carril solo para dar vuelta a la izquierda",
+        "en": "Left-turn-only lane"
+       },
+       "consejo": "Si estás en ese carril, debes dar vuelta a la izquierda."
+      },
+      {
+       "codigo": "R3-5a",
+       "significado": {
+        "es": "Carril solo para seguir derecho",
+        "en": "Straight-through-only lane"
+       }
+      },
+      {
+       "codigo": "R3-6R",
+       "significado": {
+        "es": "Desde este carril puedes seguir derecho o dar vuelta a la derecha",
+        "en": "From this lane you may go straight or turn right"
+       }
+      },
+      {
+       "codigo": "R3-7L",
+       "significado": {
+        "es": "El carril izquierdo debe dar vuelta a la izquierda",
+        "en": "The left lane must turn left"
+       }
+      },
+      {
+       "codigo": "R3-8L",
+       "significado": {
+        "es": "Indica qué movimientos se permiten desde cada carril en la intersección",
+        "en": "Shows which movements are allowed from each lane at the intersection"
+       }
+      },
+      {
+       "codigo": "R3-9a",
+       "significado": {
+        "es": "Carril central solo para dar vuelta a la izquierda en ambos sentidos",
+        "en": "Center lane for left turns only, used by both directions"
+       },
+       "consejo": "No es un carril para circular ni para rebasar."
+      },
+      {
+       "codigo": "R3-9e",
+       "significado": {
+        "es": "Carril reversible: su sentido de circulación cambia según el horario",
+        "en": "Reversible lane: its direction changes by time of day"
+       }
+      },
+      {
+       "codigo": "R3-23",
+       "significado": {
+        "es": "Todas las vueltas se hacen desde el carril derecho",
+        "en": "All turns must be made from the right lane"
+       }
+      },
+      {
+       "codigo": "R3-33R",
+       "significado": {
+        "es": "El carril derecho es de salida obligatoria",
+        "en": "The right lane must exit"
+       }
+      },
+      {
+       "codigo": "R3-17",
+       "significado": {
+        "es": "Carril exclusivo para bicicletas",
+        "en": "Bicycle lane only"
+       },
+       "consejo": "Los autos solo pueden entrar para dar vuelta, a poca distancia de la esquina."
+      }
+     ]
+    },
+    {
+     "id": "hov",
+     "nombre": {
+      "es": "Carriles HOV",
+      "en": "HOV lanes"
+     },
+     "seniales": [
+      {
+       "codigo": "R3-11",
+       "significado": {
+        "es": "Carril solo para vehículos con dos o más ocupantes (HOV)",
+        "en": "Lane for vehicles with two or more occupants only (HOV)"
+       }
+      },
+      {
+       "codigo": "R3-12",
+       "significado": {
+        "es": "Más adelante hay un carril exclusivo para vehículos con varios ocupantes (HOV)",
+        "en": "High-occupancy vehicle (HOV) lane ahead"
+       }
+      },
+      {
+       "codigo": "R3-14",
+       "significado": {
+        "es": "Carril HOV solo en los días y horarios indicados",
+        "en": "HOV-only lane during the days and hours shown"
+       }
+      }
+     ]
+    },
+    {
+     "id": "rebasar",
+     "nombre": {
+      "es": "Rebasar y mantenerse en el carril",
+      "en": "Passing and keeping in lane"
+     },
+     "seniales": [
+      {
+       "codigo": "R4-1",
+       "significado": {
+        "es": "Prohibido rebasar",
+        "en": "Do not pass"
+       }
+      },
+      {
+       "codigo": "R4-2",
+       "significado": {
+        "es": "Termina la zona de no rebasar: puedes rebasar con cuidado",
+        "en": "End of no-passing zone: you may pass with care"
+       }
+      },
+      {
+       "codigo": "R4-3",
+       "significado": {
+        "es": "El tráfico más lento debe circular por la derecha",
+        "en": "Slower traffic must keep right"
+       }
+      },
+      {
+       "codigo": "R4-4",
+       "significado": {
+        "es": "Empieza el carril para dar vuelta a la derecha: cede el paso a las bicicletas",
+        "en": "Right-turn lane begins: yield to bicycles"
+       }
+      },
+      {
+       "codigo": "R4-5",
+       "significado": {
+        "es": "Los camiones deben usar el carril derecho",
+        "en": "Trucks must use the right lane"
+       }
+      },
+      {
+       "codigo": "R4-7",
+       "significado": {
+        "es": "Pasa por la derecha del obstáculo o isla",
+        "en": "Keep to the right of the obstruction or island"
+       }
+      },
+      {
+       "codigo": "R4-8",
+       "significado": {
+        "es": "Pasa por la izquierda del obstáculo o isla",
+        "en": "Keep to the left of the obstruction or island"
+       }
+      },
+      {
+       "codigo": "R4-9",
+       "significado": {
+        "es": "Mantente en tu carril: no cambies de carril",
+        "en": "Stay in your lane: do not change lanes"
+       }
+      },
+      {
+       "codigo": "R4-10",
+       "significado": {
+        "es": "Rampa solo para vehículos que se quedaron sin frenos",
+        "en": "Ramp for runaway vehicles only"
+       },
+       "consejo": "Es una rampa de escape en bajadas largas; no la uses para estacionar."
+      },
+      {
+       "codigo": "R4-11",
+       "significado": {
+        "es": "Las bicicletas pueden usar todo el carril",
+        "en": "Bicycles may use the full lane"
+       },
+       "consejo": "Dales espacio y rebásalas solo cuando puedas cambiar de carril."
+      },
+      {
+       "codigo": "R4-12",
+       "significado": {
+        "es": "Los vehículos lentos deben usar el apartadero para dejar pasar",
+        "en": "Slow vehicles must use the turnout"
+       }
+      },
+      {
+       "codigo": "R4-16",
+       "significado": {
+        "es": "Mantente a la derecha, salvo para rebasar",
+        "en": "Keep right except to pass"
+       }
+      }
+     ]
+    },
+    {
+     "id": "prohibido",
+     "nombre": {
+      "es": "Acceso prohibido",
+      "en": "No entry"
+     },
+     "seniales": [
+      {
+       "codigo": "R5-1",
+       "significado": {
+        "es": "Prohibido entrar (vías o rampas en sentido contrario)",
+        "en": "Do not enter"
+       }
+      },
+      {
+       "codigo": "R5-1a",
+       "significado": {
+        "es": "Vas en sentido contrario: detente y regresa cuando sea seguro",
+        "en": "Wrong way: you are going against traffic"
+       }
+      },
+      {
+       "codigo": "R5-2",
+       "significado": {
+        "es": "Prohibido el paso de camiones",
+        "en": "No trucks"
+       }
+      },
+      {
+       "codigo": "R5-3",
+       "significado": {
+        "es": "Prohibido el paso de vehículos motorizados",
+        "en": "No motor vehicles"
+       }
+      },
+      {
+       "codigo": "R5-6",
+       "significado": {
+        "es": "Prohibido el paso de bicicletas",
+        "en": "No bicycles"
+       }
+      },
+      {
+       "codigo": "R5-8",
+       "significado": {
+        "es": "Prohibido el paso de motos y ciclomotores",
+        "en": "No motor-driven cycles"
+       }
+      },
+      {
+       "codigo": "R5-10b",
+       "significado": {
+        "es": "Prohibido el paso de peatones y bicicletas",
+        "en": "No pedestrians or bicycles"
+       }
+      },
+      {
+       "codigo": "R5-10c",
+       "significado": {
+        "es": "Prohibido el paso de peatones",
+        "en": "No pedestrians"
+       }
+      },
+      {
+       "codigo": "R5-11",
+       "significado": {
+        "es": "Solo pueden pasar vehículos autorizados",
+        "en": "Authorized vehicles only"
+       }
+      },
+      {
+       "codigo": "R9-3",
+       "significado": {
+        "es": "Prohibido cruzar a pie (sin paso de peatones)",
+        "en": "No pedestrian crossing"
+       }
+      },
+      {
+       "codigo": "R9-4",
+       "significado": {
+        "es": "Prohibido pedir aventón (hacer dedo)",
+        "en": "No hitchhiking"
+       }
+      },
+      {
+       "codigo": "R9-13",
+       "significado": {
+        "es": "Prohibido patinar (patinetas y patines)",
+        "en": "No skaters"
+       }
+      }
+     ]
+    },
+    {
+     "id": "sentido",
+     "nombre": {
+      "es": "Un solo sentido y glorietas",
+      "en": "One way and roundabouts"
+     },
+     "seniales": [
+      {
+       "codigo": "R6-1R",
+       "significado": {
+        "es": "Calle de un solo sentido: todo el tráfico va hacia donde apunta la flecha",
+        "en": "One-way street: all traffic goes in the direction of the arrow"
+       }
+      },
+      {
+       "codigo": "R6-3",
+       "significado": {
+        "es": "Cruzas una carretera dividida: cada lado tiene un solo sentido",
+        "en": "You are crossing a divided highway: each side is one-way"
+       },
+       "consejo": "Al cruzar, el tráfico de cada lado viene de una sola dirección."
+      },
+      {
+       "codigo": "R6-4",
+       "significado": {
+        "es": "En la glorieta, circula hacia la derecha alrededor de la isleta",
+        "en": "In the roundabout, travel to the right around the island"
+       }
+      },
+      {
+       "codigo": "R6-5P",
+       "significado": {
+        "es": "Indica el sentido en que se circula dentro de la glorieta",
+        "en": "Shows the direction of travel in the roundabout"
+       }
+      },
+      {
+       "codigo": "R6-6",
+       "significado": {
+        "es": "Comienza el tramo de un solo sentido",
+        "en": "One-way section begins"
+       }
+      },
+      {
+       "codigo": "R6-7",
+       "significado": {
+        "es": "Termina el tramo de un solo sentido",
+        "en": "One-way section ends"
+       }
+      }
+     ]
+    },
+    {
+     "id": "estacionar",
+     "nombre": {
+      "es": "Estacionar y detenerse",
+      "en": "Parking and stopping"
+     },
+     "seniales": [
+      {
+       "codigo": "R7-1",
+       "significado": {
+        "es": "Prohibido estacionar en todo momento",
+        "en": "No parking at any time"
+       }
+      },
+      {
+       "codigo": "R7-4",
+       "significado": {
+        "es": "Prohibido detenerse a esperar en todo momento (ni siquiera con alguien en el auto)",
+        "en": "No standing at any time (not even with someone in the car)"
+       }
+      },
+      {
+       "codigo": "R7-5",
+       "significado": {
+        "es": "Estacionamiento permitido por tiempo limitado, en el horario indicado",
+        "en": "Limited-time parking during the hours shown"
+       }
+      },
+      {
+       "codigo": "R7-6",
+       "significado": {
+        "es": "Prohibido estacionar: zona de carga y descarga",
+        "en": "No parking: loading zone"
+       }
+      },
+      {
+       "codigo": "R7-8",
+       "significado": {
+        "es": "Estacionamiento reservado para personas con discapacidad con permiso",
+        "en": "Reserved parking for people with disabilities who have a permit"
+       }
+      },
+      {
+       "codigo": "R7-107",
+       "significado": {
+        "es": "Prohibido estacionar: parada de autobús",
+        "en": "No parking: bus stop"
+       }
+      },
+      {
+       "codigo": "R7-201P",
+       "significado": {
+        "es": "Zona de grúa: los autos mal estacionados se remolcan",
+        "en": "Tow-away zone: illegally parked cars will be towed"
+       }
+      },
+      {
+       "codigo": "R8-3",
+       "significado": {
+        "es": "Prohibido estacionar",
+        "en": "No parking"
+       }
+      },
+      {
+       "codigo": "R8-4",
+       "significado": {
+        "es": "Estacionamiento solo para emergencias",
+        "en": "Emergency parking only"
+       }
+      },
+      {
+       "codigo": "R8-5",
+       "significado": {
+        "es": "Prohibido detenerse sobre el pavimento",
+        "en": "No stopping on the pavement"
+       }
+      },
+      {
+       "codigo": "R8-6",
+       "significado": {
+        "es": "Prohibido detenerse, salvo en el acotamiento (orilla)",
+        "en": "No stopping except on the shoulder"
+       }
+      },
+      {
+       "codigo": "R8-7",
+       "significado": {
+        "es": "Detenerse solo en caso de emergencia",
+        "en": "Emergency stopping only"
+       }
+      }
+     ]
+    },
+    {
+     "id": "peatones",
+     "nombre": {
+      "es": "Peatones",
+      "en": "Pedestrians"
+     },
+     "seniales": [
+      {
+       "codigo": "R9-1",
+       "significado": {
+        "es": "Los peatones deben caminar por la izquierda, de frente al tráfico",
+        "en": "Pedestrians must walk on the left, facing traffic"
+       }
+      },
+      {
+       "codigo": "R9-2",
+       "significado": {
+        "es": "Los peatones solo deben cruzar por los cruces peatonales",
+        "en": "Pedestrians must cross only at crosswalks"
+       }
+      },
+      {
+       "codigo": "R9-10",
+       "significado": {
+        "es": "Acera cerrada para los peatones",
+        "en": "Sidewalk closed"
+       }
+      },
+      {
+       "codigo": "R10-1",
+       "significado": {
+        "es": "Los peatones solo pueden cruzar con luz verde",
+        "en": "Pedestrians may cross only on green"
+       }
+      },
+      {
+       "codigo": "R10-3",
+       "significado": {
+        "es": "Oprime el botón para que se encienda la señal de cruzar",
+        "en": "Push the button for the walk signal"
+       }
+      }
+     ]
+    },
+    {
+     "id": "semaforo",
+     "nombre": {
+      "es": "Semáforos y vueltas",
+      "en": "Signals and turns"
+     },
+     "seniales": [
+      {
+       "codigo": "R10-5",
+       "significado": {
+        "es": "Vuelta a la izquierda solo con flecha verde",
+        "en": "Left turn on green arrow only"
+       }
+      },
+      {
+       "codigo": "R10-6",
+       "significado": {
+        "es": "Con luz roja, detente aquí (antes de la línea)",
+        "en": "Stop here on red"
+       }
+      },
+      {
+       "codigo": "R10-7",
+       "significado": {
+        "es": "No bloquees la intersección",
+        "en": "Do not block the intersection"
+       },
+       "consejo": "No entres si no puedes cruzarla completamente."
+      },
+      {
+       "codigo": "R10-11",
+       "significado": {
+        "es": "Prohibido dar vuelta con la luz roja",
+        "en": "No turn on red"
+       },
+       "consejo": "Debes esperar la luz verde aunque no venga nadie."
+      },
+      {
+       "codigo": "R10-12",
+       "significado": {
+        "es": "Con luz verde, la vuelta a la izquierda debe ceder el paso al tráfico de frente",
+        "en": "On a green light, left turns must yield to oncoming traffic"
+       }
+      },
+      {
+       "codigo": "R10-15R",
+       "significado": {
+        "es": "Los vehículos que dan vuelta deben ceder el paso a los peatones",
+        "en": "Turning vehicles must yield to pedestrians"
+       }
+      },
+      {
+       "codigo": "R10-16",
+       "significado": {
+        "es": "Quien da vuelta en U debe ceder el paso a quien dobla a la derecha",
+        "en": "U-turning vehicles must yield to right-turning vehicles"
+       }
+      },
+      {
+       "codigo": "R10-17a",
+       "significado": {
+        "es": "Con flecha roja a la derecha, puedes doblar después de detenerte",
+        "en": "On a red right arrow, you may turn after stopping"
+       }
+      },
+      {
+       "codigo": "R10-18",
+       "significado": {
+        "es": "Las leyes de tránsito se controlan con cámaras",
+        "en": "Traffic laws are photo enforced"
+       }
+      },
+      {
+       "codigo": "R10-23",
+       "significado": {
+        "es": "Semáforo de cruce peatonal: detente con luz roja",
+        "en": "Crosswalk signal: stop on red"
+       }
+      },
+      {
+       "codigo": "R10-27",
+       "significado": {
+        "es": "Con flecha roja intermitente, puedes dar vuelta a la izquierda después de detenerte y ceder el paso",
+        "en": "On a flashing red arrow, you may turn left after stopping and yielding"
+       }
+      },
+      {
+       "codigo": "R10-30",
+       "significado": {
+        "es": "Quien dobla a la derecha en rojo debe ceder el paso a quien da vuelta en U",
+        "en": "Right turns on red must yield to U-turning vehicles"
+       }
+      }
+     ]
+    },
+    {
+     "id": "cerrado",
+     "nombre": {
+      "es": "Caminos cerrados",
+      "en": "Road closures"
+     },
+     "seniales": [
+      {
+       "codigo": "R11-1",
+       "significado": {
+        "es": "No circules sobre el camellón (divisor central)",
+        "en": "Keep off the median"
+       }
+      },
+      {
+       "codigo": "R11-2",
+       "significado": {
+        "es": "Camino cerrado: no se puede pasar",
+        "en": "Road closed"
+       }
+      },
+      {
+       "codigo": "R11-3",
+       "significado": {
+        "es": "Camino cerrado más adelante; solo tráfico local",
+        "en": "Road closed ahead, local traffic only"
+       }
+      },
+      {
+       "codigo": "R11-3b",
+       "significado": {
+        "es": "Puente cerrado más adelante; solo tráfico local",
+        "en": "Bridge out ahead, local traffic only"
+       }
+      }
+     ]
+    },
+    {
+     "id": "camiones",
+     "nombre": {
+      "es": "Camiones",
+      "en": "Trucks"
+     },
+     "seniales": [
+      {
+       "codigo": "R12-1",
+       "significado": {
+        "es": "Límite de peso: no pueden pasar vehículos más pesados que lo indicado",
+        "en": "Weight limit: vehicles heavier than shown may not pass"
+       }
+      },
+      {
+       "codigo": "R13-1",
+       "significado": {
+        "es": "Los camiones de más de 10 toneladas deben entrar a la estación de pesaje",
+        "en": "Trucks over 10 tons must enter the weigh station"
+       }
+      },
+      {
+       "codigo": "R14-1",
+       "significado": {
+        "es": "Ruta para camiones",
+        "en": "Truck route"
+       }
+      },
+      {
+       "codigo": "R14-3",
+       "significado": {
+        "es": "Prohibido el paso de vehículos con materiales peligrosos",
+        "en": "Vehicles carrying hazardous materials are prohibited"
+       }
+      }
+     ]
+    },
+    {
+     "id": "seguridad",
+     "nombre": {
+      "es": "Cinturón y luces",
+      "en": "Seat belts and lights"
+     },
+     "seniales": [
+      {
+       "codigo": "R16-1",
+       "significado": {
+        "es": "Usa el cinturón de seguridad: es la ley",
+        "en": "Buckle up: it's the law"
+       }
+      },
+      {
+       "codigo": "R16-4",
+       "significado": {
+        "es": "Si tienes un choque leve, saca los vehículos de los carriles",
+        "en": "After a minor crash, move vehicles out of the travel lanes"
+       }
+      },
+      {
+       "codigo": "R16-6",
+       "significado": {
+        "es": "Enciende las luces cuando llueve",
+        "en": "Turn on your lights when it rains"
+       }
+      },
+      {
+       "codigo": "R16-8",
+       "significado": {
+        "es": "Enciende las luces delanteras",
+        "en": "Turn on your headlights"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "advertencia",
+   "nombre": {
+    "es": "De advertencia",
+    "en": "Warning"
+   },
+   "descripcion": "Avisan de peligros o cambios en el camino. Suelen ser amarillas con forma de rombo.",
+   "grupos": [
+    {
+     "id": "curvas",
+     "nombre": {
+      "es": "Curvas",
+      "en": "Curves"
+     },
+     "seniales": [
+      {
+       "codigo": "W1-1R",
+       "significado": {
+        "es": "Curva cerrada a la derecha",
+        "en": "Sharp turn to the right"
+       },
+       "consejo": "Reduce la velocidad antes de entrar."
+      },
+      {
+       "codigo": "W1-1L",
+       "significado": {
+        "es": "Curva cerrada a la izquierda",
+        "en": "Sharp turn to the left"
+       },
+       "consejo": "Reduce la velocidad antes de entrar."
+      },
+      {
+       "codigo": "W1-2R",
+       "significado": {
+        "es": "Curva suave a la derecha",
+        "en": "Gentle curve to the right"
+       }
+      },
+      {
+       "codigo": "W1-2L",
+       "significado": {
+        "es": "Curva suave a la izquierda",
+        "en": "Gentle curve to the left"
+       }
+      },
+      {
+       "codigo": "W1-3R",
+       "significado": {
+        "es": "Dos curvas cerradas seguidas: primero a la derecha y luego a la izquierda",
+        "en": "Two sharp turns in a row: first right, then left"
+       }
+      },
+      {
+       "codigo": "W1-4R",
+       "significado": {
+        "es": "Dos curvas seguidas: primero a la derecha y luego a la izquierda",
+        "en": "Two curves in a row: first right, then left"
+       }
+      },
+      {
+       "codigo": "W1-5R",
+       "significado": {
+        "es": "Camino con muchas curvas",
+        "en": "Winding road"
+       }
+      },
+      {
+       "codigo": "W1-6R",
+       "significado": {
+        "es": "Cambio brusco de dirección a la derecha",
+        "en": "Sharp change of direction to the right"
+       }
+      },
+      {
+       "codigo": "W1-7",
+       "significado": {
+        "es": "Fin del camino: debes doblar a la izquierda o a la derecha",
+        "en": "Road ends: you must turn left or right"
+       }
+      },
+      {
+       "codigo": "W1-8R",
+       "significado": {
+        "es": "Marca la curva: sigue la dirección de la flecha",
+        "en": "Marks the curve: follow the direction of the chevron"
+       }
+      },
+      {
+       "codigo": "W1-11R",
+       "significado": {
+        "es": "Curva en horquilla (muy cerrada, casi en U) a la derecha",
+        "en": "Hairpin curve to the right"
+       }
+      },
+      {
+       "codigo": "W1-13R",
+       "significado": {
+        "es": "Curva donde los camiones pueden volcar: reduce la velocidad",
+        "en": "Curve where trucks may roll over: slow down"
+       }
+      },
+      {
+       "codigo": "W1-15R",
+       "significado": {
+        "es": "Curva de 270 grados (en espiral) a la derecha, típica de rampas",
+        "en": "270-degree loop to the right, typical of ramps"
+       }
+      }
+     ]
+    },
+    {
+     "id": "interseccion",
+     "nombre": {
+      "es": "Intersecciones",
+      "en": "Intersections"
+     },
+     "seniales": [
+      {
+       "codigo": "W2-1",
+       "significado": {
+        "es": "Cruce de caminos más adelante",
+        "en": "Crossroad ahead"
+       }
+      },
+      {
+       "codigo": "W2-2L",
+       "significado": {
+        "es": "Camino lateral que entra por la izquierda más adelante",
+        "en": "Side road ahead on the left"
+       }
+      },
+      {
+       "codigo": "W2-3L",
+       "significado": {
+        "es": "Camino lateral en diagonal por la izquierda más adelante",
+        "en": "Diagonal side road ahead on the left"
+       }
+      },
+      {
+       "codigo": "W2-4",
+       "significado": {
+        "es": "Intersección en T más adelante: el camino termina",
+        "en": "T intersection ahead: the road ends"
+       }
+      },
+      {
+       "codigo": "W2-5",
+       "significado": {
+        "es": "Intersección en Y más adelante: el camino se divide en dos",
+        "en": "Y intersection ahead: the road splits"
+       }
+      },
+      {
+       "codigo": "W2-6",
+       "significado": {
+        "es": "Glorieta (rotonda) más adelante",
+        "en": "Roundabout ahead"
+       }
+      },
+      {
+       "codigo": "W2-7L",
+       "significado": {
+        "es": "Dos caminos laterales desplazados, primero a la izquierda",
+        "en": "Offset side roads ahead, first on the left"
+       }
+      }
+     ]
+    },
+    {
+     "id": "control",
+     "nombre": {
+      "es": "Señales y semáforos más adelante",
+      "en": "Controls ahead"
+     },
+     "seniales": [
+      {
+       "codigo": "W3-1",
+       "significado": {
+        "es": "Señal de ALTO más adelante",
+        "en": "Stop sign ahead"
+       },
+       "consejo": "Prepárate para detenerte."
+      },
+      {
+       "codigo": "W3-2",
+       "significado": {
+        "es": "Señal de CEDA EL PASO más adelante",
+        "en": "Yield sign ahead"
+       }
+      },
+      {
+       "codigo": "W3-3",
+       "significado": {
+        "es": "Semáforo más adelante",
+        "en": "Traffic signal ahead"
+       }
+      },
+      {
+       "codigo": "W3-4",
+       "significado": {
+        "es": "Prepárate para detenerte más adelante",
+        "en": "Be prepared to stop ahead"
+       }
+      },
+      {
+       "codigo": "W3-5",
+       "significado": {
+        "es": "Más adelante baja el límite de velocidad",
+        "en": "Reduced speed limit ahead"
+       }
+      },
+      {
+       "codigo": "W3-6",
+       "significado": {
+        "es": "Puente levadizo más adelante",
+        "en": "Drawbridge ahead"
+       }
+      },
+      {
+       "codigo": "W3-7",
+       "significado": {
+        "es": "Semáforo de rampa más adelante: regula la entrada a la autopista",
+        "en": "Ramp meter ahead: it controls entry to the freeway"
+       }
+      },
+      {
+       "codigo": "W3-8",
+       "significado": {
+        "es": "La rampa está regulada por semáforo cuando las luces destellan",
+        "en": "Ramp is metered when the lights are flashing"
+       }
+      }
+     ]
+    },
+    {
+     "id": "carriles",
+     "nombre": {
+      "es": "Carriles que se unen o terminan",
+      "en": "Merging and ending lanes"
+     },
+     "seniales": [
+      {
+       "codigo": "W4-1R",
+       "significado": {
+        "es": "Incorporación: otro carril se une al tuyo desde la derecha",
+        "en": "Merge: another lane joins yours from the right"
+       },
+       "consejo": "Ajusta la velocidad y deja espacio a quien se incorpora."
+      },
+      {
+       "codigo": "W4-2R",
+       "significado": {
+        "es": "El carril derecho termina: incorpórate a la izquierda",
+        "en": "Right lane ends: merge left"
+       }
+      },
+      {
+       "codigo": "W4-3R",
+       "significado": {
+        "es": "Se agrega un carril por la derecha: no hace falta incorporarse",
+        "en": "Added lane on the right: no need to merge"
+       }
+      },
+      {
+       "codigo": "W4-4P",
+       "significado": {
+        "es": "El tráfico transversal no se detiene",
+        "en": "Cross traffic does not stop"
+       },
+       "consejo": "Tienes ALTO pero el otro camino no: espera un espacio seguro."
+      },
+      {
+       "codigo": "W4-5R",
+       "significado": {
+        "es": "El camino por el que entras se incorpora a la vía principal",
+        "en": "Entering roadway merges with the main road"
+       }
+      },
+      {
+       "codigo": "W9-1",
+       "significado": {
+        "es": "El carril derecho termina más adelante",
+        "en": "Right lane ends ahead"
+       }
+      },
+      {
+       "codigo": "W9-2R",
+       "significado": {
+        "es": "El carril termina: incorpórate a la derecha",
+        "en": "Lane ends: merge right"
+       }
+      }
+     ]
+    },
+    {
+     "id": "estrecho",
+     "nombre": {
+      "es": "Angostamientos y carreteras divididas",
+      "en": "Narrowing and divided roads"
+     },
+     "seniales": [
+      {
+       "codigo": "W5-1",
+       "significado": {
+        "es": "El camino se angosta más adelante",
+        "en": "Road narrows ahead"
+       }
+      },
+      {
+       "codigo": "W5-2",
+       "significado": {
+        "es": "Puente angosto más adelante",
+        "en": "Narrow bridge ahead"
+       }
+      },
+      {
+       "codigo": "W5-3",
+       "significado": {
+        "es": "Puente de un solo carril: cede el paso si viene alguien de frente",
+        "en": "One-lane bridge: yield if someone is coming"
+       }
+      },
+      {
+       "codigo": "W6-1",
+       "significado": {
+        "es": "Comienza una carretera dividida: mantente a la derecha del divisor",
+        "en": "Divided highway begins: keep right of the median"
+       }
+      },
+      {
+       "codigo": "W6-2",
+       "significado": {
+        "es": "Termina la carretera dividida: más adelante hay tráfico de doble sentido",
+        "en": "Divided highway ends: two-way traffic ahead"
+       }
+      },
+      {
+       "codigo": "W6-3",
+       "significado": {
+        "es": "Tráfico en ambos sentidos: la vía ahora es de doble sentido",
+        "en": "Two-way traffic: the road is now two-way"
+       }
+      }
+     ]
+    },
+    {
+     "id": "pavimento",
+     "nombre": {
+      "es": "Pavimento y pendientes",
+      "en": "Road surface and hills"
+     },
+     "seniales": [
+      {
+       "codigo": "W8-5",
+       "significado": {
+        "es": "Pavimento resbaladizo cuando está mojado",
+        "en": "Slippery when wet"
+       }
+      },
+      {
+       "codigo": "W7-1",
+       "significado": {
+        "es": "Bajada pronunciada más adelante",
+        "en": "Steep downgrade ahead"
+       },
+       "consejo": "Pon un cambio más bajo y controla la velocidad."
+      },
+      {
+       "codigo": "W7-2P",
+       "significado": {
+        "es": "Usa un cambio bajo en la bajada",
+        "en": "Use low gear on the downgrade"
+       }
+      },
+      {
+       "codigo": "W7-4",
+       "significado": {
+        "es": "Rampa de escape para camiones sin frenos más adelante",
+        "en": "Runaway truck ramp ahead"
+       }
+      },
+      {
+       "codigo": "W8-1",
+       "significado": {
+        "es": "Lomo o elevación en el pavimento",
+        "en": "Bump in the road"
+       }
+      },
+      {
+       "codigo": "W8-2",
+       "significado": {
+        "es": "Hundimiento o depresión en el camino",
+        "en": "Dip in the road"
+       }
+      },
+      {
+       "codigo": "W8-3",
+       "significado": {
+        "es": "Termina el pavimento: sigue un camino de tierra o grava",
+        "en": "Pavement ends"
+       }
+      },
+      {
+       "codigo": "W8-4",
+       "significado": {
+        "es": "Acotamiento blando: no salgas del pavimento",
+        "en": "Soft shoulder: don't drive off the pavement"
+       }
+      },
+      {
+       "codigo": "W8-7",
+       "significado": {
+        "es": "Grava suelta en el camino",
+        "en": "Loose gravel"
+       }
+      },
+      {
+       "codigo": "W8-8",
+       "significado": {
+        "es": "Camino en mal estado",
+        "en": "Rough road"
+       }
+      },
+      {
+       "codigo": "W8-11",
+       "significado": {
+        "es": "Carriles a distinta altura (desnivel entre carriles)",
+        "en": "Uneven lanes"
+       }
+      },
+      {
+       "codigo": "W8-12",
+       "significado": {
+        "es": "El camino no tiene línea central",
+        "en": "No center line"
+       }
+      },
+      {
+       "codigo": "W8-13",
+       "significado": {
+        "es": "El puente se congela antes que el camino",
+        "en": "Bridge ices before road"
+       }
+      },
+      {
+       "codigo": "W8-14",
+       "significado": {
+        "es": "Zona de caída de rocas",
+        "en": "Fallen rocks"
+       }
+      },
+      {
+       "codigo": "W8-22",
+       "significado": {
+        "es": "Zona de niebla",
+        "en": "Fog area"
+       },
+       "consejo": "Enciende las luces bajas y reduce la velocidad."
+      }
+     ]
+    },
+    {
+     "id": "usuarios",
+     "nombre": {
+      "es": "Peatones, ciclistas y animales",
+      "en": "Pedestrians, cyclists and animals"
+     },
+     "seniales": [
+      {
+       "codigo": "W11-2",
+       "significado": {
+        "es": "Cruce de peatones",
+        "en": "Pedestrian crossing"
+       }
+      },
+      {
+       "codigo": "W11-1",
+       "significado": {
+        "es": "Cruce de bicicletas",
+        "en": "Bicycle crossing"
+       }
+      },
+      {
+       "codigo": "W11-3",
+       "significado": {
+        "es": "Cruce de venados",
+        "en": "Deer crossing"
+       }
+      },
+      {
+       "codigo": "W11-4",
+       "significado": {
+        "es": "Cruce de ganado",
+        "en": "Cattle crossing"
+       }
+      },
+      {
+       "codigo": "W11-5",
+       "significado": {
+        "es": "Maquinaria agrícola en la vía",
+        "en": "Farm equipment"
+       }
+      },
+      {
+       "codigo": "W11-7",
+       "significado": {
+        "es": "Cruce de jinetes a caballo",
+        "en": "Equestrian crossing"
+       }
+      },
+      {
+       "codigo": "W11-8",
+       "significado": {
+        "es": "Cruce de vehículos de emergencia",
+        "en": "Emergency vehicle crossing"
+       }
+      },
+      {
+       "codigo": "W11-9",
+       "significado": {
+        "es": "Cruce de personas con discapacidad",
+        "en": "Disabled persons crossing"
+       }
+      },
+      {
+       "codigo": "W11-10",
+       "significado": {
+        "es": "Cruce de camiones",
+        "en": "Truck crossing"
+       }
+      },
+      {
+       "codigo": "W11-11",
+       "significado": {
+        "es": "Cruce de carritos de golf",
+        "en": "Golf cart crossing"
+       }
+      },
+      {
+       "codigo": "W11-14",
+       "significado": {
+        "es": "Vehículos tirados por caballos",
+        "en": "Horse-drawn vehicles"
+       }
+      },
+      {
+       "codigo": "W11-15",
+       "significado": {
+        "es": "Cruce de bicicletas y peatones",
+        "en": "Bicycle and pedestrian crossing"
+       }
+      }
+     ]
+    },
+    {
+     "id": "otras",
+     "nombre": {
+      "es": "Otras advertencias",
+      "en": "Other warnings"
+     },
+     "seniales": [
+      {
+       "codigo": "W12-1",
+       "significado": {
+        "es": "Obstáculo en el medio: puedes pasar por cualquier lado",
+        "en": "Obstruction ahead: you may pass on either side"
+       }
+      },
+      {
+       "codigo": "W12-2",
+       "significado": {
+        "es": "Altura libre limitada (por ejemplo, bajo un puente)",
+        "en": "Low clearance (for example, under a bridge)"
+       },
+       "consejo": "Los vehículos más altos que lo indicado no pasan."
+      },
+      {
+       "codigo": "W13-1P",
+       "significado": {
+        "es": "Velocidad recomendada para la curva o el tramo",
+        "en": "Advisory speed for the curve or section"
+       }
+      },
+      {
+       "codigo": "W13-2",
+       "significado": {
+        "es": "Velocidad recomendada en la salida",
+        "en": "Advisory exit speed"
+       }
+      },
+      {
+       "codigo": "W13-3",
+       "significado": {
+        "es": "Velocidad recomendada en la rampa",
+        "en": "Advisory ramp speed"
+       }
+      },
+      {
+       "codigo": "W14-1",
+       "significado": {
+        "es": "Calle sin salida",
+        "en": "Dead end"
+       }
+      },
+      {
+       "codigo": "W14-2",
+       "significado": {
+        "es": "Zona sin salida: no se puede pasar a otras calles",
+        "en": "No outlet"
+       }
+      },
+      {
+       "codigo": "W14-3",
+       "significado": {
+        "es": "Zona de no rebasar",
+        "en": "No passing zone"
+       },
+       "consejo": "Tiene forma de banderín y se coloca a la izquierda del camino."
+      },
+      {
+       "codigo": "W15-1",
+       "significado": {
+        "es": "Área de juegos infantiles cercana",
+        "en": "Playground nearby"
+       }
+      },
+      {
+       "codigo": "W19-1",
+       "significado": {
+        "es": "Termina la autopista (freeway)",
+        "en": "Freeway ends"
+       }
+      },
+      {
+       "codigo": "W19-5",
+       "significado": {
+        "es": "Todo el tráfico debe salir",
+        "en": "All traffic must exit"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tren",
+   "nombre": {
+    "es": "Cruces de tren",
+    "en": "Railroad"
+   },
+   "descripcion": "Avisan de cruces de ferrocarril. Mira, escucha y prepárate para detenerte.",
+   "grupos": [
+    {
+     "id": "tren",
+     "nombre": {
+      "es": "Cruces de tren",
+      "en": "Railroad crossings"
+     },
+     "seniales": [
+      {
+       "codigo": "W10-1",
+       "significado": {
+        "es": "Cruce de tren más adelante",
+        "en": "Railroad crossing ahead"
+       },
+       "consejo": "Es la única señal redonda."
+      },
+      {
+       "codigo": "R8-8",
+       "significado": {
+        "es": "No te detengas sobre las vías del tren",
+        "en": "Do not stop on the tracks"
+       },
+       "consejo": "Solo cruza si hay espacio para quedar completamente del otro lado."
+      },
+      {
+       "codigo": "R15-1",
+       "significado": {
+        "es": "Cruce de ferrocarril: cede el paso a los trenes",
+        "en": "Railroad crossing: yield to trains"
+       },
+       "consejo": "Mira, escucha y prepárate para detenerte."
+      },
+      {
+       "codigo": "R15-2P",
+       "significado": {
+        "es": "Indica cuántas vías tiene el cruce de tren",
+        "en": "Shows how many tracks the crossing has"
+       },
+       "consejo": "Después de que pase un tren, puede venir otro por otra vía."
+      },
+      {
+       "codigo": "R15-8",
+       "significado": {
+        "es": "Mira a ambos lados antes de cruzar las vías",
+        "en": "Look both ways before crossing the tracks"
+       }
+      },
+      {
+       "codigo": "W10-2R",
+       "significado": {
+        "es": "Hay un cruce de tren en la calle transversal, cerca de la intersección",
+        "en": "Railroad crossing on the cross street near the intersection"
+       }
+      },
+      {
+       "codigo": "W10-5",
+       "significado": {
+        "es": "Cruce de tren elevado: vehículos muy bajos pueden quedar atascados",
+        "en": "Low ground clearance at the crossing: low vehicles may get stuck"
+       }
+      },
+      {
+       "codigo": "W10-9",
+       "significado": {
+        "es": "Los trenes no tocan la bocina en este cruce",
+        "en": "Trains do not sound their horn at this crossing"
+       }
+      },
+      {
+       "codigo": "W10-11",
+       "significado": {
+        "es": "Hay poco espacio entre las vías y la intersección: no te detengas sobre las vías",
+        "en": "Limited space between the tracks and the intersection: don't stop on the tracks"
+       }
+      },
+      {
+       "codigo": "W10-12R",
+       "significado": {
+        "es": "Las vías cruzan la calle en diagonal",
+        "en": "The tracks cross the road at an angle"
+       }
+      },
+      {
+       "codigo": "W10-13P",
+       "significado": {
+        "es": "El cruce de tren no tiene barreras ni luces",
+        "en": "The railroad crossing has no gates or lights"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "obras",
+   "nombre": {
+    "es": "Zonas de obras",
+    "en": "Work zones"
+   },
+   "descripcion": "Son naranjas: reduce la velocidad y presta atención a los trabajadores.",
+   "grupos": [
+    {
+     "id": "obras",
+     "nombre": {
+      "es": "Zonas de obras",
+      "en": "Work zones"
+     },
+     "seniales": [
+      {
+       "codigo": "G20-1",
+       "significado": {
+        "es": "Obras en el camino durante la distancia indicada",
+        "en": "Road work for the distance shown"
+       }
+      },
+      {
+       "codigo": "G20-5aP",
+       "significado": {
+        "es": "Zona de obras",
+        "en": "Work zone"
+       },
+       "consejo": "Las multas suelen ser más altas."
+      },
+      {
+       "codigo": "CW20-1",
+       "significado": {
+        "es": "Obras en el camino más adelante",
+        "en": "Road work ahead"
+       },
+       "consejo": "Reduce la velocidad y presta atención a los trabajadores."
+      },
+      {
+       "codigo": "CW20-3",
+       "significado": {
+        "es": "Camino cerrado más adelante por obras",
+        "en": "Road closed ahead"
+       }
+      },
+      {
+       "codigo": "M4-8a",
+       "significado": {
+        "es": "Termina el desvío",
+        "en": "End detour"
+       }
+      },
+      {
+       "codigo": "CW20-7",
+       "significado": {
+        "es": "Trabajador con bandera más adelante",
+        "en": "Flagger ahead"
+       },
+       "consejo": "Obedece sus indicaciones."
+      },
+      {
+       "codigo": "CW21-1",
+       "significado": {
+        "es": "Trabajadores en la vía",
+        "en": "Workers on the road"
+       }
+      },
+      {
+       "codigo": "CW21-2",
+       "significado": {
+        "es": "Asfalto o aceite fresco en el camino",
+        "en": "Fresh oil (tar) on the road"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "escolares",
+   "nombre": {
+    "es": "Escolares",
+    "en": "School"
+   },
+   "descripcion": "Amarillo verdoso fluorescente: niños, escuelas y autobuses escolares.",
+   "grupos": [
+    {
+     "id": "escolar",
+     "nombre": {
+      "es": "Zonas escolares",
+      "en": "School zones"
+     },
+     "seniales": [
+      {
+       "codigo": "S1-1",
+       "significado": {
+        "es": "Zona o cruce escolar",
+        "en": "School zone or crossing"
+       },
+       "consejo": "Maneja despacio y detente si hay niños cruzando."
+      },
+      {
+       "codigo": "S3-1",
+       "significado": {
+        "es": "Parada de autobús escolar más adelante",
+        "en": "School bus stop ahead"
+       }
+      },
+      {
+       "codigo": "S3-2",
+       "significado": {
+        "es": "El autobús escolar da vuelta más adelante",
+        "en": "School bus turn ahead"
+       }
+      },
+      {
+       "codigo": "S4-2P",
+       "significado": {
+        "es": "El límite escolar rige cuando hay niños presentes",
+        "en": "The school limit applies when children are present"
+       }
+      },
+      {
+       "codigo": "S4-4P",
+       "significado": {
+        "es": "El límite escolar rige cuando las luces destellan",
+        "en": "The school limit applies when the lights are flashing"
+       }
+      },
+      {
+       "codigo": "S4-5",
+       "significado": {
+        "es": "Más adelante baja el límite de velocidad por zona escolar",
+        "en": "Reduced school speed limit ahead"
+       }
+      },
+      {
+       "codigo": "S5-1",
+       "significado": {
+        "es": "Límite de velocidad en zona escolar cuando las luces destellan",
+        "en": "School zone speed limit when the lights are flashing"
+       }
+      },
+      {
+       "codigo": "S5-2",
+       "significado": {
+        "es": "Termina la zona escolar",
+        "en": "End of school zone"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guia",
+   "nombre": {
+    "es": "Guía y servicios",
+    "en": "Guide and services"
+   },
+   "descripcion": "Verdes (direcciones y destinos) y azules (servicios).",
+   "grupos": [
+    {
+     "id": "servicios",
+     "nombre": {
+      "es": "Guía y servicios",
+      "en": "Guide and services"
+     },
+     "seniales": [
+      {
+       "codigo": "D3-1",
+       "significado": {
+        "es": "Nombre de la calle",
+        "en": "Street name"
+       }
+      },
+      {
+       "codigo": "D4-1",
+       "significado": {
+        "es": "Área de estacionamiento",
+        "en": "Parking area"
+       }
+      },
+      {
+       "codigo": "D4-2",
+       "significado": {
+        "es": "Estacionamiento para dejar el auto y tomar transporte público (Park & Ride)",
+        "en": "Park and ride lot"
+       }
+      },
+      {
+       "codigo": "D5-1",
+       "significado": {
+        "es": "Área de descanso",
+        "en": "Rest area"
+       }
+      },
+      {
+       "codigo": "D9-2",
+       "significado": {
+        "es": "Hospital",
+        "en": "Hospital"
+       }
+      },
+      {
+       "codigo": "D9-3",
+       "significado": {
+        "es": "Área para acampar",
+        "en": "Camping"
+       }
+      },
+      {
+       "codigo": "D9-6",
+       "significado": {
+        "es": "Instalación accesible para personas con discapacidad",
+        "en": "Accessible for people with disabilities"
+       }
+      },
+      {
+       "codigo": "D9-7",
+       "significado": {
+        "es": "Gasolinera",
+        "en": "Gas station"
+       }
+      },
+      {
+       "codigo": "D9-8",
+       "significado": {
+        "es": "Comida",
+        "en": "Food"
+       }
+      },
+      {
+       "codigo": "D9-9",
+       "significado": {
+        "es": "Alojamiento (hotel)",
+        "en": "Lodging"
+       }
+      },
+      {
+       "codigo": "D9-10",
+       "significado": {
+        "es": "Información",
+        "en": "Information"
+       }
+      },
+      {
+       "codigo": "D9-11b",
+       "significado": {
+        "es": "Estación de carga para vehículos eléctricos",
+        "en": "Electric vehicle charging"
+       }
+      },
+      {
+       "codigo": "D9-14",
+       "significado": {
+        "es": "Policía",
+        "en": "Police"
+       }
+      },
+      {
+       "codigo": "D9-20",
+       "significado": {
+        "es": "Farmacia",
+        "en": "Pharmacy"
+       }
+      },
+      {
+       "codigo": "D11-1c",
+       "significado": {
+        "es": "Ruta para bicicletas",
+        "en": "Bike route"
+       }
+      },
+      {
+       "codigo": "D12-4",
+       "significado": {
+        "es": "En caso de emergencia, llama al 911",
+        "en": "Emergency: call 911"
+       }
+      },
+      {
+       "codigo": "D12-5",
+       "significado": {
+        "es": "Información de viaje: llama al 511",
+        "en": "Travel info: call 511"
+       }
+      },
+      {
+       "codigo": "D13-3",
+       "significado": {
+        "es": "Entrada a la autopista",
+        "en": "Freeway entrance"
+       }
+      },
+      {
+       "codigo": "D10-1",
+       "significado": {
+        "es": "Poste de referencia (marca la milla del camino)",
+        "en": "Milepost (reference location)"
+       }
+      },
+      {
+       "codigo": "E5-1",
+       "significado": {
+        "es": "Salida de la autopista",
+        "en": "Freeway exit"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

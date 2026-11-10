@@ -1,0 +1,1369 @@
+{
+  "estado": "TX",
+  "version": "2026-11-10",
+  "preguntas": [
+    {
+      "id": "TX-0001",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Texas, ¿cuál es la edad mínima para obtener la licencia de aprendiz (learner license)?",
+        "en": "In Texas, what is the minimum age for a learner license?"
+      },
+      "opciones": [
+        {
+          "es": "14 años",
+          "en": "14"
+        },
+        {
+          "es": "15 años, con educación vial",
+          "en": "15, with driver education"
+        },
+        {
+          "es": "16 años",
+          "en": "16"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Se obtiene desde los 15 años, después de la parte teórica de educación vial y los exámenes de visión y de conocimientos. Vence al cumplir 18.",
+        "en": "You can get it at 15 after the classroom part of driver education and the vision and knowledge exams. It expires on your 18th birthday."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Tu licencia para manejar",
+        "pagina": 1,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0002",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Con licencia de aprendiz en Texas, ¿quién debe ir a tu lado?",
+        "en": "With a Texas learner license, who must sit beside you?"
+      },
+      "opciones": [
+        {
+          "es": "Un conductor con licencia de 21 años o más y al menos un año de experiencia",
+          "en": "A licensed driver 21 or older with at least one year of experience"
+        },
+        {
+          "es": "Cualquier persona de 18 años",
+          "en": "Anyone who is 18"
+        },
+        {
+          "es": "Un amigo con licencia",
+          "en": "A licensed friend"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "El acompañante debe tener 21 años o más, un año de experiencia, ir en el asiento de al lado y estar atento (no dormido ni intoxicado).",
+        "en": "The companion must be 21 or older with one year of experience, in the front passenger seat, and alert (not asleep or intoxicated)."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Tu licencia para manejar",
+        "pagina": 1,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0003",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Siendo menor de 18 en Texas, ¿cuánto tiempo debes tener la licencia de aprendiz antes de la licencia provisional?",
+        "en": "As a minor in Texas, how long must you hold a learner license before getting a provisional license?"
+      },
+      "opciones": [
+        {
+          "es": "3 meses",
+          "en": "3 months"
+        },
+        {
+          "es": "12 meses",
+          "en": "12 months"
+        },
+        {
+          "es": "Al menos 6 meses",
+          "en": "At least 6 months"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "En la Fase Uno del programa GDL debes tener la licencia de aprendiz al menos seis meses. Si te la suspenden, ese plazo se alarga.",
+        "en": "In Phase One of the GDL program you must hold the learner license at least six months. A suspension extends that period."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Licencia graduada (GDL)",
+        "pagina": 2,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0004",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Con licencia provisional en Texas, ¿cuántos pasajeros menores de 21 que no sean familiares puedes llevar?",
+        "en": "With a Texas provisional license, how many passengers under 21 who are not family members may you carry?"
+      },
+      "opciones": [
+        {
+          "es": "No más de uno",
+          "en": "No more than one"
+        },
+        {
+          "es": "Hasta tres",
+          "en": "Up to three"
+        },
+        {
+          "es": "Los que quieras",
+          "en": "As many as you want"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Hasta cumplir 18, no puedes llevar más de un pasajero menor de 21 que no sea de tu familia.",
+        "en": "Until you turn 18, you may not carry more than one passenger under 21 who is not a family member."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Licencia graduada (GDL)",
+        "pagina": 3,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0005",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Con licencia provisional en Texas, ¿en qué horario no puedes manejar, salvo por trabajo, escuela o emergencia médica?",
+        "en": "With a Texas provisional license, during what hours may you not drive, except for work, school or a medical emergency?"
+      },
+      "opciones": [
+        {
+          "es": "Entre las 11 p. m. y las 5 a. m.",
+          "en": "Between 11 p.m. and 5 a.m."
+        },
+        {
+          "es": "Entre la medianoche y las 5 a. m.",
+          "en": "Between midnight and 5 a.m."
+        },
+        {
+          "es": "Entre la 1 a. m. y las 6 a. m.",
+          "en": "Between 1 a.m. and 6 a.m."
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "La Fase Dos prohíbe manejar de medianoche a 5 a. m., salvo que sea necesario por trabajo, una actividad escolar o una emergencia médica.",
+        "en": "Phase Two bans driving from midnight to 5 a.m., unless needed for work, a school activity or a medical emergency."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Licencia graduada (GDL)",
+        "pagina": 3,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0006",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Eres menor de 18 en Texas. ¿Puedes usar el celular al manejar con un manos libres?",
+        "en": "You are under 18 in Texas. May you use a phone while driving with a hands-free device?"
+      },
+      "opciones": [
+        {
+          "es": "Sí, si es manos libres",
+          "en": "Yes, if hands-free"
+        },
+        {
+          "es": "Sí, solo para mensajes de voz",
+          "en": "Yes, only for voice messages"
+        },
+        {
+          "es": "No, salvo en una emergencia",
+          "en": "No, except in an emergency"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los menores de 18 no pueden usar ningún dispositivo de comunicación inalámbrica al manejar, ni siquiera manos libres, salvo emergencias.",
+        "en": "Drivers under 18 may not use any wireless communication device while driving, even hands-free, except in an emergency."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Licencia graduada (GDL)",
+        "pagina": 3,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0007",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Texas, ¿cada cuánto se renueva normalmente la licencia de conducir de un adulto?",
+        "en": "In Texas, how often is an adult driver license usually renewed?"
+      },
+      "opciones": [
+        {
+          "es": "Cada 8 años",
+          "en": "Every 8 years"
+        },
+        {
+          "es": "Cada 4 años",
+          "en": "Every 4 years"
+        },
+        {
+          "es": "Cada 2 años",
+          "en": "Every 2 years"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La mayoría de las licencias no comerciales para mayores de 18 duran ocho años. Además, debes ir a una oficina al menos cada 16 años para el examen de la vista y la foto.",
+        "en": "Most non-commercial licenses for those 18 and older are valid for eight years. You must visit an office at least every 16 years for a vision exam and photo."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Tu licencia para manejar",
+        "pagina": 10,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0008",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Texas, ¿cuántas condenas de tránsito pueden llevar a que el DPS suspenda la licencia de un adulto?",
+        "en": "In Texas, how many traffic convictions can lead DPS to suspend an adult's license?"
+      },
+      "opciones": [
+        {
+          "es": "Dos en un año",
+          "en": "Two in a year"
+        },
+        {
+          "es": "Cuatro o más en 12 meses, o siete o más en 24 meses",
+          "en": "Four or more in 12 months, or seven or more in 24 months"
+        },
+        {
+          "es": "Diez en cinco años",
+          "en": "Ten in five years"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Las infracciones repetidas son motivo de suspensión. Para menores de 18, alcanzan dos condenas en 12 meses.",
+        "en": "Repeated violations are grounds for suspension. For drivers under 18, two convictions in 12 months are enough."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 1 – Suspensiones y revocaciones",
+        "pagina": 11,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0009",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "¿Cuál es el seguro de responsabilidad mínimo en Texas?",
+        "en": "What is the minimum liability insurance in Texas?"
+      },
+      "opciones": [
+        {
+          "es": "$10,000 por persona y $10,000 por daños",
+          "en": "$10,000 per person and $10,000 property"
+        },
+        {
+          "es": "$30,000 por persona, $60,000 por varias personas y $15,000 por daños",
+          "en": "$30,000 per person, $60,000 for several people and $15,000 property"
+        },
+        {
+          "es": "$30,000 por persona, $60,000 por dos o más personas y $25,000 por daños a la propiedad",
+          "en": "$30,000 per person, $60,000 for two or more people and $25,000 property damage"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Texas exige 30/60/25. Debes mostrar la prueba del seguro a la policía si te la pide y a los demás involucrados en un choque. Sirve también en el teléfono.",
+        "en": "Texas requires 30/60/25. You must show proof of insurance to police on request and to others in a crash. Proof on a phone is accepted."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 3 – Responsabilidad financiera",
+        "pagina": 18,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0010",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Texas te condenan por primera vez por manejar sin prueba de seguro. ¿Qué multa corresponde?",
+        "en": "In Texas you are convicted for the first time of driving without proof of insurance. What is the fine?"
+      },
+      "opciones": [
+        {
+          "es": "De $175 a $350",
+          "en": "$175 to $350"
+        },
+        {
+          "es": "$50",
+          "en": "$50"
+        },
+        {
+          "es": "De $1,000 a $2,000",
+          "en": "$1,000 to $2,000"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La primera condena es una multa de $175 a $350. Desde la segunda, suspensión de la licencia, multa de $350 a $1,000 y posible incautación del vehículo por 180 días.",
+        "en": "A first conviction is a $175–$350 fine. From the second on: license suspension, a $350–$1,000 fine and possible 180-day vehicle impoundment."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 3 – Responsabilidad financiera",
+        "pagina": 18,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0011",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Texas, ¿cuánto alcohol puede tener en el cuerpo un conductor menor de 21 años?",
+        "en": "In Texas, how much alcohol may a driver under 21 have in their system?"
+      },
+      "opciones": [
+        {
+          "es": "Hasta 0.02",
+          "en": "Up to 0.02"
+        },
+        {
+          "es": "Hasta 0.05",
+          "en": "Up to 0.05"
+        },
+        {
+          "es": "Ninguna cantidad detectable",
+          "en": "No detectable amount"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Por la ley de tolerancia cero, cualquier cantidad detectable de alcohol al manejar es delito para un menor de 21, aunque esté por debajo de 0.08.",
+        "en": "Under zero tolerance, any detectable amount of alcohol while driving is an offense for someone under 21, even below 0.08."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 10 – Alcohol y drogas",
+        "pagina": 56,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0012",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Texas, un adulto se niega a dar una muestra de aliento o sangre cuando lo arrestan por DWI. ¿Qué pasa la primera vez?",
+        "en": "In Texas, an adult refuses a breath or blood test when arrested for DWI. What happens the first time?"
+      },
+      "opciones": [
+        {
+          "es": "Le suspenden la licencia por 180 días",
+          "en": "License suspended for 180 days"
+        },
+        {
+          "es": "Nada",
+          "en": "Nothing"
+        },
+        {
+          "es": "Le suspenden la licencia 30 días",
+          "en": "License suspended for 30 days"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La negativa trae 180 días de suspensión, y hasta 730 días si se repite. Con un resultado de 0.08 o más, la suspensión es de 90 días.",
+        "en": "A refusal brings a 180-day suspension, up to 730 days for repeat offenses. A result of 0.08 or more brings a 90-day suspension."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 10 – Alcohol y drogas",
+        "pagina": 58,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0013",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Texas, un menor de 21 da una muestra con alcohol detectable (pero menos de 0.08) por primera vez. ¿Qué pasa con su licencia?",
+        "en": "In Texas, a driver under 21 gives a sample with a detectable amount of alcohol (but under 0.08) for the first time. What happens to the license?"
+      },
+      "opciones": [
+        {
+          "es": "Nada, está debajo de 0.08",
+          "en": "Nothing, it's under 0.08"
+        },
+        {
+          "es": "Se suspende por 60 días",
+          "en": "Suspended for 60 days"
+        },
+        {
+          "es": "Se cancela para siempre",
+          "en": "Cancelled forever"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Primera vez: 60 días. Segunda: 120 días. Tercera o más: 180 días.",
+        "en": "First offense: 60 days. Second: 120 days. Third or more: 180 days."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 10 – Alcohol y drogas",
+        "pagina": 57,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0014",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Texas, un menor de 21 se niega por primera vez a dar una muestra de aliento o sangre. ¿Qué pasa?",
+        "en": "In Texas, a minor refuses to give a breath or blood sample for the first time. What happens?"
+      },
+      "opciones": [
+        {
+          "es": "Se le suspende la licencia por 180 días",
+          "en": "License suspended for 180 days"
+        },
+        {
+          "es": "Solo una advertencia",
+          "en": "Only a warning"
+        },
+        {
+          "es": "30 días de suspensión",
+          "en": "30-day suspension"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La primera negativa son 180 días de suspensión; la segunda y siguientes, 2 años.",
+        "en": "A first refusal is a 180-day suspension; second and later, 2 years."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 10 – Alcohol y drogas",
+        "pagina": 57,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0015",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Texas, ¿cuál es la multa máxima por tener un envase de alcohol abierto en la zona de pasajeros?",
+        "en": "In Texas, what is the maximum fine for an open container of alcohol in the passenger area?"
+      },
+      "opciones": [
+        {
+          "es": "$100",
+          "en": "$100"
+        },
+        {
+          "es": "$2,000",
+          "en": "$2,000"
+        },
+        {
+          "es": "$500",
+          "en": "$500"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Es ilegal tener un envase abierto en la zona de pasajeros en una vía pública, aunque el auto esté parado o estacionado. La multa puede llegar a $500.",
+        "en": "It is illegal to have an open container in the passenger area on a public road, even when stopped or parked. The fine can reach $500."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 10 – Alcohol y drogas",
+        "pagina": 56,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0016",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "¿Qué ayuda realmente a eliminar el alcohol del cuerpo?",
+        "en": "What actually helps remove alcohol from your body?"
+      },
+      "opciones": [
+        {
+          "es": "Tomar café negro",
+          "en": "Drinking black coffee"
+        },
+        {
+          "es": "Solo el tiempo: alrededor de una hora por cada bebida",
+          "en": "Only time: about one hour per drink"
+        },
+        {
+          "es": "Una ducha fría",
+          "en": "A cold shower"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "El café, las duchas frías o el ejercicio no te ponen sobrio. El cuerpo tarda aproximadamente una hora por cada bebida.",
+        "en": "Coffee, cold showers or exercise won't sober you up. The body needs about one hour per drink."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 10 – Alcohol y drogas",
+        "pagina": 56,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0017",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En Texas, ¿cuál es el límite de velocidad en un distrito urbano si no hay otra señal?",
+        "en": "In Texas, what is the speed limit in an urban district if no other sign is posted?"
+      },
+      "opciones": [
+        {
+          "es": "25 mph",
+          "en": "25 mph"
+        },
+        {
+          "es": "30 mph",
+          "en": "30 mph"
+        },
+        {
+          "es": "35 mph",
+          "en": "35 mph"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "El límite en distritos urbanos es 30 mph. En callejones y en playas o caminos junto a ellas (si el condado lo declara), 15 mph.",
+        "en": "The urban district limit is 30 mph. In alleys and on beaches or adjacent county roads (if declared), 15 mph."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 8 – Velocidad y límites",
+        "pagina": 46,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0018",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En Texas, ¿cuál es el límite de velocidad en un callejón (alley)?",
+        "en": "In Texas, what is the speed limit in an alley?"
+      },
+      "opciones": [
+        {
+          "es": "15 mph",
+          "en": "15 mph"
+        },
+        {
+          "es": "10 mph",
+          "en": "10 mph"
+        },
+        {
+          "es": "25 mph",
+          "en": "25 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En los callejones el límite es 15 mph.",
+        "en": "The limit in alleys is 15 mph."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 8 – Velocidad y límites",
+        "pagina": 46,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0019",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En Texas, en una carretera numerada (estatal o federal) fuera de la ciudad, ¿cuál es el límite para autos si no hay otra señal?",
+        "en": "In Texas, on a numbered state or U.S. highway outside an urban district, what is the car speed limit if no other sign is posted?"
+      },
+      "opciones": [
+        {
+          "es": "55 mph",
+          "en": "55 mph"
+        },
+        {
+          "es": "60 mph",
+          "en": "60 mph"
+        },
+        {
+          "es": "70 mph",
+          "en": "70 mph"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "En carreteras numeradas fuera de zonas urbanas, el límite es 70 mph. En las no numeradas, 60 mph. Algunas autopistas tienen de 75 a 85 mph señalizadas.",
+        "en": "On numbered highways outside urban districts, the limit is 70 mph. On unnumbered highways, 60 mph. Some highways are posted at 75 to 85 mph."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 8 – Velocidad y límites",
+        "pagina": 46,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0020",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En Texas, en una carretera no numerada fuera de la ciudad, ¿cuál es el límite para autos si no hay otra señal?",
+        "en": "In Texas, on an unnumbered highway outside an urban district, what is the car speed limit if no other sign is posted?"
+      },
+      "opciones": [
+        {
+          "es": "60 mph",
+          "en": "60 mph"
+        },
+        {
+          "es": "70 mph",
+          "en": "70 mph"
+        },
+        {
+          "es": "50 mph",
+          "en": "50 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Las carreteras no numeradas por Texas o EE. UU. fuera de zonas urbanas tienen un límite de 60 mph.",
+        "en": "Highways not numbered by Texas or the U.S. outside urban districts have a 60 mph limit."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 8 – Velocidad y límites",
+        "pagina": 46,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0021",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "Según el manual de Texas, a más de 30 mph y con buenas condiciones, ¿qué distancia de seguimiento debes mantener?",
+        "en": "According to the Texas handbook, above 30 mph in good conditions, what following distance should you keep?"
+      },
+      "opciones": [
+        {
+          "es": "1 segundo",
+          "en": "1 second"
+        },
+        {
+          "es": "4 segundos",
+          "en": "4 seconds"
+        },
+        {
+          "es": "2 segundos",
+          "en": "2 seconds"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "A 30 mph o menos, el mínimo es 2 segundos. A más de 30 mph, 4 segundos. Con mal tiempo, más todavía.",
+        "en": "At 30 mph or less, the minimum is 2 seconds. Above 30 mph, 4 seconds. More in poor conditions."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 8 – Distancia de seguimiento",
+        "pagina": 45,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0022",
+      "tema": "velocidad",
+      "senial": "S1-1",
+      "enunciado": {
+        "es": "En Texas, ¿qué no puedes hacer al manejar dentro de una zona escolar señalizada?",
+        "en": "In Texas, what may you not do while driving in a marked school zone?"
+      },
+      "opciones": [
+        {
+          "es": "Usar el teléfono u otro dispositivo de comunicación inalámbrica",
+          "en": "Use a phone or other wireless communication device"
+        },
+        {
+          "es": "Encender las luces",
+          "en": "Turn on your headlights"
+        },
+        {
+          "es": "Cambiar de carril",
+          "en": "Change lanes"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "El uso de dispositivos de comunicación inalámbrica está prohibido en las zonas escolares.",
+        "en": "Using a wireless communication device is prohibited in school zones."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 5 – Señales y marcas",
+        "pagina": 31,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0023",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Texas te acercas a un vehículo de emergencia detenido con luces encendidas, en una calle con límite de 45 mph y un solo carril en tu sentido. ¿Qué debes hacer?",
+        "en": "In Texas you approach a stopped emergency vehicle with lights on, on a 45 mph road with one lane in your direction. What must you do?"
+      },
+      "opciones": [
+        {
+          "es": "Seguir a 45 mph",
+          "en": "Keep going at 45 mph"
+        },
+        {
+          "es": "Detenerte por completo",
+          "en": "Stop completely"
+        },
+        {
+          "es": "Bajar a no más de 25 mph (20 mph menos que el límite)",
+          "en": "Slow to no more than 25 mph (20 mph below the limit)"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Si no puedes dejar libre el carril más cercano, reduce a 20 mph por debajo del límite. Si el límite es menor de 25 mph, ve a menos de 5 mph.",
+        "en": "If you can't vacate the closest lane, slow to 20 mph below the limit. If the limit is under 25 mph, go less than 5 mph."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 4 – Derecho de paso",
+        "pagina": 23,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0024",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Texas pasas junto a un vehículo de emergencia detenido con luces, en una calle con límite de 20 mph. ¿A qué velocidad debes ir?",
+        "en": "In Texas you pass a stopped emergency vehicle with lights on, on a 20 mph street. How fast must you go?"
+      },
+      "opciones": [
+        {
+          "es": "Menos de 5 mph",
+          "en": "Less than 5 mph"
+        },
+        {
+          "es": "15 mph",
+          "en": "15 mph"
+        },
+        {
+          "es": "10 mph",
+          "en": "10 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Cuando el límite es menor de 25 mph, hay que bajar a menos de 5 mph.",
+        "en": "When the limit is under 25 mph, you must slow to less than 5 mph."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 4 – Derecho de paso",
+        "pagina": 23,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0025",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Texas, la ley \"Slow Down or Move Over\" también protege a otros vehículos detenidos con luces encendidas. ¿Cuáles?",
+        "en": "In Texas, the \"Slow Down or Move Over\" law also protects other stopped vehicles with lights on. Which ones?"
+      },
+      "opciones": [
+        {
+          "es": "Solo patrullas de policía",
+          "en": "Only police cars"
+        },
+        {
+          "es": "Grúas, vehículos de servicios públicos y de TxDOT o de obras viales",
+          "en": "Tow trucks, utility vehicles and TxDOT or road maintenance vehicles"
+        },
+        {
+          "es": "Ninguno más",
+          "en": "No others"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Incluye ambulancias, policía, bomberos, grúas, vehículos de servicios públicos y de TxDOT. Con camiones de correo, reparto o basura, pasa con precaución y, si puedes, cámbiate de carril.",
+        "en": "It covers ambulances, police, fire trucks, tow trucks, utility and TxDOT vehicles. With mail, delivery or trash trucks, pass with caution and change lanes if possible."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 8 – Velocidad y límites",
+        "pagina": 46,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0026",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Texas, un autobús escolar detenido tiene encendidas las luces rojas intermitentes. ¿Cuándo puedes seguir?",
+        "en": "In Texas, a stopped school bus has its flashing red lights on. When may you go?"
+      },
+      "opciones": [
+        {
+          "es": "Cuando el autobús arranque, el conductor te haga señas o se apaguen las luces rojas",
+          "en": "When the bus moves, the driver signals you, or the red lights stop flashing"
+        },
+        {
+          "es": "Después de contar 10 segundos",
+          "en": "After counting 10 seconds"
+        },
+        {
+          "es": "Cuando no veas niños",
+          "en": "When you don't see children"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Debes detenerte desde cualquier dirección y no rebasar hasta que pase una de esas tres cosas.",
+        "en": "You must stop from either direction and not pass until one of those three things happens."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 4 – Derecho de paso",
+        "pagina": 23,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0027",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Texas, ¿cuándo no es necesario detenerse ante un autobús escolar con luces rojas?",
+        "en": "In Texas, when do you not have to stop for a school bus with flashing red lights?"
+      },
+      "opciones": [
+        {
+          "es": "Cuando vas en sentido contrario en cualquier calle",
+          "en": "When going the opposite way on any street"
+        },
+        {
+          "es": "Nunca",
+          "en": "Never"
+        },
+        {
+          "es": "Cuando el autobús está en otra calle, o en una autopista de acceso controlado en una zona de carga donde los peatones no pueden cruzar",
+          "en": "When the bus is on a different road, or on a controlled-access highway in a loading zone where pedestrians may not cross"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Son las únicas excepciones que menciona el manual de Texas. En cualquier otra calle, te detienes desde ambas direcciones.",
+        "en": "These are the only exceptions in the Texas handbook. On any other road, you stop from both directions."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 4 – Derecho de paso",
+        "pagina": 23,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0028",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Texas, ¿cuál es la multa por la primera condena por no detenerse ante un autobús escolar con luces rojas?",
+        "en": "In Texas, what is the fine for a first conviction for not stopping for a school bus with flashing red lights?"
+      },
+      "opciones": [
+        {
+          "es": "De $100 a $200",
+          "en": "$100 to $200"
+        },
+        {
+          "es": "De $500 a $1,250",
+          "en": "$500 to $1,250"
+        },
+        {
+          "es": "$50",
+          "en": "$50"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "La primera condena va de $500 a $1,250. Si se repite en 5 años, de $1,000 a $2,000 y posible suspensión de hasta seis meses.",
+        "en": "A first conviction is $500–$1,250. A repeat within 5 years: $1,000–$2,000 and possible suspension up to six months."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 4 – Derecho de paso",
+        "pagina": 23,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0029",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "Al estacionarte en paralelo en Texas, ¿a qué distancia máxima del borde de la acera puedes dejar el auto?",
+        "en": "When parallel parking in Texas, how far from the curb may you leave the car?"
+      },
+      "opciones": [
+        {
+          "es": "12 pulgadas",
+          "en": "12 inches"
+        },
+        {
+          "es": "24 pulgadas",
+          "en": "24 inches"
+        },
+        {
+          "es": "18 pulgadas",
+          "en": "18 inches"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Lo ideal es quedar a unas seis pulgadas, y nunca a más de 18 pulgadas del borde o de la orilla.",
+        "en": "Aim for about six inches, and never more than 18 inches from the curb or road edge."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 7 – Estacionar, parar o detenerse",
+        "pagina": 44,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0030",
+      "tema": "estacionamiento",
+      "senial": "R1-1",
+      "enunciado": {
+        "es": "En Texas, ¿a qué distancia mínima de una señal de ALTO, CEDA EL PASO o un semáforo al costado de la calle puedes estacionarte?",
+        "en": "In Texas, how close to a STOP sign, YIELD sign or traffic signal at the side of the road may you park?"
+      },
+      "opciones": [
+        {
+          "es": "30 pies",
+          "en": "30 feet"
+        },
+        {
+          "es": "10 pies",
+          "en": "10 feet"
+        },
+        {
+          "es": "15 pies",
+          "en": "15 feet"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "No se estaciona a menos de 30 pies de una señal de alto, ceda el paso, luz intermitente o semáforo al costado de la vía.",
+        "en": "No parking within 30 feet of a stop sign, yield sign, flashing signal or traffic signal at the roadside."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 7 – Estacionar, parar o detenerse",
+        "pagina": 42,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0031",
+      "tema": "estacionamiento",
+      "senial": "R15-1",
+      "enunciado": {
+        "es": "En Texas, ¿a qué distancia mínima del riel más cercano de un cruce de tren puedes estacionarte?",
+        "en": "In Texas, how close to the nearest rail of a railroad crossing may you park?"
+      },
+      "opciones": [
+        {
+          "es": "15 pies",
+          "en": "15 feet"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        },
+        {
+          "es": "25 pies",
+          "en": "25 feet"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "No estaciones, aunque haya alguien en el vehículo, a menos de 50 pies del riel más cercano.",
+        "en": "Do not park, even with someone in the vehicle, within 50 feet of the nearest rail."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 7 – Estacionar, parar o detenerse",
+        "pagina": 42,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0032",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "En Texas, ¿a qué distancia mínima de un cruce peatonal en una intersección puedes estacionarte?",
+        "en": "In Texas, how close to a crosswalk at an intersection may you park?"
+      },
+      "opciones": [
+        {
+          "es": "20 pies",
+          "en": "20 feet"
+        },
+        {
+          "es": "5 pies",
+          "en": "5 feet"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Hay que dejar al menos 20 pies desde el cruce peatonal en una intersección, y 20 pies desde la entrada de una estación de bomberos.",
+        "en": "Leave at least 20 feet from a crosswalk at an intersection, and 20 feet from a fire station driveway."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 7 – Estacionar, parar o detenerse",
+        "pagina": 42,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0033",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "¿Qué dice la ley de Texas sobre los mensajes de texto al manejar?",
+        "en": "What does Texas law say about texting while driving?"
+      },
+      "opciones": [
+        {
+          "es": "Se permiten en semáforos",
+          "en": "They are allowed at red lights"
+        },
+        {
+          "es": "Solo están prohibidos en autopistas",
+          "en": "They are only banned on highways"
+        },
+        {
+          "es": "Es ilegal leer, escribir o enviar mensajes en un dispositivo portátil",
+          "en": "It is illegal to read, write or send messages on a portable device"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Está prohibido para todos. Puedes usar el teléfono para llamar a la policía o en una emergencia. Si necesitas llamar, oríllate.",
+        "en": "It is banned for everyone. You may use a phone to contact police or in an emergency. If you must call, pull off the road."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 9 – Situaciones especiales de manejo",
+        "pagina": 54,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0034",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En Texas, ¿cuándo debes encender las luces delanteras?",
+        "en": "In Texas, when must you turn on your headlights?"
+      },
+      "opciones": [
+        {
+          "es": "Desde 30 minutos después de la puesta del sol hasta 30 minutos antes de la salida del sol, o cuando no se ve bien",
+          "en": "From 30 minutes after sunset to 30 minutes before sunrise, or whenever visibility is poor"
+        },
+        {
+          "es": "Solo después de medianoche",
+          "en": "Only after midnight"
+        },
+        {
+          "es": "Solo en autopistas",
+          "en": "Only on highways"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "También debes encenderlas siempre que no puedas ver bien a personas o vehículos a la distancia que indica la ley.",
+        "en": "You must also use them whenever you cannot clearly see people or vehicles at the distance the law requires."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 9 – Situaciones especiales de manejo",
+        "pagina": 47,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0035",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En Texas, ¿quiénes deben usar el cinturón de seguridad?",
+        "en": "In Texas, who must wear a safety belt?"
+      },
+      "opciones": [
+        {
+          "es": "Solo el conductor y el pasajero delantero",
+          "en": "Only the driver and front passenger"
+        },
+        {
+          "es": "El conductor y todos los pasajeros, sin importar la edad o el asiento",
+          "en": "The driver and all passengers, regardless of age or seat"
+        },
+        {
+          "es": "Solo los menores de 17",
+          "en": "Only those under 17"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Todos los ocupantes deben usarlo si el asiento tiene cinturón. El conductor recibe la multa si un menor de 17 no lo lleva.",
+        "en": "All occupants must wear one if the seat has a belt. The driver is fined if a passenger under 17 is unbelted."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 14 – Cinturones de seguridad",
+        "pagina": 64,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0036",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En Texas, ¿qué niños deben ir en un asiento de seguridad aprobado?",
+        "en": "In Texas, which children must ride in an approved car seat?"
+      },
+      "opciones": [
+        {
+          "es": "Los menores de 4 años",
+          "en": "Children under 4"
+        },
+        {
+          "es": "Los menores de 12 años",
+          "en": "Children under 12"
+        },
+        {
+          "es": "Los menores de 8 años, salvo que midan más de 4 pies y 9 pulgadas",
+          "en": "Children under 8, unless they are taller than 4'9\""
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los menores de 8 que miden 4 pies 9 pulgadas o menos van en un asiento de seguridad. La multa por no hacerlo es de $25 a $250.",
+        "en": "Children under 8 who are 4'9\" or shorter must ride in a car seat. The fine is $25 to $250."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 14 – Cinturones de seguridad",
+        "pagina": 64,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0037",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En Texas, un pasajero menor de 17 años viaja sin cinturón. ¿A quién multan y cuánto?",
+        "en": "In Texas, a passenger under 17 rides without a seat belt. Who is fined and how much?"
+      },
+      "opciones": [
+        {
+          "es": "Al pasajero, $25",
+          "en": "The passenger, $25"
+        },
+        {
+          "es": "Al conductor, de $100 a $200",
+          "en": "The driver, $100 to $200"
+        },
+        {
+          "es": "A nadie",
+          "en": "No one"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Si el pasajero es menor de 17, la multa de $100 a $200 es para el conductor. Desde los 15 años, el propio pasajero también puede recibir una multa.",
+        "en": "If the passenger is under 17, the driver gets the $100–$200 fine. Anyone 15 or older can also be ticketed themselves."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 14 – Cinturones de seguridad",
+        "pagina": 64,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0038",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Texas tienes un choque que no investiga la policía, con un lesionado o daños de $1,000 o más. ¿Qué debes hacer?",
+        "en": "In Texas you have a crash not investigated by police, with an injury or $1,000 or more in damage. What must you do?"
+      },
+      "opciones": [
+        {
+          "es": "Nada si nadie llamó a la policía",
+          "en": "Nothing if no one called police"
+        },
+        {
+          "es": "Avisar solo a tu aseguradora",
+          "en": "Only notify your insurer"
+        },
+        {
+          "es": "Presentar un informe escrito a TxDOT a más tardar 10 días después del choque",
+          "en": "File a written report with TxDOT no later than 10 days after the crash"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "El informe se hace en el formulario que indica TxDOT, disponible en txdot.gov.",
+        "en": "The report must be on TxDOT's form, available at txdot.gov."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 11 – Choques",
+        "pagina": 59,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0039",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Texas, chocas en la autopista, nadie está herido y los autos pueden circular. ¿Qué debes hacer?",
+        "en": "In Texas, you crash on the freeway, no one is hurt and the cars can be driven. What must you do?"
+      },
+      "opciones": [
+        {
+          "es": "Quedarte en el carril hasta que llegue la policía",
+          "en": "Stay in the lane until police arrive"
+        },
+        {
+          "es": "Mover los vehículos lo antes posible a un lugar seguro fuera de los carriles",
+          "en": "Move the vehicles as soon as possible to a safe place off the main lanes"
+        },
+        {
+          "es": "Irte sin dar tus datos",
+          "en": "Leave without giving your information"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Si los vehículos se pueden manejar, hay que moverlos a un sitio designado, la calle lateral o un cruce cercano, y después intercambiar datos.",
+        "en": "If the vehicles can be driven, move them to a designated site, the frontage road or a nearby cross street, then exchange information."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 11 – Choques",
+        "pagina": 59,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "TX-0040",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Texas chocas un auto estacionado sin nadie adentro. ¿Qué debes hacer?",
+        "en": "In Texas you hit an unattended parked car. What must you do?"
+      },
+      "opciones": [
+        {
+          "es": "Detenerte y buscar al dueño, o dejarle una nota visible con tu nombre, dirección y lo que pasó",
+          "en": "Stop and find the owner, or leave a visible note with your name, address and what happened"
+        },
+        {
+          "es": "Seguir si el daño es pequeño",
+          "en": "Keep going if the damage is minor"
+        },
+        {
+          "es": "Esperar 10 minutos y seguir",
+          "en": "Wait 10 minutes and leave"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Debes detenerte de inmediato y ubicar al dueño o dejar una nota bien sujeta y visible.",
+        "en": "You must stop immediately and locate the owner or securely attach a visible note."
+      },
+      "fuente": {
+        "manual": "TX",
+        "seccion": "Cap. 11 – Choques",
+        "pagina": 60,
+        "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf"
+      },
+      "revisada": false
+    }
+  ]
+}

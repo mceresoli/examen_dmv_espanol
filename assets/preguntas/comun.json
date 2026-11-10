@@ -1,0 +1,2366 @@
+{
+  "estado": "COMUN",
+  "version": "2026-11-06",
+  "preguntas": [
+    {
+      "id": "COMUN-0001",
+      "tema": "senales",
+      "senial": "R1-1",
+      "enunciado": {
+        "es": "¿Qué debes hacer al llegar a una señal de ALTO (STOP)?",
+        "en": "What must you do when you reach a STOP sign?"
+      },
+      "opciones": [
+        {
+          "es": "Hacer un alto total antes de la línea de alto o del cruce peatonal, y seguir cuando sea seguro",
+          "en": "Come to a complete stop before the limit line or crosswalk, and go when it is safe"
+        },
+        {
+          "es": "Bajar la velocidad y seguir si no viene nadie",
+          "en": "Slow down and keep going if no one is coming"
+        },
+        {
+          "es": "Detenerte solo si hay otros vehículos o peatones",
+          "en": "Stop only if there are other vehicles or pedestrians"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La señal de ALTO obliga a detenerse por completo, aunque no venga nadie. Si no hay línea de alto ni cruce peatonal, te detienes antes de entrar a la intersección.",
+        "en": "A STOP sign requires a complete stop even if no one is coming. If there is no limit line or crosswalk, stop before entering the intersection."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 35,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0002",
+      "tema": "senales",
+      "senial": "R1-2",
+      "enunciado": {
+        "es": "¿Qué significa la señal roja y blanca de CEDA EL PASO (YIELD)?",
+        "en": "What does the red and white YIELD sign mean?"
+      },
+      "opciones": [
+        {
+          "es": "Tienes prioridad sobre los demás vehículos",
+          "en": "You have the right-of-way over other vehicles"
+        },
+        {
+          "es": "Bajar la velocidad y estar listo para parar, para dejar pasar a vehículos, ciclistas y peatones",
+          "en": "Slow down and be ready to stop to let vehicles, bicyclists and pedestrians pass"
+        },
+        {
+          "es": "Prohibido seguir derecho",
+          "en": "Do not go straight"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Ceder el paso significa reducir la velocidad y, si hace falta, detenerte para que pasen primero los demás.",
+        "en": "Yield means slow down and, if needed, stop so others can go first."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 38,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0003",
+      "tema": "senales",
+      "senial": "W1-1R",
+      "enunciado": {
+        "es": "¿Qué indica una señal amarilla con forma de rombo (diamante)?",
+        "en": "What does a yellow diamond-shaped sign indicate?"
+      },
+      "opciones": [
+        {
+          "es": "Una regla que debes obedecer, como el límite de velocidad",
+          "en": "A rule you must obey, such as the speed limit"
+        },
+        {
+          "es": "Información de servicios, como gasolineras u hospitales",
+          "en": "Service information, such as gas stations or hospitals"
+        },
+        {
+          "es": "Que te acercas a una condición o un peligro específico",
+          "en": "That you are approaching a specific condition or hazard"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Las señales en forma de rombo son de advertencia: avisan de curvas, cruces, carriles que terminan y otros peligros.",
+        "en": "Diamond-shaped signs are warning signs: they warn of curves, crossings, ending lanes and other hazards."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 38,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0004",
+      "tema": "senales",
+      "senial": "S1-1",
+      "enunciado": {
+        "es": "Ves una señal de 5 lados (forma de casita). ¿Qué significa?",
+        "en": "You see a 5-sided sign. What does it mean?"
+      },
+      "opciones": [
+        {
+          "es": "Estás cerca de una escuela: maneja despacio y detente si hay niños en el cruce",
+          "en": "You are near a school: drive slowly and stop if children are in the crosswalk"
+        },
+        {
+          "es": "Hay un hospital más adelante",
+          "en": "There is a hospital ahead"
+        },
+        {
+          "es": "Zona de construcción",
+          "en": "Construction zone"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La señal pentagonal indica escuela o cruce escolar.",
+        "en": "The pentagon-shaped sign means a school or school crossing."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 38,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0005",
+      "tema": "senales",
+      "senial": "W10-1",
+      "enunciado": {
+        "es": "¿Qué indica una señal redonda amarilla con una X y las letras RR?",
+        "en": "What does a round yellow sign with an X and the letters RR mean?"
+      },
+      "opciones": [
+        {
+          "es": "Cruce de caminos rurales",
+          "en": "Rural road crossing"
+        },
+        {
+          "es": "Paso a nivel (cruce de tren) más adelante: mira, escucha, baja la velocidad y prepárate para parar",
+          "en": "Railroad crossing ahead: look, listen, slow down and be ready to stop"
+        },
+        {
+          "es": "Fin de la carretera",
+          "en": "End of road"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "La señal circular amarilla anuncia un cruce de vías de tren. Deja pasar cualquier tren antes de cruzar.",
+        "en": "The round yellow sign warns of a railroad crossing. Let any train pass before you cross."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 38,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0006",
+      "tema": "senales",
+      "senial": "R5-1",
+      "enunciado": {
+        "es": "¿Qué significa una señal roja y blanca que dice DO NOT ENTER?",
+        "en": "What does a red and white DO NOT ENTER sign mean?"
+      },
+      "opciones": [
+        {
+          "es": "No estacionar",
+          "en": "No parking"
+        },
+        {
+          "es": "Entrada solo para vehículos de emergencia",
+          "en": "Entrance for emergency vehicles only"
+        },
+        {
+          "es": "Prohibido entrar a esa calle o rampa",
+          "en": "Do not enter that road or ramp"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "DO NOT ENTER significa que no puedes entrar a la vía o rampa donde está la señal; suele indicar que irías en sentido contrario.",
+        "en": "DO NOT ENTER means you may not enter the road or ramp where the sign is posted; usually you would be going the wrong way."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 38,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0007",
+      "tema": "senales",
+      "senial": "R5-1a",
+      "enunciado": {
+        "es": "Manejando de noche, notas que los reflectores del pavimento se ven de color rojo. ¿Qué significa?",
+        "en": "Driving at night, you notice the reflectors on the pavement look red. What does it mean?"
+      },
+      "opciones": [
+        {
+          "es": "Que vas en sentido contrario",
+          "en": "That you are going the wrong way"
+        },
+        {
+          "es": "Que se acerca una zona escolar",
+          "en": "That a school zone is ahead"
+        },
+        {
+          "es": "Que la vía está mojada",
+          "en": "That the road is wet"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Los reflectores rojos indican que vas en contra del tráfico. Cuando sea seguro, retrocede o da vuelta en U.",
+        "en": "Red reflectors mean you are going against traffic. When it is safe, back out or make a U-turn."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 38,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0008",
+      "tema": "senales",
+      "senial": "R3-4",
+      "enunciado": {
+        "es": "¿Qué significa un círculo rojo con una línea roja cruzada sobre un dibujo?",
+        "en": "What does a red circle with a red slash over a picture mean?"
+      },
+      "opciones": [
+        {
+          "es": "Que lo que muestra el dibujo está permitido",
+          "en": "That what the picture shows is allowed"
+        },
+        {
+          "es": "Que lo que muestra el dibujo está prohibido",
+          "en": "That what the picture shows is not allowed"
+        },
+        {
+          "es": "Que es una advertencia de peligro",
+          "en": "That it is a hazard warning"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "El círculo rojo con la barra indica una prohibición, por ejemplo, prohibido dar vuelta en U.",
+        "en": "The red circle with a slash means something is prohibited, for example, no U-turn."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Señales de tránsito",
+        "pagina": 38,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0009",
+      "tema": "senales",
+      "enunciado": {
+        "es": "Estás detenido ante un semáforo en luz roja fija y quieres dar vuelta a la derecha. ¿Qué puedes hacer?",
+        "en": "You are stopped at a solid red light and want to turn right. What may you do?"
+      },
+      "opciones": [
+        {
+          "es": "Nunca se puede dar vuelta en luz roja",
+          "en": "You can never turn on a red light"
+        },
+        {
+          "es": "Dar vuelta sin detenerte si no viene nadie",
+          "en": "Turn without stopping if no one is coming"
+        },
+        {
+          "es": "Después de detenerte y ceder el paso a peatones y vehículos, dar vuelta si no hay una señal NO TURN ON RED",
+          "en": "After stopping and yielding to pedestrians and vehicles, turn if there is no NO TURN ON RED sign"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "En luz roja se puede dar vuelta a la derecha después de hacer alto total y ceder el paso, salvo que una señal lo prohíba.",
+        "en": "You may turn right on red after a full stop and yielding, unless a sign prohibits it."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 33,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0010",
+      "tema": "senales",
+      "enunciado": {
+        "es": "¿Qué debes hacer ante un semáforo con luz roja intermitente?",
+        "en": "What should you do at a flashing red traffic light?"
+      },
+      "opciones": [
+        {
+          "es": "Detenerte por completo y seguir cuando sea seguro",
+          "en": "Come to a complete stop and go when it is safe"
+        },
+        {
+          "es": "Bajar la velocidad y seguir con precaución, sin detenerte",
+          "en": "Slow down and proceed with caution without stopping"
+        },
+        {
+          "es": "Esperar a que la luz cambie a verde",
+          "en": "Wait for the light to turn green"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La luz roja intermitente se trata igual que una señal de ALTO.",
+        "en": "A flashing red light is treated the same as a STOP sign."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 33,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0011",
+      "tema": "senales",
+      "enunciado": {
+        "es": "¿Qué significa una luz amarilla fija en el semáforo?",
+        "en": "What does a solid yellow traffic light mean?"
+      },
+      "opciones": [
+        {
+          "es": "Acelera para cruzar antes de que cambie",
+          "en": "Speed up to cross before it changes"
+        },
+        {
+          "es": "La luz está por cambiar a rojo: detente si puedes hacerlo con seguridad",
+          "en": "The light is about to turn red: stop if you can do so safely"
+        },
+        {
+          "es": "Puedes seguir sin preocuparte",
+          "en": "You may continue without concern"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "La luz amarilla avisa que viene la roja. Si no puedes detenerte con seguridad, cruza con precaución.",
+        "en": "Yellow warns that red is coming. If you cannot stop safely, cross with caution."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 33,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0012",
+      "tema": "senales",
+      "enunciado": {
+        "es": "¿Qué significa una luz amarilla intermitente?",
+        "en": "What does a flashing yellow light mean?"
+      },
+      "opciones": [
+        {
+          "es": "Detente por completo",
+          "en": "Come to a complete stop"
+        },
+        {
+          "es": "El semáforo no funciona: trátalo como ALTO en todas las direcciones",
+          "en": "The signal is broken: treat it as an all-way stop"
+        },
+        {
+          "es": "Baja la velocidad y sigue con precaución; no hace falta parar",
+          "en": "Slow down and proceed with caution; you do not need to stop"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "La amarilla intermitente pide precaución, pero no obliga a detenerse.",
+        "en": "A flashing yellow light calls for caution but does not require you to stop."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 34,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0013",
+      "tema": "senales",
+      "enunciado": {
+        "es": "Quieres dar vuelta a la izquierda y ves una flecha amarilla intermitente. ¿Qué debes hacer?",
+        "en": "You want to turn left and see a flashing yellow arrow. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Dar vuelta después de ceder el paso al tráfico que viene de frente y a los peatones",
+          "en": "Turn after yielding to oncoming traffic and pedestrians"
+        },
+        {
+          "es": "Dar vuelta sin mirar: el tráfico de frente está detenido",
+          "en": "Turn without looking: oncoming traffic is stopped"
+        },
+        {
+          "es": "Esperar a que la flecha se ponga roja",
+          "en": "Wait for the arrow to turn red"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Con la flecha amarilla intermitente puedes dar vuelta, pero no estás protegido: primero cede el paso.",
+        "en": "With a flashing yellow arrow you may turn, but the turn is not protected: yield first."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 34,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0014",
+      "tema": "senales",
+      "enunciado": {
+        "es": "¿Qué significa una flecha verde en el semáforo?",
+        "en": "What does a green arrow on a traffic light mean?"
+      },
+      "opciones": [
+        {
+          "es": "Puedes dar vuelta en esa dirección, pero solo después de ceder el paso al tráfico de frente",
+          "en": "You may turn that way, but only after yielding to oncoming traffic"
+        },
+        {
+          "es": "Puedes dar vuelta en esa dirección; el tráfico de frente tiene luz roja",
+          "en": "You may turn that way; oncoming traffic has a red light"
+        },
+        {
+          "es": "Solo pueden seguir los vehículos de emergencia",
+          "en": "Only emergency vehicles may go"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "La flecha verde da una vuelta \"protegida\": los vehículos que vienen de frente están detenidos.",
+        "en": "A green arrow gives a protected turn: oncoming vehicles are stopped."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 34,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0015",
+      "tema": "senales",
+      "enunciado": {
+        "es": "Llegas a una intersección donde el semáforo está apagado porque no funciona. ¿Qué debes hacer?",
+        "en": "You reach an intersection where the traffic light is out. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Seguir sin parar: tiene prioridad la calle más ancha",
+          "en": "Keep going: the wider street has priority"
+        },
+        {
+          "es": "Tocar la bocina y cruzar",
+          "en": "Honk and cross"
+        },
+        {
+          "es": "Detenerte como si hubiera una señal de ALTO en todas las direcciones",
+          "en": "Stop as if there were a STOP sign in all directions"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Un semáforo que no funciona convierte la intersección en un ALTO en todas las direcciones.",
+        "en": "A traffic light that is out turns the intersection into an all-way stop."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 34,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0016",
+      "tema": "senales",
+      "enunciado": {
+        "es": "El semáforo peatonal muestra DON'T WALK (o la mano) intermitente y todavía hay un peatón cruzando. ¿Qué debes hacer?",
+        "en": "The pedestrian signal shows a flashing DON'T WALK (or hand) and a pedestrian is still crossing. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Cederle el paso hasta que termine de cruzar",
+          "en": "Yield until the pedestrian finishes crossing"
+        },
+        {
+          "es": "Tocar la bocina para que se apure",
+          "en": "Honk so the pedestrian hurries"
+        },
+        {
+          "es": "Seguir: el peatón ya no tiene permiso para cruzar",
+          "en": "Go ahead: the pedestrian no longer has permission to cross"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Aunque la señal peatonal esté intermitente, los conductores deben ceder el paso a los peatones.",
+        "en": "Even when the pedestrian signal is flashing, drivers must yield to pedestrians."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 35,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0017",
+      "tema": "derecho_de_paso",
+      "enunciado": {
+        "es": "Llegas a una intersección sin señales de ALTO ni CEDA EL PASO al mismo tiempo que otro vehículo. ¿Quién pasa primero?",
+        "en": "You reach an intersection with no STOP or YIELD signs at the same time as another vehicle. Who goes first?"
+      },
+      "opciones": [
+        {
+          "es": "El vehículo que va más rápido",
+          "en": "The faster vehicle"
+        },
+        {
+          "es": "El vehículo que está a tu derecha",
+          "en": "The vehicle on your right"
+        },
+        {
+          "es": "El vehículo que está a tu izquierda",
+          "en": "The vehicle on your left"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Si llegan al mismo tiempo, cede el paso al vehículo, ciclista o peatón que está a tu derecha.",
+        "en": "If you arrive at the same time, yield to the vehicle, bicyclist or pedestrian on your right."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Reglas de preferencia de paso",
+        "pagina": 39,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0018",
+      "tema": "derecho_de_paso",
+      "enunciado": {
+        "es": "En una intersección en forma de \"T\" sin señales, ¿quién tiene la preferencia de paso?",
+        "en": "At a T intersection with no signs, who has the right-of-way?"
+      },
+      "opciones": [
+        {
+          "es": "Los vehículos que circulan por la vía que sigue derecho",
+          "en": "Vehicles on the through road"
+        },
+        {
+          "es": "Los vehículos que llegan por la vía que termina",
+          "en": "Vehicles on the road that ends"
+        },
+        {
+          "es": "El vehículo más grande",
+          "en": "The larger vehicle"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En una \"T\", tienen preferencia los que van por la vía principal, la que sigue derecho.",
+        "en": "At a T intersection, traffic on the through (main) road has the right-of-way."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Reglas de preferencia de paso",
+        "pagina": 39,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0019",
+      "tema": "derecho_de_paso",
+      "enunciado": {
+        "es": "Vas a dar vuelta a la izquierda en una intersección. ¿A quién debes cederle el paso?",
+        "en": "You are turning left at an intersection. Whom must you yield to?"
+      },
+      "opciones": [
+        {
+          "es": "A nadie: quien da vuelta tiene prioridad",
+          "en": "No one: the turning driver has priority"
+        },
+        {
+          "es": "Solo a los vehículos de emergencia",
+          "en": "Only to emergency vehicles"
+        },
+        {
+          "es": "A los peatones y a los vehículos que vienen de frente lo bastante cerca como para ser un peligro",
+          "en": "To pedestrians and to oncoming vehicles close enough to be a hazard"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Antes de dar vuelta a la izquierda, cede el paso a los peatones y al tráfico que viene de frente.",
+        "en": "Before turning left, yield to pedestrians and oncoming traffic."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Reglas de preferencia de paso",
+        "pagina": 39,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0020",
+      "tema": "derecho_de_paso",
+      "enunciado": {
+        "es": "Tu semáforo cambia a verde, pero un peatón todavía está cruzando delante de ti. ¿Qué haces?",
+        "en": "Your light turns green, but a pedestrian is still crossing in front of you. What do you do?"
+      },
+      "opciones": [
+        {
+          "es": "Esperas a que termine de cruzar y después sigues",
+          "en": "Wait for the pedestrian to finish crossing, then go"
+        },
+        {
+          "es": "Sigues: con luz verde tienes la preferencia",
+          "en": "Go ahead: with a green light you have the right-of-way"
+        },
+        {
+          "es": "Le tocas la bocina para avisarle",
+          "en": "Honk to warn the pedestrian"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Con luz verde igual debes ceder el paso a cualquier vehículo, ciclista o peatón que todavía esté en la intersección.",
+        "en": "Even on green you must yield to any vehicle, bicyclist or pedestrian still in the intersection."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Semáforos",
+        "pagina": 34,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0021",
+      "tema": "derecho_de_paso",
+      "enunciado": {
+        "es": "Tienes luz verde, pero el tráfico está detenido del otro lado de la intersección y no hay lugar para tu vehículo. ¿Qué debes hacer?",
+        "en": "You have a green light, but traffic is backed up on the other side of the intersection and there is no room for your vehicle. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Entrar igual: tienes luz verde",
+          "en": "Enter anyway: you have a green light"
+        },
+        {
+          "es": "Esperar antes de la intersección hasta que haya espacio para cruzarla completa",
+          "en": "Wait before the intersection until there is room to cross completely"
+        },
+        {
+          "es": "Entrar y esperar en el medio de la intersección",
+          "en": "Enter and wait in the middle of the intersection"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Es contra la ley bloquear una intersección: no entres si no puedes cruzarla antes de que cambie el semáforo.",
+        "en": "It is illegal to block an intersection: do not enter unless you can get all the way across before the light changes."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Reglas de preferencia de paso",
+        "pagina": 39,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0022",
+      "tema": "derecho_de_paso",
+      "senial": "W4-1R",
+      "enunciado": {
+        "es": "Al incorporarte a una carretera desde una rampa de entrada, ¿quién tiene la preferencia de paso?",
+        "en": "When merging onto a highway from an on-ramp, who has the right-of-way?"
+      },
+      "opciones": [
+        {
+          "es": "Tú, porque vienes acelerando",
+          "en": "You, because you are accelerating"
+        },
+        {
+          "es": "El vehículo más grande",
+          "en": "The larger vehicle"
+        },
+        {
+          "es": "El tráfico que ya circula por los carriles de la carretera",
+          "en": "Traffic already traveling in the highway lanes"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Quien se incorpora debe ceder el paso al tráfico que ya está en los carriles.",
+        "en": "The merging driver must yield to traffic already in the lanes."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Reglas de preferencia de paso",
+        "pagina": 39,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0023",
+      "tema": "derecho_de_paso",
+      "enunciado": {
+        "es": "Al entrar a una glorieta (rotonda), ¿qué debes hacer?",
+        "en": "When entering a roundabout, what should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Bajar la velocidad y ceder el paso al tráfico que ya está en la glorieta",
+          "en": "Slow down and yield to traffic already in the roundabout"
+        },
+        {
+          "es": "Entrar rápido: tienes preferencia porque llegas",
+          "en": "Enter quickly: you have priority because you are arriving"
+        },
+        {
+          "es": "Detenerte siempre dentro de la glorieta antes de salir",
+          "en": "Always stop inside the roundabout before exiting"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En la glorieta tiene preferencia quien ya está circulando. Entra por la derecha cuando haya espacio.",
+        "en": "In a roundabout, traffic already circulating has the right-of-way. Enter to the right when there is room."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Glorietas",
+        "pagina": 40,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0024",
+      "tema": "derecho_de_paso",
+      "enunciado": {
+        "es": "¿En qué sentido se circula dentro de una glorieta (rotonda)?",
+        "en": "Which direction do you travel in a roundabout?"
+      },
+      "opciones": [
+        {
+          "es": "En el sentido de las manecillas del reloj",
+          "en": "Clockwise"
+        },
+        {
+          "es": "En sentido contrario a las manecillas del reloj",
+          "en": "Counterclockwise"
+        },
+        {
+          "es": "Depende de hacia dónde quieras salir",
+          "en": "It depends on where you want to exit"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "En EE. UU. las glorietas se recorren en sentido contrario a las manecillas del reloj, siempre por la derecha de la isleta central.",
+        "en": "In the U.S., roundabouts are driven counterclockwise, keeping the central island on your left."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Glorietas",
+        "pagina": 40,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0025",
+      "tema": "peatones_ciclistas",
+      "senial": "W11-2",
+      "enunciado": {
+        "es": "¿Cuándo tienen los peatones la preferencia de paso en un cruce peatonal?",
+        "en": "When do pedestrians have the right-of-way in a crosswalk?"
+      },
+      "opciones": [
+        {
+          "es": "Solo si el cruce está pintado",
+          "en": "Only if the crosswalk is marked"
+        },
+        {
+          "es": "Solo si hay semáforo",
+          "en": "Only if there is a traffic light"
+        },
+        {
+          "es": "Siempre, esté el cruce marcado o no",
+          "en": "Always, whether the crosswalk is marked or not"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los peatones tienen la preferencia de paso en los cruces peatonales, marcados o no. Si hay línea de alto, detente en ella.",
+        "en": "Pedestrians have the right-of-way in crosswalks, marked or unmarked. If there is a limit line, stop at it."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Peatones",
+        "pagina": 41,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0026",
+      "tema": "peatones_ciclistas",
+      "enunciado": {
+        "es": "Un vehículo se detuvo delante de un cruce peatonal en el carril de al lado. ¿Qué debes hacer?",
+        "en": "A vehicle has stopped at a crosswalk in the lane next to you. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "No rebasarlo: puede haber un peatón cruzando que no ves",
+          "en": "Do not pass it: there may be a pedestrian crossing that you cannot see"
+        },
+        {
+          "es": "Rebasarlo con cuidado",
+          "en": "Pass it carefully"
+        },
+        {
+          "es": "Tocar la bocina y seguir",
+          "en": "Honk and keep going"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "No rebases a un vehículo detenido en un cruce peatonal: puede estar dejando cruzar a alguien que tú no ves.",
+        "en": "Do not pass a vehicle stopped at a crosswalk: it may be letting someone cross whom you cannot see."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Peatones",
+        "pagina": 41,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0027",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "Si tienes 21 años o más, ¿a partir de qué concentración de alcohol en la sangre (BAC) es ilegal manejar?",
+        "en": "If you are 21 or older, at what blood alcohol concentration (BAC) is it illegal to drive?"
+      },
+      "opciones": [
+        {
+          "es": "0.10 % o más",
+          "en": "0.10% or more"
+        },
+        {
+          "es": "0.08 % o más",
+          "en": "0.08% or more"
+        },
+        {
+          "es": "0.05 % o más",
+          "en": "0.05% or more"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Para conductores de 21 años o más, el límite legal es 0.08 %. Por debajo de ese valor igual pueden arrestarte si tu manejo está afectado.",
+        "en": "For drivers 21 or older, the legal limit is 0.08%. Below that you can still be arrested if your driving is impaired."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 9 – Alcohol y drogas/medicamentos",
+        "pagina": 73,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0028",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "Tu médico te recetó un medicamento que da sueño. ¿Puedes manejar después de tomarlo?",
+        "en": "Your doctor prescribed a medicine that makes you drowsy. Can you drive after taking it?"
+      },
+      "opciones": [
+        {
+          "es": "No, si afecta tu capacidad de manejar: la ley no distingue entre drogas ilegales y medicamentos",
+          "en": "No, if it affects your ability to drive: the law does not distinguish between illegal drugs and medicines"
+        },
+        {
+          "es": "Sí, porque es un medicamento recetado",
+          "en": "Yes, because it is a prescription medicine"
+        },
+        {
+          "es": "Sí, si lo compraste en una farmacia",
+          "en": "Yes, if you bought it at a pharmacy"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Manejar bajo los efectos de cualquier droga o medicamento que afecte tu manejo es ilegal, aunque sea recetado o de venta libre. Lee las etiquetas.",
+        "en": "Driving under the influence of any drug or medicine that affects your driving is illegal, even if prescribed or over-the-counter. Read the labels."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 9 – Alcohol y drogas/medicamentos",
+        "pagina": 72,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0029",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "Llevas una botella de alcohol abierta en el auto. ¿Dónde debe ir?",
+        "en": "You have an open bottle of alcohol in the car. Where must it be?"
+      },
+      "opciones": [
+        {
+          "es": "En la guantera",
+          "en": "In the glove compartment"
+        },
+        {
+          "es": "Debajo del asiento del conductor",
+          "en": "Under the driver's seat"
+        },
+        {
+          "es": "En la cajuela (maletero), fuera de donde viajan las personas",
+          "en": "In the trunk, away from where people ride"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Es ilegal llevar un envase de alcohol abierto en la parte del vehículo donde viajan el conductor y los pasajeros, incluida la guantera. Debe ir en la cajuela.",
+        "en": "It is illegal to have an open container of alcohol in the passenger area of the vehicle, including the glove compartment. It must be in the trunk."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 9 – Alcohol y drogas/medicamentos",
+        "pagina": 72,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0030",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "Un policía sospecha que manejas bajo los efectos del alcohol y te pide una prueba de aliento o de sangre. ¿Qué pasa si te niegas?",
+        "en": "A police officer suspects you are driving under the influence and asks for a breath or blood test. What happens if you refuse?"
+      },
+      "opciones": [
+        {
+          "es": "Nada, porque la prueba es voluntaria",
+          "en": "Nothing, because the test is voluntary"
+        },
+        {
+          "es": "Te suspenden o revocan la licencia",
+          "en": "Your license is suspended or revoked"
+        },
+        {
+          "es": "Solo te ponen una multa pequeña",
+          "en": "You only get a small fine"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Al manejar aceptas someterte a la prueba (consentimiento implícito). Si te niegas, pierdes el privilegio de manejar.",
+        "en": "By driving you agree to be tested (implied consent). If you refuse, you lose your driving privilege."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 9 – Alcohol y drogas/medicamentos",
+        "pagina": 74,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0031",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "Tu concentración de alcohol en la sangre está por debajo del límite legal. ¿Qué es verdad?",
+        "en": "Your blood alcohol concentration is below the legal limit. Which is true?"
+      },
+      "opciones": [
+        {
+          "es": "Igual pueden arrestarte si el alcohol afecta tu manejo",
+          "en": "You can still be arrested if alcohol is affecting your driving"
+        },
+        {
+          "es": "Puedes manejar sin ningún riesgo",
+          "en": "You can drive with no risk at all"
+        },
+        {
+          "es": "La policía no puede detenerte",
+          "en": "The police cannot stop you"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Estar debajo del límite no significa que puedas manejar con seguridad: casi todos sienten los efectos del alcohol con niveles más bajos.",
+        "en": "Being below the limit does not mean you can drive safely: almost everyone feels alcohol's effects at lower levels."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 9 – Alcohol y drogas/medicamentos",
+        "pagina": 73,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0032",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "¿Qué indican dos líneas amarillas continuas en el centro de la vía?",
+        "en": "What do two solid yellow lines in the center of the road mean?"
+      },
+      "opciones": [
+        {
+          "es": "Que puedes rebasar si no viene nadie",
+          "en": "That you may pass if no one is coming"
+        },
+        {
+          "es": "Que no debes cruzarlas para rebasar",
+          "en": "That you must not cross them to pass"
+        },
+        {
+          "es": "Que es un carril para bicicletas",
+          "en": "That it is a bicycle lane"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "No se cruzan para rebasar. Solo se pueden cruzar para dar vuelta a la izquierda hacia una entrada o camino particular.",
+        "en": "They must not be crossed to pass. You may cross them only to turn left into or out of a driveway or private road."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Demarcaciones en carriles",
+        "pagina": 13,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0033",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Hay una línea amarilla discontinua (cortada) de tu lado del centro de la vía. ¿Qué significa?",
+        "en": "There is a broken yellow line on your side of the center of the road. What does it mean?"
+      },
+      "opciones": [
+        {
+          "es": "Que puedes rebasar cuando sea seguro",
+          "en": "That you may pass when it is safe"
+        },
+        {
+          "es": "Que nunca puedes rebasar",
+          "en": "That you may never pass"
+        },
+        {
+          "es": "Que el carril termina más adelante",
+          "en": "That the lane ends ahead"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La línea amarilla discontinua de tu lado permite rebasar, pero solo cuando el camino está despejado.",
+        "en": "A broken yellow line on your side allows passing, but only when the way is clear."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Demarcaciones en carriles",
+        "pagina": 13,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0034",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "¿Qué separan las líneas blancas pintadas entre carriles?",
+        "en": "What do white lane lines separate?"
+      },
+      "opciones": [
+        {
+          "es": "Carriles con tráfico en sentidos opuestos",
+          "en": "Lanes with traffic going in opposite directions"
+        },
+        {
+          "es": "El carril de bicicletas del de autos",
+          "en": "The bike lane from car lanes"
+        },
+        {
+          "es": "Carriles con tráfico que va en el mismo sentido",
+          "en": "Lanes with traffic going in the same direction"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Las líneas blancas separan carriles que circulan en el mismo sentido. Las amarillas separan el tráfico de doble sentido.",
+        "en": "White lines separate lanes moving in the same direction. Yellow lines separate traffic moving in opposite directions."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Demarcaciones en carriles",
+        "pagina": 13,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0035",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "¿Para qué se usa el carril central marcado con líneas amarillas continuas y discontinuas a ambos lados?",
+        "en": "What is the center lane marked with solid and broken yellow lines on both sides used for?"
+      },
+      "opciones": [
+        {
+          "es": "Para rebasar a vehículos lentos",
+          "en": "To pass slow vehicles"
+        },
+        {
+          "es": "Para prepararse y dar vuelta a la izquierda (o en U)",
+          "en": "To prepare for and make a left turn (or U-turn)"
+        },
+        {
+          "es": "Para circular cuando hay mucho tráfico",
+          "en": "To drive in when traffic is heavy"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Es el carril central para dar vuelta a la izquierda. No es un carril para circular ni para rebasar.",
+        "en": "It is the center left-turn lane. It is not a travel lane or a passing lane."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Elegir y cambiar de carril",
+        "pagina": 16,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0036",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Antes de cambiar de carril, además de mirar los espejos, ¿qué debes hacer?",
+        "en": "Before changing lanes, besides checking your mirrors, what should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Tocar el claxon",
+          "en": "Honk your horn"
+        },
+        {
+          "es": "Reducir mucho la velocidad",
+          "en": "Slow down a lot"
+        },
+        {
+          "es": "Poner la luz direccional y mirar sobre tu hombro para revisar el punto ciego",
+          "en": "Signal and look over your shoulder to check your blind spot"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los espejos no muestran todo: gira la cabeza y mira sobre el hombro hacia donde vas a moverte.",
+        "en": "Mirrors do not show everything: turn your head and look over your shoulder toward where you will move."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Elegir y cambiar de carril",
+        "pagina": 15,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0037",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "¿Con cuánta anticipación debes poner la luz direccional antes de dar vuelta?",
+        "en": "How far ahead should you signal before turning?"
+      },
+      "opciones": [
+        {
+          "es": "Por lo menos 100 pies antes",
+          "en": "At least 100 feet before"
+        },
+        {
+          "es": "Justo al empezar a dar vuelta",
+          "en": "Just as you begin the turn"
+        },
+        {
+          "es": "Solo si hay otros vehículos cerca",
+          "en": "Only if other vehicles are nearby"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Hay que señalizar al menos 100 pies antes de dar vuelta, aunque no veas a nadie.",
+        "en": "You must signal at least 100 feet before turning, even if you do not see anyone."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 5 – Señales, claxon y luces delanteras",
+        "pagina": 11,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0038",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Un conductor saca el brazo izquierdo por la ventanilla y lo dobla hacia arriba. ¿Qué indica?",
+        "en": "A driver puts the left arm out the window and bends it upward. What does it signal?"
+      },
+      "opciones": [
+        {
+          "es": "Que va a dar vuelta a la izquierda",
+          "en": "A left turn"
+        },
+        {
+          "es": "Que va a dar vuelta a la derecha",
+          "en": "A right turn"
+        },
+        {
+          "es": "Que va a reducir la velocidad o parar",
+          "en": "Slowing down or stopping"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Brazo hacia arriba: vuelta a la derecha. Brazo extendido recto: vuelta a la izquierda. Brazo hacia abajo: reducir la velocidad o parar.",
+        "en": "Arm up: right turn. Arm straight out: left turn. Arm down: slow down or stop."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 5 – Señales, claxon y luces delanteras",
+        "pagina": 10,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0039",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Un conductor saca el brazo izquierdo y lo apunta hacia abajo. ¿Qué indica?",
+        "en": "A driver puts the left arm out and points it down. What does it signal?"
+      },
+      "opciones": [
+        {
+          "es": "Que va a dar vuelta a la izquierda",
+          "en": "A left turn"
+        },
+        {
+          "es": "Que te deja pasar",
+          "en": "That you may pass"
+        },
+        {
+          "es": "Que va a reducir la velocidad o parar",
+          "en": "Slowing down or stopping"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "El brazo hacia abajo es la señal de reducir la velocidad o detenerse.",
+        "en": "An arm pointing down signals slowing down or stopping."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 5 – Señales, claxon y luces delanteras",
+        "pagina": 10,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0040",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Esperas para dar vuelta a la izquierda mientras pasa el tráfico de frente. ¿Cómo debes tener las ruedas?",
+        "en": "You are waiting to turn left while oncoming traffic passes. How should your wheels be?"
+      },
+      "opciones": [
+        {
+          "es": "Rectas, apuntando hacia adelante, hasta que puedas empezar a dar vuelta",
+          "en": "Straight ahead until you can start the turn"
+        },
+        {
+          "es": "Giradas a la izquierda para salir más rápido",
+          "en": "Turned left so you can go faster"
+        },
+        {
+          "es": "Giradas a la derecha",
+          "en": "Turned right"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Si las ruedas apuntan a la izquierda y te chocan por detrás, el auto puede terminar en el tráfico que viene de frente.",
+        "en": "If your wheels point left and you are hit from behind, you could be pushed into oncoming traffic."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Vueltas",
+        "pagina": 19,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0041",
+      "tema": "carriles_giros",
+      "senial": "R4-1",
+      "enunciado": {
+        "es": "¿Dónde está prohibido rebasar a otro vehículo?",
+        "en": "Where is it illegal to pass another vehicle?"
+      },
+      "opciones": [
+        {
+          "es": "En una autopista de varios carriles",
+          "en": "On a multilane freeway"
+        },
+        {
+          "es": "A menos de 100 pies de una intersección, un puente, un túnel o un paso a nivel",
+          "en": "Within 100 feet of an intersection, bridge, tunnel or railroad crossing"
+        },
+        {
+          "es": "Cuando el otro vehículo va despacio",
+          "en": "When the other vehicle is going slowly"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "No rebases cerca de intersecciones, puentes, túneles, pasos a nivel, ni en cuestas o curvas donde no ves lo que viene.",
+        "en": "Do not pass near intersections, bridges, tunnels, railroad crossings, or on hills or curves where you cannot see ahead."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Incorporación, salida y rebasar",
+        "pagina": 24,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0042",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Al entrar a una autopista por la rampa, ¿a qué velocidad debes incorporarte?",
+        "en": "When entering a freeway from the on-ramp, at what speed should you merge?"
+      },
+      "opciones": [
+        {
+          "es": "Muy despacio, para no molestar",
+          "en": "Very slowly, so you don't bother anyone"
+        },
+        {
+          "es": "Detente al final de la rampa y espera",
+          "en": "Stop at the end of the ramp and wait"
+        },
+        {
+          "es": "A la misma o casi la misma velocidad que el tráfico de la autopista",
+          "en": "At or near the speed of freeway traffic"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Usa la rampa para tomar velocidad e incorpórate a un espacio libre. No te detengas salvo que sea absolutamente necesario.",
+        "en": "Use the ramp to build speed and merge into a gap. Do not stop unless absolutely necessary."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Incorporación, salida y rebasar",
+        "pagina": 23,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0043",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "Hay mucho tráfico o el clima está malo. ¿Qué debes hacer con la velocidad?",
+        "en": "Traffic is heavy or the weather is bad. What should you do about your speed?"
+      },
+      "opciones": [
+        {
+          "es": "Mantener el límite máximo señalado",
+          "en": "Keep to the posted maximum"
+        },
+        {
+          "es": "Manejar más despacio, según las condiciones",
+          "en": "Drive slower, according to conditions"
+        },
+        {
+          "es": "Ir más rápido para salir pronto de esa zona",
+          "en": "Go faster to get out of the area sooner"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Nunca debes ir más rápido de lo que es seguro para las condiciones, aunque el límite señalado sea mayor.",
+        "en": "Never drive faster than is safe for conditions, even if the posted limit is higher."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Congestión de tráfico o mal tiempo",
+        "pagina": 50,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0044",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "Tu vehículo empieza a hidroplanear (patinar sobre agua). ¿Qué haces?",
+        "en": "Your vehicle starts to hydroplane. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Frenar fuerte de inmediato",
+          "en": "Brake hard right away"
+        },
+        {
+          "es": "Acelerar para salir del agua",
+          "en": "Speed up to get through the water"
+        },
+        {
+          "es": "Reducir la velocidad poco a poco, sin frenar de golpe",
+          "en": "Slow down gradually, without slamming the brakes"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Frenar de golpe puede hacerte perder el control. Suelta el acelerador y baja la velocidad gradualmente.",
+        "en": "Braking suddenly can make you lose control. Ease off the gas and slow down gradually."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Manejo seguro",
+        "pagina": 62,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0045",
+      "tema": "velocidad",
+      "senial": "W8-5",
+      "enunciado": {
+        "es": "Tu vehículo derrapa sobre una superficie resbaladiza. ¿Qué debes hacer?",
+        "en": "Your vehicle skids on a slippery surface. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Quitar el pie del acelerador, no frenar y girar el volante en la dirección del derrape",
+          "en": "Ease off the gas, don't brake, and steer in the direction of the skid"
+        },
+        {
+          "es": "Frenar con fuerza y girar al lado contrario",
+          "en": "Brake hard and steer the opposite way"
+        },
+        {
+          "es": "Acelerar para recuperar el control",
+          "en": "Speed up to regain control"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Suelta lentamente el acelerador, no frenes y gira el volante hacia donde se va la parte trasera. Endereza al recuperar el control.",
+        "en": "Slowly ease off the gas, do not brake, and steer in the direction of the skid. Straighten as you regain control."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Manejo seguro",
+        "pagina": 60,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0046",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "Tienes que frenar de emergencia y tu auto tiene frenos ABS. ¿Qué haces?",
+        "en": "You must brake in an emergency and your car has ABS brakes. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Bombear el pedal varias veces",
+          "en": "Pump the brake pedal"
+        },
+        {
+          "es": "Pisar el freno con firmeza y mantenerlo",
+          "en": "Press the brake firmly and hold it"
+        },
+        {
+          "es": "Soltar el freno y usar el freno de mano",
+          "en": "Release the brake and use the parking brake"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Con ABS de cuatro ruedas, pisa el freno con firmeza y no lo sueltes: el sistema evita que las ruedas se bloqueen. Bombear es para autos sin ABS.",
+        "en": "With four-wheel ABS, press firmly and hold: the system keeps the wheels from locking. Pumping is for cars without ABS."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Manejo seguro",
+        "pagina": 60,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0047",
+      "tema": "velocidad",
+      "senial": "W8-5",
+      "enunciado": {
+        "es": "Empieza a llover después de muchos días secos. ¿Qué es verdad?",
+        "en": "It starts to rain after many dry days. Which is true?"
+      },
+      "opciones": [
+        {
+          "es": "La vía está más segura porque el agua limpia el pavimento",
+          "en": "The road is safer because the water cleans it"
+        },
+        {
+          "es": "No cambia nada",
+          "en": "Nothing changes"
+        },
+        {
+          "es": "El pavimento puede estar muy resbaladizo al principio: reduce la velocidad",
+          "en": "The pavement can be very slippery at first: slow down"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Al empezar a llover, el aceite y el polvo acumulados vuelven el pavimento muy resbaladizo.",
+        "en": "When rain begins, built-up oil and dust make the pavement very slippery."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Manejo seguro",
+        "pagina": 61,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0048",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Manejas de noche con luces altas y se acerca un vehículo de frente. ¿Cuándo debes cambiar a luces bajas?",
+        "en": "You are driving at night with high beams and a vehicle approaches from the front. When must you switch to low beams?"
+      },
+      "opciones": [
+        {
+          "es": "Por lo menos a 500 pies del vehículo",
+          "en": "At least 500 feet from the vehicle"
+        },
+        {
+          "es": "Cuando el otro conductor te haga cambio de luces",
+          "en": "When the other driver flashes you"
+        },
+        {
+          "es": "Solo si estás en la ciudad",
+          "en": "Only if you are in the city"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Cambia a luces bajas a 500 pies de un vehículo que viene de frente y a 300 pies de uno que vas siguiendo.",
+        "en": "Switch to low beams within 500 feet of an oncoming vehicle and 300 feet of a vehicle you are following."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 5 – Señales, claxon y luces delanteras",
+        "pagina": 11,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0049",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Vas detrás de otro vehículo de noche. ¿A qué distancia ya no puedes usar las luces altas?",
+        "en": "You are following another vehicle at night. Within what distance may you not use high beams?"
+      },
+      "opciones": [
+        {
+          "es": "A menos de 100 pies",
+          "en": "Within 100 feet"
+        },
+        {
+          "es": "A menos de 300 pies",
+          "en": "Within 300 feet"
+        },
+        {
+          "es": "A menos de 1,000 pies",
+          "en": "Within 1,000 feet"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "A menos de 300 pies del vehículo que vas siguiendo, usa las luces bajas para no encandilar al conductor.",
+        "en": "Within 300 feet of the vehicle ahead, use low beams so you don't blind the driver."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 5 – Señales, claxon y luces delanteras",
+        "pagina": 11,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0050",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Hay lluvia fuerte o niebla y tienes que usar el limpiaparabrisas. ¿Qué luces usas?",
+        "en": "There is heavy rain or fog and you need your wipers. Which lights should you use?"
+      },
+      "opciones": [
+        {
+          "es": "Luces altas, para ver más lejos",
+          "en": "High beams, to see farther"
+        },
+        {
+          "es": "Solo las luces de estacionamiento",
+          "en": "Parking lights only"
+        },
+        {
+          "es": "Luces bajas",
+          "en": "Low beams"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Con lluvia o niebla, las luces altas rebotan y empeoran la visibilidad. Usa las bajas. Manejar solo con luces de estacionamiento es ilegal.",
+        "en": "In rain or fog, high beams reflect back and make it harder to see. Use low beams. Driving with only parking lights is illegal."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 5 – Señales, claxon y luces delanteras",
+        "pagina": 11,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0051",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "¿Cómo revisas correctamente tu punto ciego?",
+        "en": "How do you correctly check your blind spot?"
+      },
+      "opciones": [
+        {
+          "es": "Girando la cabeza y mirando sobre el hombro, sin mover el volante",
+          "en": "Turning your head and looking over your shoulder, without moving the steering wheel"
+        },
+        {
+          "es": "Mirando solo el espejo retrovisor",
+          "en": "Looking only in the rearview mirror"
+        },
+        {
+          "es": "Girando todo el cuerpo y el volante",
+          "en": "Turning your whole body and the wheel"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Gira solo la cabeza para mirar por la ventanilla lateral. Si giras el cuerpo o el volante, el auto se puede desviar.",
+        "en": "Turn only your head to look through the side window. Turning your body or the wheel can make the car drift."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Manejo seguro",
+        "pagina": 58,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0052",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Vas detrás de un camión grande y no puedes ver sus espejos laterales. ¿Qué significa?",
+        "en": "You are behind a large truck and cannot see its side mirrors. What does it mean?"
+      },
+      "opciones": [
+        {
+          "es": "Que el camión va a frenar",
+          "en": "That the truck is about to brake"
+        },
+        {
+          "es": "Que el conductor del camión no te puede ver",
+          "en": "That the truck driver cannot see you"
+        },
+        {
+          "es": "Que estás a una distancia segura",
+          "en": "That you are at a safe distance"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Los camiones tienen puntos ciegos grandes. Si no ves sus espejos, estás en uno de ellos.",
+        "en": "Trucks have large blind spots. If you cannot see their mirrors, you are in one."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Compartir la vía (camiones)",
+        "pagina": 42,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0053",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Comparado con un auto, ¿cuánto espacio necesita un camión grande para detenerse a la misma velocidad?",
+        "en": "Compared with a car, how much room does a large truck need to stop at the same speed?"
+      },
+      "opciones": [
+        {
+          "es": "Lo mismo",
+          "en": "The same"
+        },
+        {
+          "es": "Menos, porque tiene más frenos",
+          "en": "Less, because it has more brakes"
+        },
+        {
+          "es": "Más distancia, porque tarda más en detenerse",
+          "en": "More distance, because it takes longer to stop"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los camiones tardan más en frenar. No te metas justo delante de ellos ni frenes de golpe frente a un camión.",
+        "en": "Trucks take longer to stop. Don't cut in right in front of them or brake suddenly ahead of one."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Compartir la vía (camiones)",
+        "pagina": 42,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0054",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Se te revienta una llanta mientras manejas. ¿Qué haces primero?",
+        "en": "You have a tire blowout while driving. What do you do first?"
+      },
+      "opciones": [
+        {
+          "es": "Sujetar el volante con ambas manos y quitar el pie del acelerador poco a poco",
+          "en": "Hold the wheel with both hands and slowly ease off the gas"
+        },
+        {
+          "es": "Frenar fuerte de inmediato",
+          "en": "Brake hard right away"
+        },
+        {
+          "es": "Girar rápido hacia la orilla",
+          "en": "Steer quickly to the shoulder"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Frenar o soltar el acelerador de golpe puede hacerte perder el control. Estabiliza el auto y después oríllate cuando sea seguro.",
+        "en": "Braking or lifting off the gas suddenly can cause loss of control. Stabilize the car, then pull over when safe."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Emergencias",
+        "pagina": 68,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0055",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Las ruedas derechas se salen del pavimento a la orilla. ¿Qué debes hacer?",
+        "en": "Your right wheels drift off the pavement onto the shoulder. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Girar el volante bruscamente para volver",
+          "en": "Jerk the wheel to get back on"
+        },
+        {
+          "es": "Sujetar firme el volante, soltar el acelerador, frenar suave y volver con cuidado",
+          "en": "Hold the wheel firmly, ease off the gas, brake gently and steer back carefully"
+        },
+        {
+          "es": "Acelerar para subir al pavimento",
+          "en": "Speed up to get back on the pavement"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Un volantazo puede mandarte al carril contrario. Baja la velocidad y regresa al pavimento con suavidad.",
+        "en": "Jerking the wheel can send you into oncoming traffic. Slow down and ease back onto the pavement."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 8 – Emergencias",
+        "pagina": 68,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0056",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "Te estacionas cuesta abajo junto a un borde de acera (cordón). ¿Hacia dónde giras las ruedas delanteras?",
+        "en": "You park downhill next to a curb. Which way do you turn your front wheels?"
+      },
+      "opciones": [
+        {
+          "es": "Hacia el borde de acera",
+          "en": "Toward the curb"
+        },
+        {
+          "es": "Hacia el centro de la calle",
+          "en": "Toward the center of the street"
+        },
+        {
+          "es": "Rectas",
+          "en": "Straight"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Cuesta abajo, gira las ruedas hacia el borde de acera para que, si el auto rueda, lo detenga la acera. Pon el freno de mano.",
+        "en": "Downhill, turn the wheels toward the curb so the curb stops the car if it rolls. Set the parking brake."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 27,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0057",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "Te estacionas cuesta arriba junto a un borde de acera. ¿Hacia dónde giras las ruedas delanteras?",
+        "en": "You park uphill next to a curb. Which way do you turn your front wheels?"
+      },
+      "opciones": [
+        {
+          "es": "Hacia el borde de acera",
+          "en": "Toward the curb"
+        },
+        {
+          "es": "Hacia el lado opuesto del borde de acera (al centro de la calle)",
+          "en": "Away from the curb (toward the center of the street)"
+        },
+        {
+          "es": "Rectas",
+          "en": "Straight"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Cuesta arriba con acera, gira las ruedas hacia el centro y deja que el auto ruede hacia atrás hasta que la rueda toque la acera.",
+        "en": "Uphill with a curb, turn the wheels away from the curb and let the car roll back until the wheel touches the curb."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 27,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0058",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "Te estacionas en una pendiente donde no hay borde de acera. ¿Hacia dónde giras las ruedas?",
+        "en": "You park on a hill where there is no curb. Which way do you turn your wheels?"
+      },
+      "opciones": [
+        {
+          "es": "Hacia el centro de la vía",
+          "en": "Toward the center of the road"
+        },
+        {
+          "es": "Rectas",
+          "en": "Straight"
+        },
+        {
+          "es": "Hacia la orilla de la vía (a la derecha)",
+          "en": "Toward the edge of the road (to the right)"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Sin acera, gira las ruedas hacia la orilla para que, si fallan los frenos, el auto no ruede hacia el tráfico.",
+        "en": "With no curb, turn the wheels toward the edge so the car won't roll into traffic if the brakes fail."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 27,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0059",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "¿A qué distancia mínima de una toma de agua para incendios (hidrante) puedes estacionarte?",
+        "en": "How close to a fire hydrant may you park?"
+      },
+      "opciones": [
+        {
+          "es": "5 pies",
+          "en": "5 feet"
+        },
+        {
+          "es": "15 pies",
+          "en": "15 feet"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Está prohibido estacionarse a menos de 15 pies de un hidrante.",
+        "en": "Parking within 15 feet of a fire hydrant is prohibited."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 28,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0060",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "¿Dónde está prohibido estacionarse?",
+        "en": "Where is it illegal to park?"
+      },
+      "opciones": [
+        {
+          "es": "En un cruce peatonal o frente a una entrada de autos",
+          "en": "In a crosswalk or in front of a driveway"
+        },
+        {
+          "es": "En una calle residencial",
+          "en": "On a residential street"
+        },
+        {
+          "es": "En un estacionamiento público",
+          "en": "In a public parking lot"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "No puedes estacionarte en cruces peatonales (marcados o no), sobre la acera ni bloqueando una entrada de autos.",
+        "en": "You may not park in a crosswalk (marked or not), on a sidewalk, or blocking a driveway."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 6 – Estacionamiento",
+        "pagina": 28,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0061",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "Escuchas una sirena y ves una ambulancia con luces rojas detrás de ti. ¿Qué haces?",
+        "en": "You hear a siren and see an ambulance with red lights behind you. What do you do?"
+      },
+      "opciones": [
+        {
+          "es": "Acelerar para no estorbar",
+          "en": "Speed up to stay out of the way"
+        },
+        {
+          "es": "Detenerte de inmediato en tu carril",
+          "en": "Stop immediately in your lane"
+        },
+        {
+          "es": "Orillarte a la derecha y detenerte hasta que pase",
+          "en": "Pull to the right edge and stop until it passes"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Cede el paso a los vehículos de emergencia: oríllate a la derecha y detente hasta que pasen.",
+        "en": "Yield to emergency vehicles: pull to the right edge and stop until they pass."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Vehículos de emergencia",
+        "pagina": 45,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0062",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "Estás cruzando una intersección cuando ves venir un vehículo de emergencia con la sirena encendida. ¿Qué haces?",
+        "en": "You are crossing an intersection when you see an emergency vehicle with its siren on. What do you do?"
+      },
+      "opciones": [
+        {
+          "es": "Te detienes en medio de la intersección",
+          "en": "Stop in the middle of the intersection"
+        },
+        {
+          "es": "Terminas de cruzar y, en cuanto sea seguro, te orillas a la derecha y paras",
+          "en": "Finish crossing and, as soon as it is safe, pull to the right and stop"
+        },
+        {
+          "es": "Das marcha atrás",
+          "en": "Back up"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Detenerte en la intersección bloquea el paso. Termina de cruzarla y después oríllate.",
+        "en": "Stopping in the intersection blocks the way. Clear it first, then pull over."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Vehículos de emergencia",
+        "pagina": 45,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0063",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "Te acercas a un vehículo de emergencia detenido en la orilla con las luces encendidas. ¿Qué debes hacer?",
+        "en": "You approach an emergency vehicle stopped on the shoulder with its lights flashing. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Cambiarte de carril para alejarte o, si no puedes, reducir la velocidad",
+          "en": "Move over a lane or, if you can't, slow down"
+        },
+        {
+          "es": "Seguir igual: está fuera de tu carril",
+          "en": "Keep going the same: it is out of your lane"
+        },
+        {
+          "es": "Tocar el claxon al pasar",
+          "en": "Honk as you pass"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Las leyes \"Move Over\" piden alejarte un carril o reducir la velocidad al pasar junto a vehículos de emergencia detenidos.",
+        "en": "\"Move Over\" laws require you to move over a lane or slow down when passing stopped emergency vehicles."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Vehículos de emergencia",
+        "pagina": 45,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0064",
+      "tema": "emergencias",
+      "senial": "R15-1",
+      "enunciado": {
+        "es": "Las señales de un paso a nivel indican que viene un tren. ¿Dónde te detienes?",
+        "en": "The signals at a railroad crossing show a train is coming. Where do you stop?"
+      },
+      "opciones": [
+        {
+          "es": "Justo sobre la primera vía, para ver mejor",
+          "en": "Right on the first track, to see better"
+        },
+        {
+          "es": "A no menos de 15 pies de la vía más cercana",
+          "en": "No closer than 15 feet from the nearest track"
+        },
+        {
+          "es": "A 2 pies de la barrera",
+          "en": "2 feet from the gate"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Detente por lo menos a 15 pies de la vía más cercana y espera a que pase el tren.",
+        "en": "Stop at least 15 feet from the nearest track and wait for the train to pass."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Pasos a nivel",
+        "pagina": 51,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0065",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En un paso a nivel, el tren ya pasó y la barrera empieza a subir, pero las luces rojas siguen intermitentes. ¿Qué haces?",
+        "en": "At a railroad crossing, the train has passed and the gate is rising, but the red lights are still flashing. What do you do?"
+      },
+      "opciones": [
+        {
+          "es": "Cruzas: la barrera ya está subiendo",
+          "en": "Cross: the gate is already going up"
+        },
+        {
+          "es": "Rodeas la barrera con cuidado",
+          "en": "Drive carefully around the gate"
+        },
+        {
+          "es": "Esperas a que las luces rojas se apaguen",
+          "en": "Wait until the red lights stop flashing"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "No cruces mientras las luces rojas estén intermitentes, aunque la barrera suba: puede venir otro tren.",
+        "en": "Do not cross while the red lights are flashing, even if the gate rises: another train may be coming."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Pasos a nivel",
+        "pagina": 51,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0066",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En una calle de dos carriles sin divisor, un autobús escolar se detiene con las luces rojas intermitentes. ¿Qué deben hacer los conductores?",
+        "en": "On a two-lane road with no median, a school bus stops with flashing red lights. What must drivers do?"
+      },
+      "opciones": [
+        {
+          "es": "Solo se detienen los que van detrás del autobús",
+          "en": "Only drivers behind the bus stop"
+        },
+        {
+          "es": "Se detienen los conductores que vienen en ambas direcciones",
+          "en": "Drivers coming from both directions stop"
+        },
+        {
+          "es": "Rebasan despacio",
+          "en": "Pass slowly"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Con las luces rojas encendidas, hay que detenerse en ambas direcciones hasta que se apaguen.",
+        "en": "With the red lights on, traffic in both directions must stop until they turn off."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – En proximidad de niños",
+        "pagina": 51,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0067",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "Un autobús escolar delante de ti enciende luces amarillas intermitentes. ¿Qué significa?",
+        "en": "A school bus ahead of you turns on flashing yellow lights. What does it mean?"
+      },
+      "opciones": [
+        {
+          "es": "Que se prepara para detenerse: reduce la velocidad y prepárate para parar",
+          "en": "It is preparing to stop: slow down and get ready to stop"
+        },
+        {
+          "es": "Que puedes rebasarlo rápido",
+          "en": "That you may pass it quickly"
+        },
+        {
+          "es": "Que el autobús está averiado",
+          "en": "That the bus has broken down"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Las luces amarillas avisan que el autobús va a detenerse y encenderá las rojas.",
+        "en": "The yellow lights warn that the bus is about to stop and turn on its red lights."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – En proximidad de niños",
+        "pagina": 50,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0068",
+      "tema": "peatones_ciclistas",
+      "enunciado": {
+        "es": "Un peatón con bastón blanco o perro guía está por cruzar la calle. ¿Qué debes hacer?",
+        "en": "A pedestrian with a white cane or guide dog is about to cross the street. What should you do?"
+      },
+      "opciones": [
+        {
+          "es": "Tocar el claxon para avisarle",
+          "en": "Honk to alert them"
+        },
+        {
+          "es": "Cederle el paso: tiene la preferencia en todo momento",
+          "en": "Yield: they always have the right-of-way"
+        },
+        {
+          "es": "Pasar antes de que empiece a cruzar",
+          "en": "Go before they start crossing"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Las personas ciegas tienen siempre la preferencia de paso. No les toques el claxon ni te detengas en medio del cruce.",
+        "en": "Blind pedestrians always have the right-of-way. Don't honk at them or stop in the middle of the crosswalk."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Peatones ciegos",
+        "pagina": 42,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "COMUN-0069",
+      "tema": "peatones_ciclistas",
+      "enunciado": {
+        "es": "¿En qué sentido deben circular los ciclistas en la calle?",
+        "en": "Which direction must bicyclists ride on the road?"
+      },
+      "opciones": [
+        {
+          "es": "En contra del tráfico, para ver los autos",
+          "en": "Against traffic, to see the cars"
+        },
+        {
+          "es": "Por donde quieran",
+          "en": "Any direction they want"
+        },
+        {
+          "es": "En el mismo sentido que el tráfico",
+          "en": "In the same direction as traffic"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los ciclistas circulan en el mismo sentido que los autos y deben respetar las mismas señales.",
+        "en": "Bicyclists ride in the same direction as cars and must obey the same signs and signals."
+      },
+      "fuente": {
+        "manual": "CA",
+        "seccion": "Sección 7 – Responsabilidades de los ciclistas",
+        "pagina": 47,
+        "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+      },
+      "revisada": false
+    }
+  ]
+}

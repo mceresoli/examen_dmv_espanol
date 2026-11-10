@@ -1,0 +1,1301 @@
+{
+  "estado": "FL",
+  "version": "2026-11-10",
+  "preguntas": [
+    {
+      "id": "FL-0001",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Florida, ¿cuál es la edad mínima para obtener la licencia de aprendiz (learner's license)?",
+        "en": "In Florida, what is the minimum age for a learner's license?"
+      },
+      "opciones": [
+        {
+          "es": "14 años",
+          "en": "14"
+        },
+        {
+          "es": "15 años",
+          "en": "15"
+        },
+        {
+          "es": "16 años",
+          "en": "16"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Con 15 años, el curso TLSAE y los exámenes de visión y de conocimientos Clase E puedes sacar la licencia de aprendiz.",
+        "en": "At 15, with the TLSAE course and the vision and Class E knowledge exams, you can get a learner's license."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 1 – Permiso de aprendizaje y licencia Clase E",
+        "pagina": 8,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0002",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Si eres menor de 18 años, ¿cuánto tiempo debes tener la licencia de aprendiz antes de sacar la licencia de conducir en Florida?",
+        "en": "If you are under 18, how long must you hold a learner's license before getting a driver license in Florida?"
+      },
+      "opciones": [
+        {
+          "es": "3 meses",
+          "en": "3 months"
+        },
+        {
+          "es": "6 meses",
+          "en": "6 months"
+        },
+        {
+          "es": "12 meses, o hasta cumplir 18 años, lo que ocurra primero",
+          "en": "12 months, or until you turn 18, whichever comes first"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Los menores de 18 deben tener la licencia de aprendiz 12 meses (o hasta cumplir 18) y no tener infracciones de tránsito en ese período.",
+        "en": "Drivers under 18 must hold the learner's license for 12 months (or until 18) without moving violations in that period."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 1 – Permiso de aprendizaje y licencia Clase E",
+        "pagina": 8,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0003",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "¿Cuántas horas de práctica al volante debe certificar un adulto para que un menor de 18 obtenga la licencia en Florida?",
+        "en": "How many hours of driving practice must an adult certify for a driver under 18 to get a license in Florida?"
+      },
+      "opciones": [
+        {
+          "es": "50 horas, de las cuales 10 de noche",
+          "en": "50 hours, including 10 at night"
+        },
+        {
+          "es": "20 horas, sin requisito nocturno",
+          "en": "20 hours, with no night requirement"
+        },
+        {
+          "es": "100 horas",
+          "en": "100 hours"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Un padre, tutor o adulto responsable de 21 años o más debe certificar al menos 50 horas al volante, 10 de ellas de noche.",
+        "en": "A parent, guardian or responsible adult 21 or older must certify at least 50 hours behind the wheel, 10 of them at night."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 1 – Permiso de aprendizaje y licencia Clase E",
+        "pagina": 8,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0004",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Nunca tuviste licencia de conducir. ¿Qué curso debes completar en Florida antes de solicitarla?",
+        "en": "You have never had a driver license. Which course must you complete in Florida before applying?"
+      },
+      "opciones": [
+        {
+          "es": "Un curso de manejo defensivo de 12 horas",
+          "en": "A 12-hour defensive driving course"
+        },
+        {
+          "es": "El curso de Educación sobre Leyes de Tráfico y Abuso de Sustancias (TLSAE)",
+          "en": "The Traffic Law and Substance Abuse Education (TLSAE) course"
+        },
+        {
+          "es": "Ninguno",
+          "en": "None"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Si nunca tuviste licencia en ningún estado o país, debes hacer el curso TLSAE antes de pedir la licencia de aprendiz o de conducir.",
+        "en": "If you have never held a license in any state or country, you must take the TLSAE course before applying for a learner's or driver license."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 1 – Permiso de aprendizaje y licencia Clase E",
+        "pagina": 9,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0005",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Con licencia de aprendiz en Florida, ¿quién debe acompañarte siempre al manejar?",
+        "en": "With a learner's license in Florida, who must always ride with you?"
+      },
+      "opciones": [
+        {
+          "es": "Cualquier persona mayor de 18 años",
+          "en": "Anyone over 18"
+        },
+        {
+          "es": "Un amigo con licencia",
+          "en": "A friend with a license"
+        },
+        {
+          "es": "Un conductor con licencia de 21 años o más",
+          "en": "A licensed driver 21 or older"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "El titular de una licencia de aprendiz debe ir acompañado por un conductor con licencia de 21 años o más.",
+        "en": "A learner's license holder must be accompanied by a licensed driver 21 or older."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Restricciones para menores",
+        "pagina": 25,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0006",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Durante los primeros 3 meses con licencia de aprendiz en Florida, ¿cuándo puedes manejar?",
+        "en": "During the first 3 months with a learner's license in Florida, when may you drive?"
+      },
+      "opciones": [
+        {
+          "es": "Solo durante el día",
+          "en": "Only during daylight hours"
+        },
+        {
+          "es": "Hasta las 10 p. m.",
+          "en": "Until 10 p.m."
+        },
+        {
+          "es": "A cualquier hora si vas acompañado",
+          "en": "At any hour if accompanied"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Los primeros 3 meses, solo de día. Después puedes manejar hasta las 10 p. m., siempre acompañado por un conductor de 21 años o más.",
+        "en": "For the first 3 months, daylight only. After that you may drive until 10 p.m., always with a licensed driver 21 or older."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Restricciones para menores",
+        "pagina": 25,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0007",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Tienes 16 años y licencia de conducir en Florida. ¿En qué horario no puedes manejar, salvo que vayas al trabajo o te acompañe un conductor de 21 años o más?",
+        "en": "You are 16 with a Florida driver license. During what hours may you not drive, unless going to or from work or with a licensed driver 21 or older?"
+      },
+      "opciones": [
+        {
+          "es": "Entre la 1 a. m. y las 5 a. m.",
+          "en": "Between 1 a.m. and 5 a.m."
+        },
+        {
+          "es": "Entre las 11 p. m. y las 6 a. m.",
+          "en": "Between 11 p.m. and 6 a.m."
+        },
+        {
+          "es": "Entre las 9 p. m. y las 6 a. m.",
+          "en": "Between 9 p.m. and 6 a.m."
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "A los 16, no se maneja de 11 p. m. a 6 a. m. A los 17, de 1 a. m. a 5 a. m. En ambos casos hay excepción para ir o volver del trabajo o con un conductor de 21 o más.",
+        "en": "At 16, no driving 11 p.m.–6 a.m. At 17, 1 a.m.–5 a.m. Both have exceptions for work or driving with a licensed adult 21 or older."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Restricciones para menores",
+        "pagina": 25,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0008",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Tienes 17 años y licencia de conducir en Florida. ¿En qué horario no puedes manejar solo, salvo para ir o volver del trabajo?",
+        "en": "You are 17 with a Florida driver license. During what hours may you not drive alone, unless going to or from work?"
+      },
+      "opciones": [
+        {
+          "es": "Entre las 11 p. m. y las 6 a. m.",
+          "en": "Between 11 p.m. and 6 a.m."
+        },
+        {
+          "es": "Entre la medianoche y las 6 a. m.",
+          "en": "Between midnight and 6 a.m."
+        },
+        {
+          "es": "Entre la 1 a. m. y las 5 a. m.",
+          "en": "Between 1 a.m. and 5 a.m."
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Con 17 años, la restricción es de 1 a. m. a 5 a. m., salvo trabajo o acompañado por un conductor de 21 años o más.",
+        "en": "At 17, the restriction is 1 a.m. to 5 a.m., unless driving for work or with a licensed driver 21 or older."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Restricciones para menores",
+        "pagina": 25,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0009",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Un conductor menor de 18 años acumula 6 puntos o más en 12 meses en Florida. ¿Qué pasa?",
+        "en": "A driver under 18 gets 6 or more points within 12 months in Florida. What happens?"
+      },
+      "opciones": [
+        {
+          "es": "Queda restringido durante un año a manejar solo por motivos de trabajo",
+          "en": "They are restricted for one year to driving for business purposes only"
+        },
+        {
+          "es": "Nada, el límite es 12 puntos",
+          "en": "Nothing, the limit is 12 points"
+        },
+        {
+          "es": "Pierde la licencia para siempre",
+          "en": "They lose the license forever"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Es la Restricción Obligatoria para Menores: un año manejando solo por trabajo, y 90 días más por cada punto adicional.",
+        "en": "It is the Mandatory Youthful Restriction: one year driving for business only, plus 90 days for each extra point."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Sistema de puntos",
+        "pagina": 29,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0010",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "En Florida, ¿qué pasa si acumulas 12 puntos en un período de 12 meses?",
+        "en": "In Florida, what happens if you get 12 points within 12 months?"
+      },
+      "opciones": [
+        {
+          "es": "Te ponen una advertencia",
+          "en": "You get a warning"
+        },
+        {
+          "es": "Te suspenden la licencia por 30 días",
+          "en": "Your license is suspended for 30 days"
+        },
+        {
+          "es": "Te suspenden la licencia por un año",
+          "en": "Your license is suspended for one year"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "12 puntos en 12 meses: 30 días de suspensión. 18 puntos en 18 meses: 3 meses. 24 puntos en 36 meses: 1 año.",
+        "en": "12 points in 12 months: 30-day suspension. 18 in 18 months: 3 months. 24 in 36 months: 1 year."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Sistema de puntos",
+        "pagina": 29,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0011",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "¿Qué seguro mínimo exige Florida para registrar un vehículo?",
+        "en": "What minimum insurance does Florida require to register a vehicle?"
+      },
+      "opciones": [
+        {
+          "es": "Solo seguro contra robo",
+          "en": "Theft insurance only"
+        },
+        {
+          "es": "$50,000 de responsabilidad por lesiones",
+          "en": "$50,000 bodily injury liability"
+        },
+        {
+          "es": "$10,000 de Protección contra Lesiones Personales (PIP) y $10,000 de Daños a la Propiedad (PDL)",
+          "en": "$10,000 Personal Injury Protection (PIP) and $10,000 Property Damage Liability (PDL)"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Florida exige PIP y PDL de al menos $10,000 cada uno, comprados a una aseguradora autorizada en el estado.",
+        "en": "Florida requires at least $10,000 each of PIP and PDL from an insurer licensed in the state."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Legislación de seguros",
+        "pagina": 23,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0012",
+      "tema": "licencia_leyes",
+      "enunciado": {
+        "es": "Al manejar en Florida, ¿qué debes llevar contigo sobre el seguro?",
+        "en": "When driving in Florida, what must you carry about your insurance?"
+      },
+      "opciones": [
+        {
+          "es": "La tarjeta de identificación del seguro de Florida o una prueba electrónica en el teléfono",
+          "en": "Your Florida insurance ID card or electronic proof on your phone"
+        },
+        {
+          "es": "Nada: la policía lo verifica sola",
+          "en": "Nothing: police check it themselves"
+        },
+        {
+          "es": "La póliza completa en papel",
+          "en": "The full paper policy"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Siempre lleva la tarjeta del seguro o la prueba electrónica. Si no, pueden darte una citación.",
+        "en": "Always carry your insurance card or electronic proof, or you may get a citation."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Legislación de seguros",
+        "pagina": 23,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0013",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Florida, un conductor menor de 21 años tiene un nivel de alcohol en sangre (BAL) de .02 o más. ¿Qué pasa?",
+        "en": "In Florida, a driver under 21 has a blood alcohol level (BAL) of .02 or higher. What happens?"
+      },
+      "opciones": [
+        {
+          "es": "Nada, el límite es .08",
+          "en": "Nothing, the limit is .08"
+        },
+        {
+          "es": "Le suspenden automáticamente la licencia por seis meses",
+          "en": "Their license is automatically suspended for six months"
+        },
+        {
+          "es": "Solo recibe una advertencia",
+          "en": "They only get a warning"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Es la ley de Tolerancia Cero: con .02 o más, seis meses de suspensión. Con .05 o más, además debe hacer un curso sobre abuso de sustancias.",
+        "en": "This is the Zero Tolerance law: .02 or higher means a six-month suspension. At .05 or higher, a substance abuse course is also required."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Alcohol y drogas (DUI)",
+        "pagina": 26,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0014",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Florida, te niegas por primera vez a hacer la prueba de alcohol cuando un agente te la pide. ¿Qué pasa?",
+        "en": "In Florida, you refuse a breath, blood or urine test for the first time when an officer asks. What happens?"
+      },
+      "opciones": [
+        {
+          "es": "Te suspenden automáticamente la licencia por un año",
+          "en": "Your license is automatically suspended for one year"
+        },
+        {
+          "es": "Nada, es voluntaria",
+          "en": "Nothing, it is voluntary"
+        },
+        {
+          "es": "Te suspenden la licencia 30 días",
+          "en": "Your license is suspended for 30 days"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Por la ley de consentimiento implícito, la primera negativa trae un año de suspensión. La segunda, 18 meses y un delito menor de primer grado.",
+        "en": "Under implied consent, a first refusal brings a one-year suspension. A second refusal: 18 months and a first-degree misdemeanor."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Alcohol y drogas (DUI)",
+        "pagina": 26,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0015",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Florida, ¿qué pasa si te niegas por segunda vez a la prueba de alcohol?",
+        "en": "In Florida, what happens if you refuse an alcohol test a second time?"
+      },
+      "opciones": [
+        {
+          "es": "Un año de suspensión",
+          "en": "A one-year suspension"
+        },
+        {
+          "es": "Solo una multa",
+          "en": "Only a fine"
+        },
+        {
+          "es": "18 meses de suspensión y un delito menor de primer grado",
+          "en": "An 18-month suspension and a first-degree misdemeanor"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "La segunda negativa es más grave: 18 meses de suspensión y se considera delito.",
+        "en": "A second refusal is more serious: an 18-month suspension and a criminal charge."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Alcohol y drogas (DUI)",
+        "pagina": 26,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0016",
+      "tema": "alcohol_drogas",
+      "enunciado": {
+        "es": "En Florida, ¿cuál es la revocación mínima de la licencia por una primera condena por DUI?",
+        "en": "In Florida, what is the minimum license revocation for a first DUI conviction?"
+      },
+      "opciones": [
+        {
+          "es": "30 días",
+          "en": "30 days"
+        },
+        {
+          "es": "180 días",
+          "en": "180 days"
+        },
+        {
+          "es": "5 años",
+          "en": "5 years"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "La primera condena por DUI trae, entre otras penas, revocación mínima de 180 días, multa de $500 a $1,000, 50 horas de servicio comunitario y escuela de DUI.",
+        "en": "A first DUI conviction brings, among other penalties, a minimum 180-day revocation, a $500–$1,000 fine, 50 hours of community service and DUI school."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Alcohol y drogas (DUI)",
+        "pagina": 26,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0017",
+      "tema": "velocidad",
+      "senial": "S5-1",
+      "enunciado": {
+        "es": "¿Cuál es el límite de velocidad estándar en una zona escolar de Florida?",
+        "en": "What is the standard speed limit in a Florida school zone?"
+      },
+      "opciones": [
+        {
+          "es": "15 mph",
+          "en": "15 mph"
+        },
+        {
+          "es": "25 mph",
+          "en": "25 mph"
+        },
+        {
+          "es": "20 mph",
+          "en": "20 mph"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "El límite estándar en zonas escolares de Florida es 20 mph. Las multas por exceso de velocidad se duplican en zonas escolares.",
+        "en": "The standard Florida school zone limit is 20 mph. Speeding fines double in school zones."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Límites de velocidad",
+        "pagina": 68,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0018",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "Si no hay otra señal, ¿cuál es el límite de velocidad en zonas municipales, comerciales o residenciales de Florida?",
+        "en": "With no other sign, what is the speed limit in Florida municipal, business or residential areas?"
+      },
+      "opciones": [
+        {
+          "es": "30 mph",
+          "en": "30 mph"
+        },
+        {
+          "es": "35 mph",
+          "en": "35 mph"
+        },
+        {
+          "es": "45 mph",
+          "en": "45 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En áreas municipales, comerciales o residenciales el máximo es 30 mph, salvo que se indique otra velocidad.",
+        "en": "In municipal, business or residential areas the maximum is 30 mph unless otherwise posted."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Límites de velocidad",
+        "pagina": 68,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0019",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "¿Cuál es el límite de velocidad máximo que puede haber en una carretera de Florida?",
+        "en": "What is the highest speed limit allowed on any Florida road?"
+      },
+      "opciones": [
+        {
+          "es": "65 mph",
+          "en": "65 mph"
+        },
+        {
+          "es": "70 mph",
+          "en": "70 mph"
+        },
+        {
+          "es": "75 mph",
+          "en": "75 mph"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "En Florida el límite nunca es mayor de 70 mph, que es el de las carreteras de acceso limitado.",
+        "en": "In Florida the limit is never higher than 70 mph, the limit on limited-access highways."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Exceso de velocidad",
+        "pagina": 29,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0020",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "En una autopista de Florida con límite de 70 mph, ¿cuál es la velocidad mínima?",
+        "en": "On a Florida highway posted at 70 mph, what is the minimum speed?"
+      },
+      "opciones": [
+        {
+          "es": "40 mph",
+          "en": "40 mph"
+        },
+        {
+          "es": "No hay velocidad mínima",
+          "en": "There is no minimum"
+        },
+        {
+          "es": "50 mph",
+          "en": "50 mph"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Manejar demasiado despacio también es ilegal. Donde el límite es 70 mph, el mínimo es 50 mph.",
+        "en": "Driving too slowly is also illegal. Where the limit is 70 mph, the minimum is 50 mph."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Límites de velocidad",
+        "pagina": 68,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0021",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "¿Qué pasa con las multas por exceso de velocidad en una zona escolar o de construcción en Florida?",
+        "en": "What happens to speeding fines in a school or construction zone in Florida?"
+      },
+      "opciones": [
+        {
+          "es": "Se duplican",
+          "en": "They double"
+        },
+        {
+          "es": "Son iguales que en otras zonas",
+          "en": "They are the same as elsewhere"
+        },
+        {
+          "es": "Solo te dan una advertencia",
+          "en": "You only get a warning"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Las multas se duplican en zonas escolares y de construcción, y puede exigirse un curso de manejo.",
+        "en": "Fines double in school and construction zones, and a driving course may be required."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Exceso de velocidad",
+        "pagina": 29,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0022",
+      "tema": "velocidad",
+      "enunciado": {
+        "es": "¿Está permitido ir hasta 10 mph por encima del límite en Florida?",
+        "en": "Is it allowed to drive up to 10 mph over the limit in Florida?"
+      },
+      "opciones": [
+        {
+          "es": "Sí, es un margen de tolerancia legal",
+          "en": "Yes, it is a legal buffer"
+        },
+        {
+          "es": "No: el \"margen\" es un mito y te pueden multar",
+          "en": "No: the \"buffer\" is a myth and you can be ticketed"
+        },
+        {
+          "es": "Solo en autopistas",
+          "en": "Only on highways"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "El manual de Florida aclara que no hay margen: cualquier exceso del límite puede recibir una citación.",
+        "en": "Florida's manual makes clear there is no buffer: any speed over the limit can be ticketed."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Límites de velocidad",
+        "pagina": 68,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0023",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Según el manual de Florida, ¿qué distancia de seguimiento mínima debes mantener en buenas condiciones?",
+        "en": "According to Florida's manual, what minimum following distance should you keep in good conditions?"
+      },
+      "opciones": [
+        {
+          "es": "Cuatro segundos",
+          "en": "Four seconds"
+        },
+        {
+          "es": "Dos segundos",
+          "en": "Two seconds"
+        },
+        {
+          "es": "Un largo de auto por cada 10 mph",
+          "en": "One car length per 10 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Florida pide al menos cuatro segundos detrás del vehículo de adelante, y más con mal tiempo o mucho tráfico.",
+        "en": "Florida calls for at least four seconds behind the vehicle ahead, and more in bad weather or heavy traffic."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Distancia de seguimiento",
+        "pagina": 61,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0024",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "Según la ley de Florida, ¿quiénes deben usar el cinturón de seguridad?",
+        "en": "Under Florida law, who must wear a seat belt?"
+      },
+      "opciones": [
+        {
+          "es": "Solo el conductor",
+          "en": "Only the driver"
+        },
+        {
+          "es": "Solo los menores de 18",
+          "en": "Only those under 18"
+        },
+        {
+          "es": "El conductor, los pasajeros del asiento delantero y todos los pasajeros menores de 18",
+          "en": "The driver, front-seat passengers and all passengers under 18"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "El conductor recibe la multa si un pasajero menor de 18 no va sujeto. Los pasajeros de 18 o más reciben su propia multa.",
+        "en": "The driver is ticketed if a passenger under 18 is unbuckled. Passengers 18 and older are ticketed themselves."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Cinturones de seguridad",
+        "pagina": 28,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0025",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "En Florida, ¿cómo deben viajar los niños menores de 4 años?",
+        "en": "In Florida, how must children under 4 ride?"
+      },
+      "opciones": [
+        {
+          "es": "Con el cinturón del auto",
+          "en": "With the car's seat belt"
+        },
+        {
+          "es": "En un asiento de seguridad para niños",
+          "en": "In a child safety seat"
+        },
+        {
+          "es": "En brazos de un adulto",
+          "en": "In an adult's arms"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "Los menores de 4 van en asiento de seguridad. Los de 4 y 5, en asiento de seguridad o elevador (booster).",
+        "en": "Children under 4 ride in a child safety seat. Ages 4 and 5 ride in a safety seat or booster seat."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Cinturones de seguridad",
+        "pagina": 28,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0026",
+      "tema": "seguridad",
+      "enunciado": {
+        "es": "¿Qué dice la ley de Florida sobre el teléfono al manejar?",
+        "en": "What does Florida law say about phones while driving?"
+      },
+      "opciones": [
+        {
+          "es": "Está permitido mandar mensajes en semáforos",
+          "en": "Texting is allowed at red lights"
+        },
+        {
+          "es": "Solo está prohibido en autopistas",
+          "en": "It is only banned on highways"
+        },
+        {
+          "es": "Es ilegal mandar mensajes de texto, y en zonas escolares o de trabajo no puedes usar el teléfono en la mano",
+          "en": "Texting is illegal, and in school or work zones you may not use a handheld phone"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "En Florida es ilegal manejar mientras mandas mensajes. En cruces y zonas escolares y en zonas de trabajo, tampoco puedes usar el teléfono en la mano.",
+        "en": "In Florida it is illegal to text while driving. In school crossings, school zones and work zones, handheld phone use is also banned."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 4 – Distracciones al conducir",
+        "pagina": 34,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0027",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En una carretera de varios carriles de Florida hay una patrulla, ambulancia o grúa detenida en la orilla con luces. ¿Qué debes hacer?",
+        "en": "On a Florida multilane road, a police car, ambulance or tow truck is stopped on the shoulder with lights flashing. What must you do?"
+      },
+      "opciones": [
+        {
+          "es": "Dejar libre el carril más cercano o, si no puedes, bajar a 20 mph por debajo del límite",
+          "en": "Move out of the closest lane or, if you can't, slow to 20 mph below the limit"
+        },
+        {
+          "es": "Bajar 5 mph",
+          "en": "Slow down 5 mph"
+        },
+        {
+          "es": "Detenerte detrás del vehículo",
+          "en": "Stop behind the vehicle"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La ley Move Over de Florida pide desocupar el carril más cercano. Si no es seguro, reduce a 20 mph por debajo del límite indicado.",
+        "en": "Florida's Move Over law requires vacating the closest lane. If that isn't safe, slow to 20 mph below the posted limit."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Ley Move Over",
+        "pagina": 65,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0028",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En una calle de dos carriles de Florida con límite de 20 mph, pasas junto a un vehículo de emergencia detenido con luces. ¿A qué velocidad debes ir?",
+        "en": "On a two-lane Florida road with a 20 mph limit, you pass a stopped emergency vehicle with lights flashing. How fast must you go?"
+      },
+      "opciones": [
+        {
+          "es": "15 mph",
+          "en": "15 mph"
+        },
+        {
+          "es": "5 mph",
+          "en": "5 mph"
+        },
+        {
+          "es": "20 mph",
+          "en": "20 mph"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "En dos carriles se baja 20 mph por debajo del límite. Si el límite es 20 mph o menos, hay que ir a 5 mph.",
+        "en": "On two-lane roads, slow to 20 mph below the limit. If the limit is 20 mph or less, go 5 mph."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Ley Move Over",
+        "pagina": 65,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0029",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Florida, vas en sentido contrario a un autobús escolar detenido, en una carretera dividida por una mediana de tierra de 5 pies o más. ¿Qué debes hacer?",
+        "en": "In Florida, you are going the opposite way from a stopped school bus on a highway divided by an unpaved median 5 feet or wider. What must you do?"
+      },
+      "opciones": [
+        {
+          "es": "Detenerte igual que los que van detrás del autobús",
+          "en": "Stop just like drivers behind the bus"
+        },
+        {
+          "es": "Tocar el claxon y pasar",
+          "en": "Honk and pass"
+        },
+        {
+          "es": "No tienes que detenerte, pero sigues con precaución",
+          "en": "You do not have to stop, but proceed with caution"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Con una barrera elevada o mediana sin pavimentar de al menos 5 pies, el tráfico en sentido contrario no se detiene. Las líneas pintadas no cuentan como barrera.",
+        "en": "With a raised barrier or unpaved median at least 5 feet wide, opposite traffic need not stop. Painted lines do not count as a barrier."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Compartiendo la carretera – Autobuses escolares",
+        "pagina": 89,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0030",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Florida, una carretera de varios carriles está separada solo por líneas pintadas y un autobús escolar se detiene del otro lado con la señal de alto. ¿Qué haces?",
+        "en": "In Florida, a multilane road is separated only by painted lines, and a school bus stops on the other side with its stop arm out. What do you do?"
+      },
+      "opciones": [
+        {
+          "es": "Te detienes: las líneas pintadas no son una barrera",
+          "en": "Stop: painted lines are not a barrier"
+        },
+        {
+          "es": "Sigues, porque va en sentido contrario",
+          "en": "Keep going, because it is going the other way"
+        },
+        {
+          "es": "Bajas a 20 mph",
+          "en": "Slow to 20 mph"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Si no hay barrera elevada ni mediana de 5 pies, todos los vehículos de ambos sentidos deben detenerse.",
+        "en": "Without a raised barrier or a 5-foot median, vehicles in both directions must stop."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Compartiendo la carretera – Autobuses escolares",
+        "pagina": 89,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0031",
+      "tema": "emergencias",
+      "enunciado": {
+        "es": "En Florida, ¿cuál es la multa mínima por rebasar un autobús escolar detenido (sin contar el lado por donde suben y bajan los niños)?",
+        "en": "In Florida, what is the minimum fine for passing a stopped school bus (not on the side where children load)?"
+      },
+      "opciones": [
+        {
+          "es": "$100",
+          "en": "$100"
+        },
+        {
+          "es": "$265",
+          "en": "$265"
+        },
+        {
+          "es": "$1,000",
+          "en": "$1,000"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "La multa mínima es $265, más 4 puntos y un curso de manejo. Si pasas por el lado donde suben y bajan los menores, la mínima es $465.",
+        "en": "The minimum fine is $265, plus 4 points and a driver improvement course. Passing on the side where children load: minimum $465."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Cap. 3 – Rebasar a un autobús escolar",
+        "pagina": 27,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0032",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "Al estacionarte en paralelo en Florida, ¿a qué distancia máxima de la acera deben quedar las ruedas derechas?",
+        "en": "When parallel parking in Florida, how far from the curb may your right wheels be?"
+      },
+      "opciones": [
+        {
+          "es": "12 pulgadas (30 cm)",
+          "en": "12 inches (30 cm)"
+        },
+        {
+          "es": "18 pulgadas (45 cm)",
+          "en": "18 inches (45 cm)"
+        },
+        {
+          "es": "24 pulgadas (60 cm)",
+          "en": "24 inches (60 cm)"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "En Florida, las ruedas deben quedar paralelas y a menos de 12 pulgadas (30 cm) de la acera o del costado de la calzada.",
+        "en": "In Florida, your wheels must be parallel and within 12 inches (30 cm) of the curb or roadside."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Aparcamiento",
+        "pagina": 65,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0033",
+      "tema": "estacionamiento",
+      "senial": "R1-1",
+      "enunciado": {
+        "es": "En Florida, ¿a qué distancia mínima de una señal de PARE, un semáforo o una señal intermitente puedes estacionarte?",
+        "en": "In Florida, how close to a STOP sign, traffic signal or flashing signal may you park?"
+      },
+      "opciones": [
+        {
+          "es": "10 pies",
+          "en": "10 feet"
+        },
+        {
+          "es": "15 pies",
+          "en": "15 feet"
+        },
+        {
+          "es": "30 pies",
+          "en": "30 feet"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Está prohibido estacionar a menos de 30 pies de una señal de pare, semáforo o señal intermitente.",
+        "en": "Parking within 30 feet of a stop sign, traffic signal or flashing signal is prohibited."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Aparcar es ilegal",
+        "pagina": 66,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0034",
+      "tema": "estacionamiento",
+      "senial": "W10-1",
+      "enunciado": {
+        "es": "En Florida, ¿a qué distancia mínima de un cruce de ferrocarril puedes estacionarte?",
+        "en": "In Florida, how close to a railroad crossing may you park?"
+      },
+      "opciones": [
+        {
+          "es": "15 pies",
+          "en": "15 feet"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        },
+        {
+          "es": "100 pies",
+          "en": "100 feet"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "No se puede estacionar a menos de 50 pies de un cruce de ferrocarril.",
+        "en": "You may not park within 50 feet of a railroad crossing."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Aparcar es ilegal",
+        "pagina": 66,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0035",
+      "tema": "estacionamiento",
+      "enunciado": {
+        "es": "En Florida, ¿a qué distancia mínima de una intersección puedes estacionarte?",
+        "en": "In Florida, how close to an intersection may you park?"
+      },
+      "opciones": [
+        {
+          "es": "20 pies",
+          "en": "20 feet"
+        },
+        {
+          "es": "5 pies",
+          "en": "5 feet"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "Está prohibido estacionar a menos de 20 pies de una intersección, y también dentro de ella.",
+        "en": "Parking within 20 feet of an intersection, or in it, is prohibited."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Aparcar es ilegal",
+        "pagina": 66,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0036",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Al rebasar en una carretera de dos carriles en Florida, ¿cuándo debes volver a tu carril?",
+        "en": "When passing on a two-lane road in Florida, when must you return to your lane?"
+      },
+      "opciones": [
+        {
+          "es": "Cuando el vehículo que viene de frente esté a 50 pies",
+          "en": "When the oncoming vehicle is 50 feet away"
+        },
+        {
+          "es": "Cuando termines, sin importar el tráfico de frente",
+          "en": "When you're done, regardless of oncoming traffic"
+        },
+        {
+          "es": "Antes de estar a menos de 200 pies de un vehículo que viene de frente",
+          "en": "Before coming within 200 feet of an oncoming vehicle"
+        }
+      ],
+      "correcta": 2,
+      "explicacion": {
+        "es": "Debes volver al lado derecho antes de acercarte a menos de 200 pies de cualquier vehículo que viene en sentido contrario.",
+        "en": "You must return to the right side before coming within 200 feet of any oncoming vehicle."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Pasar",
+        "pagina": 67,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0037",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "En Florida, ¿cuándo no debes rebasar en una colina o curva?",
+        "en": "In Florida, when must you not pass on a hill or curve?"
+      },
+      "opciones": [
+        {
+          "es": "Nunca hay restricción",
+          "en": "There is never a restriction"
+        },
+        {
+          "es": "Cuando no puedes ver al menos 500 pies hacia adelante",
+          "en": "When you can't see at least 500 feet ahead"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        }
+      ],
+      "correcta": 1,
+      "explicacion": {
+        "es": "No rebases en colinas o curvas donde no ves por lo menos 500 pies adelante.",
+        "en": "Do not pass on hills or curves where you cannot see at least 500 feet ahead."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – No debe pasar",
+        "pagina": 67,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    },
+    {
+      "id": "FL-0038",
+      "tema": "carriles_giros",
+      "enunciado": {
+        "es": "Vas por el carril izquierdo en Florida y un vehículo más rápido se te acerca por detrás para pasarte. ¿Qué dice la ley?",
+        "en": "You are in the left lane in Florida and a faster vehicle comes up behind you to pass. What does the law say?"
+      },
+      "opciones": [
+        {
+          "es": "Debes salir del carril izquierdo para dejarlo pasar",
+          "en": "You must move out of the left lane to let it pass"
+        },
+        {
+          "es": "Puedes quedarte si vas al límite de velocidad",
+          "en": "You may stay if you are at the speed limit"
+        },
+        {
+          "es": "Debes acelerar",
+          "en": "You must speed up"
+        }
+      ],
+      "correcta": 0,
+      "explicacion": {
+        "es": "La ley de Florida exige dejar el carril izquierdo cuando te alcanza un vehículo más rápido. Al ser rebasado, no aumentes la velocidad.",
+        "en": "Florida law requires leaving the left lane when a faster vehicle approaches from behind. When being passed, don't speed up."
+      },
+      "fuente": {
+        "manual": "FL",
+        "seccion": "Seguridad al conducir – Ser adelantado",
+        "pagina": 67,
+        "url": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+      },
+      "revisada": false
+    }
+  ]
+}
